@@ -1,0 +1,16 @@
+# Angler Company (AnglerCompanyInstanceHelper): stages per mode, their maps, kind, boss (0 none) and skill bar
+mode	stage	fields	kind	boss	bar	note
+normal	1	993250000,993250200,993250400	module	0	72	
+normal	2	993250600	puzzle	9834483	73	Prototype Centurion
+normal	3	993250800	platform	0	74	
+normal	4	993251000	office	9834482	75	Angler Duke
+normal	5	993252000,993252200,993252400	module	0	72	
+normal	6	993252600	puzzle	9834483	76	Prototype Centurion
+normal	7	993252800	platform	0	74	
+normal	8	993253000	final	9834487	79	Triton
+story	1	993254000	module	0	77	
+story	2	993254100	puzzle	9834523	71	Prototype Centurion
+story	3	993254200	office	9834520	78	Angler Duke
+story	4	993254300	module	0	77	
+story	5	993254400	puzzle	9834523	71	Prototype Centurion
+story	6	993254500	final	9834524	80	Triton

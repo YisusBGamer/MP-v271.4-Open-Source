@@ -1,0 +1,9 @@
+# The Monster Park reward box of each day of the week (the reset day).
+day	box	note
+sunday	2434745	Growth Box
+monday	2434746	Crafting Box
+tuesday	2434747	Enhancement Box
+wednesday	2434748	Traits Box
+thursday	2434749	Honor Box
+friday	2434750	Mesos Box
+saturday	2434751	Monster Park Box

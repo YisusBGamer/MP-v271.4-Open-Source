@@ -1,0 +1,905 @@
+# v271 remote buff stats (USER_ENTER_FIELD / REMOTE_SET_TEMPORARY_STAT). Rows "B": the client's per-stat
+# blocks before its fixed 1 1 1 4, in read order: v271 index, widths, server name, value source (E<n> = the
+# n-th RemoteSecondaryStat entry, G = nOption [, rOption]). Rows "S": sendable stats (index, name).
+# Stats with a block after the fixed bytes, other widths, or no join are never sent. Generated.
+B	306	1	Speed	E0
+B	319	1	ComboCounter	-
+B	320	2 4	HammerOfTheRighteous	E2
+B	322	2 4	WeaponCharge	E3
+B	575	2	ElementalCharge	E4
+B	315	2 4	Stun	-
+B	396	2 4	-	-
+B	432	1	Shock	E6
+B	318	2 4	Darkness	E7
+B	317	2 4	Seal	E8
+B	329	2 4	Weakness	E9
+B	428	2 4	WeaknessMdamage	E10
+B	330	2 4	Curse	E11
+B	331	2 4	Slow	E12
+B	427	2 4	PvPRaceEffect	E13
+B	412	2 4	TimeBomb	E14
+B	415	1	Team	E15
+B	413	2 4	DisOrder	E16
+B	414	2 4	Thread	E17
+B	316	2	Poison	G
+B	316	2 4	Poison	G
+B	325	2 4	ShadowPartner	E19
+B	308	2 4	DarkSight	G
+B	332	2 4	Morph	E22
+B	349	2	Ghost	E23
+B	338	2 4	Attract	E24
+B	483	2 4	Magnet	E25
+B	484	2 4	MagnetArea	E26
+B	339	4	NoBulletConsume	E27
+B	344	2 4	BanMap	E28
+B	350	2 4	Barrier	E29
+B	359	2 4	DojangShield	E30
+B	351	2 4	ReverseInput	E31
+B	353	4	RespectPImmune	E32
+B	354	4	RespectMImmune	E33
+B	355	4	DefenseAtt	E34
+B	356	4	DefenseState	E35
+B	357	2 4	DojangBerserk	E36
+B	369	2 4	RepeatEffect	E38
+B	1051	2 4	-	-
+B	371	2 4	StopPortion	E39
+B	372	2 4	StopMotion	E40
+B	373	2 4	Fear	E41
+B	375	4	MagicShield	E42
+B	379	2 4	Frozen	E44
+B	429	2 4	Frozen2	E45
+B	410	2 4	Web	E46
+B	382	2 4	DrawBack	E47
+B	385	2 4	FinalCut	E48
+B	399	2 4	Mechanic	E50
+B	383	2 4	-	-
+B	408	2 4	Inflation	E52
+B	416	2 4	Explosion	E53
+B	423	2 4	DarkTornado	E54
+B	431	2 4	AmplifyDamage	E55
+B	365	2 4	HideAttack	E56
+B	443	2 4	DevilishPower	E58
+B	447	4 4	SpiritLink	E59
+B	449	2 4	Event	E60
+B	457	2 4	Event2	E61
+B	462	2 4	DeathMark	E62
+B	482	2 4	PainMark	E63
+B	464	2 4	Lapidification	E64
+B	498	2 4	VampDeath	-
+B	511	2 4	VampDeathSummon	E66
+B	465	2 4	VenomSnake	E67
+B	470	4	PyramidEffect	E68
+B	666	1	-	-
+B	473	2 4	IgnoreTargetDEF	E70
+B	474	2 4	-	-
+B	477	2 4	Invisible	E71
+B	480	2 4	Judgement	E72
+B	500	2 4	KeyDownAreaMoving	E73
+B	503	2	StackBuff	E74
+B	501	2 4	Larkness	E75
+B	502	2 4	-	-
+B	509	2 4	ReshuffleSwitch	E76
+B	510	2 4	SpecialAction	E77
+B	512	2 4	StopForceAtomInfo	E78
+B	513	2 4	SoulGazeCriDamR	E79
+B	515	2 4	PowerTransferGauge	E80
+B	732	2 4	BlitzShield	E81
+B	516	2 4	AffinitySlug	E82
+B	524	2 4	SoulExalt	-
+B	374	2 4	HiddenPieceOn	E84
+B	507	2 4	SmashStack	E85
+B	520	2 4	MobZoneState	E86
+B	521	2 4	GiveMeHeal	E87
+B	522	2 4	TouchMe	E88
+B	523	2 4	Contagion	G
+B	523	4	Contagion	G
+B	525	2 4	IgnoreAllCounter	E90
+B	526	2 4	IgnorePImmune	E91
+B	527	2 4	IgnoreAllImmune	E92
+B	528	2 4	-	-
+B	529	2 4	FinalJudgement	E93
+B	530	2 4	FireAura	E94
+B	532	2 4	HeavensDoor	E96
+B	442	2 4	DamAbsorbShield	E97
+B	504	2 4	AntiMagicShell	E98
+B	384	2 4	NotDamaged	E99
+B	537	2 4	BleedingToxin	E100
+B	361	2 4	WindBreakerFinal	E101
+B	363	2 4	KarmaBlade	E102
+B	538	2 4	IgnoreMobDamR	E103
+B	539	2 4	Asura	E104
+B	540	2 4	Stimulate	E107
+B	541	1 4	ReturnTeleport	E108
+B	545	2 4	CapDebuff	E109
+B	551	2 4	OverloadCount	E110
+B	553	1 4	FireBomb	E111
+B	555	1	SurplusSupply	E112
+B	558	2 4	NewFlying	E113
+B	585	2 4	NaviFlying	E114
+B	559	2 4	AmaranthGenerator	E115
+B	560	2 4	StrikerHyperElectric	E117
+B	561	2 4	EventPointAbsorb	E118
+B	562	2 4	EventAssemble	E119
+B	566	2 4	Translucence	E120
+B	567	2 4	PoseType	-
+B	568	2 4	LightOfSpirit	E122
+B	569	2 4	GlimmeringTime	E124
+B	578	2 4	Reincarnation	E125
+B	406	2 4	Beholder	E126
+B	587	2 4	QuiverCatridge	E127
+B	592	4	ImmuneBarrier	G
+B	592	4	ImmuneBarrier	G
+B	573	4 4	FullSoulMP	E130
+B	504	1 4	AntiMagicShell	E131
+B	388	4 4	Dance	E132
+B	608	4 4	SpiritGuard	G
+B	608	4	SpiritGuard	G
+B	609	2 4	-	-
+B	649	4 4	MastemasMark	E134
+B	614	2 4	ComboTempest	E135
+B	554	2 4	HalfstatByDebuff	E136
+B	628	2 4	ComplusionSlant	E137
+B	635	2 4	BombTime	E139
+B	711	2 4	MeltDown	E140
+B	712	2 4	SparkleBurstStage	E141
+B	713	2 4	LightningCascade	E142
+B	714	2 4	BulletParty	E143
+B	715	2 4	-	-
+B	716	2 4	LoadedDice	E144
+B	717	2 4	Benediction	E145
+B	632	2 4	DarkLighting	E146
+B	633	2 4	AttackCountX	E147
+B	643	2 4	FireBarrier	E148
+B	472	2 4	KeyDownMoving	-
+B	677	2 4	MichaelSoulLink	-
+B	681	2 4	BladeStance	G
+B	681	4	BladeStance	G
+B	686	2 4	Fever	E153
+B	692	4	AdrenalinBoost	E154
+B	698	4	RWBarrier	E155
+B	696	4	Unk188_460	E156
+B	697	4	RWMagnumBlow	E157
+B	923	4	SerpentScrew	-
+B	971	2 4	-	-
+B	926	4	Cosmos	E159
+B	485	2 4	GuidedArrow	E160
+B	486	2 4	-	-
+B	487	2 4	LefBuffMastery	-
+B	488	2 4	TempSecondaryStat	E162
+B	489	2 4	-	-
+B	707	2 4	Stigma	-
+B	645	4 4	DivineEcho	-
+B	1081	4	ConstelEagle	-
+B	1083	2 4	ConstelHornedWhelk	-
+B	1080	2 4	ShineMageAppear	-
+B	1097	2 4	-	-
+B	723	4 4	RhoAias	-
+B	722	4	ManaOverload	E170
+B	603	2 4	PerfectShot	E171
+B	737	2 4	SylvidiaFlight	-
+B	736	2 4	SpotLight	E173
+B	735	2 4	OverloadMode	E174
+B	734	2 4	FreudBlessing	E175
+B	321	2 4	BigHammerOfTheRighteous	E176
+B	741	2 4	Overdrive	E177
+B	742	2 4	EtherealForm	E178
+B	743	2 4	LastResort	E179
+B	744	2 4	Oblivion	E180
+B	745	2 4	-	-
+B	746	2 4	CurseOfCreation	-
+B	747	2 4	CurseOfDestruction	-
+B	748	2 4	BlackMageDebuff	E183
+B	749	2 4	HitStackDamR	E184
+B	739	2 4	WingsOfGlory	-
+B	750	2 4	-	-
+B	750	4	-	-
+B	751	4 4	-	-
+B	752	2 4	HarmonyLink	E186
+B	753	2 4	LefFastCharge	E187
+B	763	2 4	SpecterState	-
+B	768	2 4	AbyssalRecall	E190
+B	769	2 4	-	-
+B	770	2 4	SixthPhoenix	E191
+B	779	2 4	WillPoison	-
+B	751	4	-	-
+B	494	2 4	GrandCross	E194
+B	810	2 4	ProtectiveShield	E195
+B	813	2 4	-	-
+B	814	2 4	-	-
+B	815	2 4	-	-
+B	816	2 4	-	-
+B	818	2 4	-	-
+B	819	2 4	-	-
+B	820	2 4	-	-
+B	821	2 4	-	-
+B	825	2 4	PinkbeanMatryoshka	E196
+B	830	2 4	-	-
+B	835	2 4	AT_HyperClone	E197
+B	800	2 4	TanadianRuin	E198
+B	801	2 4	AeonianRise	E199
+B	802	2 4	-	-
+B	803	2 4	-	-
+B	804	2 4	-	-
+B	805	2 4	-	-
+B	806	2 4	-	-
+B	842	2 4	-	-
+B	843	2 4	-	-
+B	651	2 4	QuiverBarrage	E200
+B	851	2 4	LW_Nobility	-
+B	852	2 4	RuneOfPurification	E202
+B	853	2 4	Unk214_624	E203
+B	854	2 4	DuskDarkness	E204
+B	855	2 4	HastyAura	-
+B	856	2 4	DrainingAura	-
+B	857	2 4	BlueAura	-
+B	858	2 4	DarkAura	-
+B	859	2 4	WeakeningAura	-
+B	860	2 4	AuraScythe	-
+B	861	2 4	IceAura	-
+B	862	2 4	ParashockGuard	-
+B	863	2 4	-	-
+B	864	2 4	DivineForce	-
+B	865	2 4	IncarnationAura	-
+B	870	2 4	BlizzardTempest	E215
+B	871	2 4	PhotonRay	-
+B	881	2 4	DarknessAura	E217
+B	869	2 4	SilhouetteMirage	-
+B	889	2 4	ThanatosDescent	E220
+B	890	2 4	NAAnnihilation	E221
+B	906	2 4	-	-
+B	908	2 4	YetiFuryMode	-
+B	914	2 4	-	-
+B	933	2 4	-	-
+B	935	2 4	IceAuraZone	E226
+B	943	2 4	FlashMirage	E227
+B	944	2 4	HolyBlood	E228
+B	340	2 4	-	-
+B	404	2 4	TeleportMasteryOn	E230
+B	402	4	BlessingArmor	E232
+B	946	2 4	-	-
+B	947	2 4	TranscendentLight	E233
+B	951	2 4	ArtificialEvolution	E234
+B	646	4 4	DemonFrenzy	-
+B	647	4 4	-	-
+B	878	4 4	CrystalGate	E236
+B	972	2 4	-	-
+B	975	2 4	-	-
+B	973	2 4	-	-
+B	974	2 4	-	-
+B	941	2 4	GrandFinale	E238
+B	976	2 4	-	-
+B	977	2 4	-	-
+B	967	2 4	-	-
+B	978	2 4	-	-
+B	989	2 4	AdrenalinMaximum	E240
+B	1017	4 4	-	-
+B	640	4	HiddenPossession	E241
+B	1003	2 4	DslayerMetamorphosis	E242
+B	444	2 4	-	-
+B	546	2 4	Exceed	E243
+B	1008	2 4	Sublimation	E247
+B	1009	2 4	-	-
+B	1010	2 4	RenPlumSwordEx	-
+B	386	2 4	HowlingAttackDamage	G
+B	657	2 4	-	-
+B	705	4	-	-
+B	1033	2 4	-	-
+B	1052	2 4	-	-
+B	1056	4 4	-	-
+B	1057	4	-	-
+B	1058	4	-	-
+B	1060	2 4	-	-
+B	1061	4	-	-
+B	733	2 4	SplitShot	E262
+B	1095	2 4	Unk216_516	-
+B	1068	2 4	-	-
+B	1069	2 4	-	-
+B	1071	2 4	-	-
+B	1072	2 4	-	-
+B	1073	2 4	-	-
+B	1074	2 4	-	-
+B	1075	2 4	-	-
+B	1081	2 4	ConstelEagle	-
+B	217	2 4	MukHyun_HO_SIN_GANG_GI	E267
+S	0	IndiePAD
+S	1	IndieMAD
+S	2	IndieDEF
+S	3	IndieMHP
+S	4	IndieMHPR
+S	5	IndieMMP
+S	6	IndieMMPR
+S	7	IndieACC
+S	8	IndieEVA
+S	9	IndieJump
+S	10	IndieSpeed
+S	11	IndieAllStat
+S	12	IndieAllStatR
+S	13	IndieDodgeCriticalTime
+S	14	IndieEXP
+S	15	IndieBooster
+S	16	IndieFixedDamageR
+S	17	PyramidStunBuff
+S	18	PyramidFrozenBuff
+S	19	PyramidFireBuff
+S	20	PyramidBonusDamageBuff
+S	21	IndieRelaxEXP
+S	22	IndieSTR
+S	23	IndieDEX
+S	24	IndieINT
+S	25	IndieLUK
+S	26	IndieDamR
+S	27	IndieScriptBuff
+S	28	IndieMDF
+S	29	IndieAsrR
+S	30	IndieTerR
+S	31	IndieCr
+S	32	IndiePDDR
+S	33	IndieCrDmg
+S	35	IndieBDR
+S	36	IndieStatR
+S	37	IndieStance
+S	38	IndieIgnoreMobpdpR
+S	39	IndieEmpty
+S	40	IndiePADR
+S	41	IndieMADR
+S	42	IndieEVAR
+S	43	IndieDrainHP
+S	44	IndiePMdR
+S	45	IndieForceJump
+S	46	IndieForceSpeed
+S	47	IndieQrPointTerm
+S	48	IndieBuffIcon
+S	49	IndieCooltimeReduce
+S	50	IndieNotDamaged
+S	51	IndieKeyDownTime
+S	52	IndieDamReduceR
+S	53	IndieCrystalCharge
+S	54	IndieNegativeEVAR
+S	55	IndieHitDamage
+S	56	IndieNoKnockBack
+S	57	IndieGrandCross
+S	58	IndieHitDamageInclHPR
+S	59	IndieArcaneForce
+S	60	IndieAuthentic
+S	61	IndiePowerGuard
+S	62	IndieDropPer
+S	63	IndieMesoAmountRate
+S	64	IndieFloating
+S	65	IndieDotHealHP
+S	66	IndieInvincibleBelief
+S	67	IndieUnk212_63
+S	68	IndieInfiniteMDF
+S	69	IndieProtectiveShield
+S	70	IndieUNK218_2
+S	71	IndieNBDR
+S	74	IndieAntiMagicShell
+S	82	IndiePartyDrop
+S	83	IndieUnk63
+S	84	IndieLoopEffect
+S	85	IndiePeriodicalSkillActivation
+S	213	MukHyunDivine
+S	215	MukHyun_SEON_PUNG_GAG
+S	217	MukHyun_HO_SIN_GANG_GI
+S	300	PAD
+S	301	DEF
+S	302	MAD
+S	303	ACC
+S	304	EVA
+S	305	Craft
+S	306	Speed
+S	307	Jump
+S	308	DarkSight
+S	309	Booster
+S	310	PowerGuard
+S	311	MaxHP
+S	312	MaxMP
+S	313	Invincible
+S	314	SoulArrow
+S	316	Poison
+S	317	Seal
+S	318	Darkness
+S	320	HammerOfTheRighteous
+S	321	BigHammerOfTheRighteous
+S	322	WeaponCharge
+S	323	HolySymbol
+S	324	MesoUp
+S	325	ShadowPartner
+S	326	PickPocket
+S	328	Thaw
+S	329	Weakness
+S	330	Curse
+S	331	Slow
+S	332	Morph
+S	333	Regen
+S	334	BasicStatUp
+S	335	Stance
+S	336	SharpEyes
+S	337	ManaReflection
+S	338	Attract
+S	339	NoBulletConsume
+S	341	AdvancedBless
+S	342	IllusionStep
+S	343	Blind
+S	344	BanMap
+S	345	MaxLevelBuff
+S	346	MesoUpByItem
+S	349	Ghost
+S	350	Barrier
+S	351	ReverseInput
+S	352	ItemUpByItem
+S	353	RespectPImmune
+S	354	RespectMImmune
+S	355	DefenseAtt
+S	356	DefenseState
+S	357	DojangBerserk
+S	358	DojangInvincible
+S	359	DojangShield
+S	360	SoulMasterFinal
+S	361	WindBreakerFinal
+S	362	Mortality
+S	363	KarmaBlade
+S	364	ElementalReset
+S	365	HideAttack
+S	366	EventRate
+S	367	ComboAbilityBuff
+S	368	ComboDrain
+S	369	RepeatEffect
+S	370	ExpBuffRate
+S	371	StopPortion
+S	372	StopMotion
+S	373	Fear
+S	374	HiddenPieceOn
+S	375	MagicShield
+S	376	MagicResistance
+S	377	SoulStone
+S	378	Flying
+S	379	Frozen
+S	381	Enrage
+S	382	DrawBack
+S	384	NotDamaged
+S	385	FinalCut
+S	386	HowlingAttackDamage
+S	387	BeastFormDamageUp
+S	388	Dance
+S	389	EMHP
+S	390	EMMP
+S	391	EPAD
+S	392	EMAD
+S	393	EPDD
+S	394	Cyclone
+S	395	RadiantOrb
+S	399	Mechanic
+S	400	BeastFormMaxHP
+S	401	Dice
+S	402	BlessingArmor
+S	403	DamR
+S	404	TeleportMasteryOn
+S	405	CombatOrders
+S	406	Beholder
+S	407	DispelItemOption
+S	408	Inflation
+S	409	OnixDivineProtection
+S	410	Web
+S	411	Bless
+S	412	TimeBomb
+S	413	DisOrder
+S	414	Thread
+S	415	Team
+S	416	Explosion
+S	417	BuffLimit
+S	418	STR
+S	419	INT
+S	420	DEX
+S	421	LUK
+S	422	DispelItemOptionByField
+S	423	DarkTornado
+S	424	PVPDamage
+S	425	PvPScoreBonus
+S	426	PvPInvincible
+S	427	PvPRaceEffect
+S	428	WeaknessMdamage
+S	429	Frozen2
+S	430	PVPDamageSkill
+S	431	AmplifyDamage
+S	432	Shock
+S	433	InfinityForce
+S	434	IncMaxHP
+S	435	IncMaxMP
+S	436	HolyMagicShell
+S	437	KeyDownTimeIgnore
+S	438	ArcaneAim
+S	439	MasterMagicOn
+S	440	AsrR
+S	441	TerR
+S	442	DamAbsorbShield
+S	443	DevilishPower
+S	445	Roulette
+S	447	SpiritLink
+S	448	AsrRByItem
+S	449	Event
+S	450	CriticalBuff
+S	451	DropRate
+S	452	PlusExpRate
+S	453	ItemInvincible
+S	455	ItemCritical
+S	457	Event2
+S	458	VampiricTouch
+S	459	DDR
+S	460	IncTerR
+S	461	IncAsrR
+S	462	DeathMark
+S	463	UsefulAdvancedBless
+S	464	Lapidification
+S	465	VenomSnake
+S	466	CarnivalAttack
+S	467	CarnivalDefence
+S	468	CarnivalExp
+S	469	SlowAttack
+S	470	PyramidEffect
+S	471	HollowPointBullet
+S	473	IgnoreTargetDEF
+S	476	ReviveOnce
+S	477	Invisible
+S	478	EnrageCr
+S	479	EnrageCrDamMin
+S	480	Judgement
+S	481	DojangLuckyBonus
+S	482	PainMark
+S	483	Magnet
+S	484	MagnetArea
+S	485	GuidedArrow
+S	488	TempSecondaryStat
+S	491	SixthJavelinStack
+S	492	SixthGloryWingJavelinStack
+S	493	SixthCrystalStack
+S	494	GrandCross
+S	495	YetiCook
+S	499	BlessingArmorIncPAD
+S	500	KeyDownAreaMoving
+S	501	Larkness
+S	503	StackBuff
+S	504	AntiMagicShell
+S	505	LifeTidal
+S	506	HitCriDamR
+S	507	SmashStack
+S	508	PartyBarrier
+S	509	ReshuffleSwitch
+S	510	SpecialAction
+S	511	VampDeathSummon
+S	512	StopForceAtomInfo
+S	513	SoulGazeCriDamR
+S	514	SoulRageCount
+S	515	PowerTransferGauge
+S	516	AffinitySlug
+S	517	Trinity
+S	518	IncMaxDamage
+S	519	BossShield
+S	520	MobZoneState
+S	521	GiveMeHeal
+S	522	TouchMe
+S	523	Contagion
+S	525	IgnoreAllCounter
+S	526	IgnorePImmune
+S	527	IgnoreAllImmune
+S	529	FinalJudgement
+S	530	FireAura
+S	531	VengeanceOfAngel
+S	532	HeavensDoor
+S	533	Preparation
+S	534	BullsEye
+S	535	IncEffectHPPotion
+S	536	IncEffectMPPotion
+S	537	BleedingToxin
+S	538	IgnoreMobDamR
+S	539	Asura
+S	540	Stimulate
+S	541	ReturnTeleport
+S	542	DropRIncrease
+S	543	IgnoreMobpdpR
+S	544	BdR
+S	545	CapDebuff
+S	546	Exceed
+S	547	DiabolikRecovery
+S	549	FinalAttackProp
+S	550	ExceedOverload
+S	551	OverloadCount
+S	552	BuckShot
+S	553	FireBomb
+S	554	HalfstatByDebuff
+S	555	SurplusSupply
+S	556	SetBaseDamage
+S	557	EVAR
+S	558	NewFlying
+S	559	AmaranthGenerator
+S	560	StrikerHyperElectric
+S	561	EventPointAbsorb
+S	562	EventAssemble
+S	563	StormBringer
+S	564	ACCR
+S	565	DEXR
+S	566	Translucence
+S	568	LightOfSpirit
+S	569	GlimmeringTime
+S	570	TrueSight
+S	572	SoulMP
+S	573	FullSoulMP
+S	574	SoulSkillDamageUp
+S	575	ElementalCharge
+S	576	Restoration
+S	577	CrossOverChain
+S	578	Reincarnation
+S	579	ReincarnationMission
+S	580	ReincarnationOnOff
+S	581	DotBasedBuff
+S	582	SixthDotBasedBuff
+S	583	BlessEnsenble
+S	584	ComboCostInc
+S	585	NaviFlying
+S	586	Holding
+S	587	QuiverCatridge
+S	588	ExtraQuiverCatridge
+S	589	ExtraQuiverMagic
+S	590	ExtraQuiverVamp
+S	591	UserControlMob
+S	592	ImmuneBarrier
+S	593	CriticalGrowing
+S	594	RelicEmblem
+S	595	QuickDraw
+S	596	BowMasterConcentration
+S	597	ElementFlameBuff
+S	598	TimeFastABuff
+S	599	TimeFastBBuff
+S	601	GatherDropR
+S	602	AimBox2D
+S	603	PerfectShot
+S	604	StatusResistance
+S	605	IncMonsterBattleCaptureRate
+S	606	DotHealHPPerSecond
+S	607	DotHealMPPerSecond
+S	608	SpiritGuard
+S	610	PreReviveOnce
+S	611	SetBaseDamageByBuff
+S	612	LimitMP
+S	613	ReflectDamR
+S	614	ComboTempest
+S	615	MHPCutR
+S	616	MMPCutR
+S	617	SelfWeakness
+S	618	FlareTrick
+S	619	Dominion
+S	620	SiphonVitality
+S	621	DarknessAscension
+S	622	BossWaitingLinesBuff
+S	623	DamageReduce
+S	624	ShadowServant
+S	625	ShadowIllusion
+S	627	AddAttackCount
+S	628	ComplusionSlant
+S	629	SSFShootingAttack
+S	630	DevilCry
+S	631	ShieldAttack
+S	632	DarkLighting
+S	633	AttackCountX
+S	634	BMageDeath
+S	635	BombTime
+S	636	NoDebuff
+S	637	BattlePvPMikeShield
+S	638	BattlePvPMikeBugle
+S	639	XenonAegisSystem
+S	640	HiddenPossession
+S	641	NightWalkerBat
+S	642	WizardIgnite
+S	643	FireBarrier
+S	644	ChangeFoxMan
+S	649	MastemasMark
+S	650	RiftOfDamnation
+S	651	QuiverBarrage
+S	652	SwordsOfConsciousness
+S	660	BattlePvPHelenaWindSpirit
+S	662	BattlePvPLeeMalNyunScaleUp
+S	663	BattlePvPRevive
+S	664	PinkbeanAttackBuff
+S	665	PinkbeanRelax
+S	667	PinkbeanYoYoStack
+S	668	RandAreaAttack
+S	671	NextAttackEnhance
+S	673	AranCombotempastOption
+S	674	ViperTimeLeap
+S	675	RoyalGuardState
+S	676	RoyalGuardPrepare
+S	678	MichaelStanceLink
+S	679	TriflingWhimOnOff
+S	680	AddRangeOnOff
+S	681	BladeStance
+S	682	DebuffActiveSkillHPCon
+S	683	DebuffIncHP
+S	684	BowMasterMortalBlow
+S	685	AngelicBursterSoulResonance
+S	686	Fever
+S	687	IgnisRore
+S	688	TeleportMasteryRange
+S	690	FixCoolTime
+S	691	IncMobRateDummy
+S	692	AdrenalinBoost
+S	693	AranDrain
+S	694	AranBoostEndHunt
+S	695	RWCylinder
+S	696	Unk188_460
+S	697	RWMagnumBlow
+S	698	RWBarrier
+S	699	RWBarrierHeal
+S	700	RWMaximizeCannon
+S	703	RWOverHeat
+S	706	RWMovingEvar
+S	708	HeavensDoorCooltime
+S	709	SealedRuneCooltime
+S	710	PinPointSalvo
+S	711	MeltDown
+S	712	SparkleBurstStage
+S	713	LightningCascade
+S	714	BulletParty
+S	716	LoadedDice
+S	717	Benediction
+S	718	Unk221_497
+S	719	VoidStrike
+S	720	Unk212_504
+S	721	WeaponAura
+S	722	ManaOverload
+S	724	SpreadThrow
+S	725	WindEnergy
+S	726	StackOverTimeSkill
+S	727	CannonShooter_MiniCannonBall
+S	728	CannonShooter_RollingCannon
+S	729	ShadowAssault
+S	730	Unk188_492
+S	731	Unk188_494
+S	732	BlitzShield
+S	733	SplitShot
+S	734	FreudBlessing
+S	735	OverloadMode
+S	736	SpotLight
+S	738	MuscleMemory
+S	740	TrickBladeMobStat
+S	741	Overdrive
+S	742	EtherealForm
+S	743	LastResort
+S	744	Oblivion
+S	748	BlackMageDebuff
+S	749	HitStackDamR
+S	752	HarmonyLink
+S	753	LefFastCharge
+S	755	CrystalChargeBuffIcon
+S	762	SpecterEnergy
+S	764	BasicCast
+S	765	ScarletCast
+S	766	GustCast
+S	767	AbyssalCast
+S	768	AbyssalRecall
+S	770	SixthPhoenix
+S	771	HolyAdvent
+S	773	ChargeSpellAmplifier
+S	774	InfinitySpell
+S	775	ConversionOverdrive
+S	776	LPBattleMode
+S	780	Unk199_546
+S	782	HolyMagicShellCooltime
+S	783	TridentStrike
+S	784	ComboInstinct
+S	785	HeroAuraBladeStack
+S	786	HeroAuraBladeAdv
+S	787	HeroSongOfBlade
+S	788	KhaliUltimatum
+S	789	GaleBarrier
+S	790	SwordOfLight
+S	797	PMdReduce
+S	798	ForbidOpPotion
+S	799	ForbidEquipChange
+S	800	TanadianRuin
+S	801	AeonianRise
+S	809	BattlePvPMikeProtection
+S	810	ProtectiveShield
+S	811	AncientGuidance
+S	823	FifthGoddessBless
+S	825	PinkbeanMatryoshka
+S	832	AT_Attributes
+S	833	AT_Energy
+S	835	AT_HyperClone
+S	836	AT_ButterflyDream
+S	844	KeyDownEnable
+S	847	LW_Ether
+S	848	LW_Creation
+S	849	LW_Dike
+S	850	LW_Restore
+S	852	RuneOfPurification
+S	853	Unk214_624
+S	854	DuskDarkness
+S	866	WrathOfGods
+S	867	Revenant
+S	868	RevenantDamage
+S	870	BlizzardTempest
+S	872	AbyssalLightning
+S	873	LightningSpearMultistrike
+S	874	RoyalKnights
+S	875	PhantomDefyingFate
+S	876	SalamanderMischief
+S	877	RepeatingCrossbowCartridge
+S	878	CrystalGate
+S	879	ThrowBlasting
+S	880	SageThreePathsApparition
+S	881	DarknessAura
+S	882	MuscleMemoryFinale
+S	883	EgoWeaponAlpha
+S	884	RelicUnbound
+S	885	AfterImageShock
+S	886	Malice
+S	887	Possession
+S	888	DeathBlessing
+S	889	ThanatosDescent
+S	890	NAAnnihilation
+S	891	RemainIncense
+S	892	NABrutalPang
+S	896	NALinkSkill
+S	897	StrikerChainReaction
+S	905	AdrenalinActivate
+S	907	YetiFuryGauge
+S	909	YetiMushroom
+S	910	YetiMyFriendPepe
+S	913	MountainSeeds
+S	915	Unk228_691
+S	916	NatureFriend
+S	917	DragonVeinTrace
+S	921	StormWhim
+S	922	SerpentStone
+S	925	FlameSweep
+S	926	Cosmos
+S	927	EnhancePiercing
+S	928	EnhanceSniping
+S	929	UltimateSniping
+S	930	UltimatePiercing
+S	931	EnhanceQuadrupleThrow
+S	934	CrusaderPanic
+S	935	IceAuraZone
+S	936	HolyWater
+S	937	EpicDungeonGauge
+S	938	EpicDungeonMiddleBossBarrier
+S	939	TriumphFeather
+S	940	SixthAngelsRay
+S	941	GrandFinale
+S	942	WarInTheShade
+S	943	FlashMirage
+S	944	HolyBlood
+S	945	OrbitalExplosion
+S	947	TranscendentLight
+S	948	SixthAssassination
+S	949	SixthAssassinationDarkSight
+S	950	SixthCovertShadowBuff
+S	951	ArtificialEvolution
+S	952	SixthFrozenLightning
+S	953	ElementalKnight
+S	954	LarknessStop
+S	955	SummonChakri
+S	956	SixthResonate
+S	957	EnhanceNightLordFourSeasons
+S	958	DarknessShuriken
+S	959	ShadowAcceleration
+S	960	ShadowBurst
+S	961	DeceivingBlade
+S	979	FlameOrbMultiAttack
+S	980	SixthStormArrowEx
+S	984	FlashSlashStack
+S	985	RobotTransition
+S	988	Joker
+S	989	AdrenalinMaximum
+S	993	Nightmare
+S	995	RapidFire
+S	997	SacredBastion
+S	1000	EnhanceInfernalBreath
+S	1003	DslayerMetamorphosis
+S	1006	RenPlumSwordForm3Stack
+S	1007	RenPlumSwordForm3Shoot
+S	1008	Sublimation
+S	1011	SpiritAwakening
+S	1012	SpiritAwakeningStack
+S	1013	AuthenticDarkness
+S	1015	PathFinderForceCompulsion
+S	1018	BlasterFileBunker

@@ -1,0 +1,38 @@
+# Boss entrance map, name, required level: every boss in the v265 boss list (Etc BossParty.img) by its
+# enterFieldID and levelMin, in menu order.
+map	name	level	note
+211042300	Zakum	50	
+105100100	Balrog	65	
+262030000	Hilla	85	
+220080000	Papulatus	115	
+401060399	Magnus (Easy)	115	v265 dropped the magnus_easy portal from 401000001
+401060000	Magnus (Normal/Hard)	115	
+807300100	Ranmaru	120	
+211070000	Von Leon	125	
+105200000	Root Abyss (Pierre, Von Bon, Crimson Queen, Vellum)	125	
+240050400	Horntail	130	
+272020110	Arkarium	140	
+270050000	Pink Bean	140	
+271040000	Cygnus	165	
+811000999	Princess No	180	
+863010000	Gollux	180	
+221030900	OMNI-CLN	180	
+350060300	Lotus	190	
+105300303	Damien	190	
+874000005	Akechi Mitsuhide	200	
+160000000	Guardian Angel Slime	210	
+450004000	Lucid	220	
+450007240	Will	235	
+450009301	Gloom	245	
+450011990	Verus Hilla	250	
+450012200	Darknell	255	
+450012500	Black Mage	255	
+410000670	Chosen Seren	260	
+410005005	Kalos the Guardian	265	
+410007019	First Adversary	270	
+993277350	Kai	270	
+410007025	Kaling	275	
+410007670	Malefic Star	280	
+410007601	Limbo	285	
+410013608	Baldrix	290	
+410013709	Jupiter	295	

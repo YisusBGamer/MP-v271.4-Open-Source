@@ -1,0 +1,67 @@
+# @job starter kits (JobStarterKit): the final job of a path, the items of its kit (weapon, secondary, ammunition:
+# one full stack), and the secondary weapon given at level 30 when the game data has it start at the 2nd job.
+job	items	secondaryAt30	note
+# Explorers
+112	1402076	1352200	Hero: Swordsman's Two-Handed Sword; level 30: Powers Medallion
+122	1302077,1092005		Paladin: Beginner Warrior's Sword, wooden buckler
+132	1432000	1352220	Dark Knight: spear; level 30: Stark Chain
+212	1382100	1352230	Arch Mage (F/P): Beginner Magician's Staff; level 30: Rusty Book <Strophe>
+222	1382100	1352240	Arch Mage (I/L): Beginner Magician's Staff; level 30: Metallic Blue Book <Strophe>
+232	1382100	1352250	Bishop: Beginner Magician's Staff; level 30: White Gold Book <Strophe>
+312	1452051,2060000	1352260	Bowmaster: Beginner Bowman's Bow, arrow for bow; level 30: Breezy Feather
+322	1462092,2061000	1352270	Marksman: Beginner Crossbowman's Crossbow, arrow for crossbow; level 30: One Shot
+332	1592000,1353700		Pathfinder: Marad Ancient Bow, Potential Relic
+412	1472061,2070000	1352290	Night Lord: Beginner Thief Wrist Guards, subi throwing stars; level 30: All Souls Charm
+422	1332063	1352280	Shadower: Beginner Thief's Short Sword; level 30: Hidden Shadow
+434	1332063,1342000		Dual Blade: Beginner Thief's Short Sword, Champion Katara (level 20)
+512	1482000	1352900	Buccaneer: Steel Knuckler; level 30: Wrist Band
+522	1492000,2330000	1352910	Corsair: Pistol, Weapons; level 30: Eagle Eye
+532	1532000	1352920	Cannoneer: Novice Cannon; level 30: Pin Fire Bomb
+572	1492000,1352300,2330000		Jett: Pistol, Weapons, Core Fragment
+# Cygnus Knights
+1112	1402076		Dawn Warrior: Swordsman's Two-Handed Sword
+1212	1382100		Blaze Wizard: Beginner Magician's Staff
+1312	1452051,2060000		Wind Archer: Beginner Bowman's Bow, arrow for bow
+1412	1472061,2070000		Night Walker: Beginner Thief Wrist Guards, subi throwing stars
+1512	1482000		Thunder Breaker: Steel Knuckler
+5112	1302077,1098000		Mihile: Beginner Warrior's Sword, Soul Shield of Protection
+# Heroes
+2112	1442000	1352930	Aran: polearm; level 30: Silver Beast Mass
+2217	1382100	1352940	Evan: Beginner Magician's Staff; level 30: Dragon Master's Records
+2312	1522000,1352000		Mercedes: Trusty & Faithful, Magic Arrows
+2412	1362001,1352100		Phantom: Novice Cane, Carte Magique
+2512	1482000,1353100		Shade: Steel Knuckler, Blue Fox Marble (level 20)
+2712	1212001,1352400		Luminous: Plain (Shining Rod), Light Orb
+# Resistance
+3112	1322122,1099000		Demon Slayer: Doom Scepter, Force Shield of Patience
+3122	1232001,1099006		Demon Avenger: Blue Ravager, Force Shield of Patience
+3212	1382100	1352950	Battle Mage: Beginner Magician's Staff; level 30: Equalizer Ball
+3312	1462092,2061000	1352960	Wild Hunter: Beginner Crossbowman's Crossbow, arrow for crossbow; level 30: Wild Beak
+3512	1492000,1352700		Mechanic: Pistol, Magnum
+3612	1242001,1353001		Xenon: Horned Blade, Dual Core Controller
+3712	1582000,1353400		Blaster: Hand Buster, Rudimentary Charges
+# Nova
+6112	1402177,1352500		Kaiser: Kaiser's Training Sword, Nova's Essence
+6312	1214000,1354010		Kain: Dim Gazer, D Basic Weapon Belt
+6412	1272000,1353300		Cadena: De Mercurio, Transmitter Type-D
+6512	1222001,1352601		Angelic Buster: Purple Haze, Pink Soul Ring
+# Flora
+15112	1213000,1354000		Adele: Patience, Trace Bladebinder
+15212	1282000,1353500		Illium: Luna Lucent Gauntlet, Basic Lucent Wings
+15512	1482000,1353600		Ark: Steel Knuckler, Initial Path
+15412	1404000,1354030		Khali: Eneth Canis, Plain Hex Seeker
+# Anima
+16412	1292000,1353800		Hoyoung: Black Cloud Ritual Fan, Mano Fan Tassel
+16212	1372043,1354020		Lara: Beginner Magician's Wand (level 8), Simple Four-Jade Ornament
+16112	1215001,1354040		Ren: Sword (level 10), Green Imugi Gem
+# Jianghu, Shine
+17512	1403000,1352860		Mo Xuan: Worn Martial Brace, Worn Brace Band
+17212	1252001,1352810		Lynn: Memorial Staff (level 10), Tsavorite Leaf
+18212	1253000,1352870		Sia Astelle: Shining Celestial Light, Zodiac Compass
+18112	1433001,1352880		Erel Light: level 10 Gram, Keir (its skills need the secondary)
+# Other
+4112	1542000,1352800		Hayato: Simple Iron Sword, White Tiger Blade
+4212	1254001,1354300		Kanna: Iron Fan (Spirit Walker Fan), Talisman
+11212	1252001		Beast Tamer: Beast Tamer Scepter (the client lets it wear no secondary)
+14212	1262000,1353200		Kinesis: Prototype Psy-limiter, Pawn Chess Piece
+10112	1572000,1562000		Zero: Lazuli (Alpha), Lapis (Beta)

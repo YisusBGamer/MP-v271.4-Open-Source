@@ -1,0 +1,13 @@
+# Christmas Tree present (Quest.wz 4483, the 2014 list with a permanent Santa Sled instead of the 7-day one); also what Gift Filled Christmas Socks open into. weight = relative chance
+item	count	weight	note
+2023118	1	12	Cold Winter Energy
+2023120	1	12	Winter Freeze
+2023122	1	12	Enjoyable Winter
+2023124	1	12	Lucky Winter
+2022120	70	12	Christmas Melon
+2001530	50	12	Reindeer Milk
+2000019	30	12	Power Elixir (the 2014 list says Pure Water)
+3010101	1	6	Christmas Gift Box (chair)
+1072427	1	5	Red Christmas Sock
+1072428	1	5	Green Christmas Sock
+2432311	1	2	Santa Sled Permanent Riding Mount Coupon

@@ -1,0 +1,38 @@
+# Halloween (Ghost Story) quest guide (HalloweenEvent): where each quest's NPC or task is. start: how to
+# reach the quest's NPC, task: what to do (empty: none).
+quest	map	start	task
+15103	229000000	Talk to the #bSteward#k in the #bCentral Hall#k (top floor).	
+15104	229000100	Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).	
+15105	229000310	Talk to #bJonas#k in the #bPuppet Workshop#k (through the #bChimney#k in the Central Hall).	
+15106	229000010		Find #bMimet#k in #bGuest Room 1#k (Central Hall) and talk to her.
+15107	229000212	Talk to #bJoey#k in the #bSecret Room#k (through Sophelia's portrait in the #bFrame Room#k, 2nd floor).	
+15108	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	
+15109	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	Defeat #r50 Rideword P#k in the #bLibrary#k (Central Hall), then Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).
+15110	922900000		Follow the strange attraction to the #bLibrary#k and look at the #bOld Newspaper#k.
+15111	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	Defeat #r50 Green Phantoms#k in #bGuest Room 3#k (Central Hall), then Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).
+15112	922900100		Follow the strange attraction to #bGuest Room 3#k and look at the #bMysterious Graffiti#k.
+15113	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	Hit the crate in the #bAttic#k (the far right of the Main Room) until you find #bLudmilla's Ball Dress#k, then Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).
+15114	922900800		Follow the strange attraction to the #bAttic#k and look at the #bOld Brooch#k.
+15115	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	Get #bCandle Chest Keys#k from the ghosts (#bGuest Room 3#k, #bWeird Room#k), drop them in front of the chests in the #bCentral Hall#k, and bring #b5 Candles#k to Ludmilla.
+15116	922900300		Follow the strange attraction to the #bFrame Room#k and look at the #bFaceless Portrait#k.
+15117	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	Hunt in the #bAbandoned Graveyard#k (left of the entrance) for #b10 Soul Flowers, 10 Black Bows and 10 Jack-O-Lanterns#k, then Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).
+15118	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	Get a #bTuning Hammer#k from the #rDestroyed Dolls#k in the #bPuppet Workshop#k, then tune the #bPiano#k in the #bCentral Hall#k.
+15119	229000000	Look inside the #bPiano#k in the #bCentral Hall#k.	Take Sophelia's note back to her. Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).
+15120	229000100		Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).
+15121	229000100	Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).	Search the #bBroken Carriage#k in the #bAbandoned Graveyard#k, then bring the #bDeer Emblem#k to Sophelia.
+15122	229000210	Talk to #bLudmilla#k in the #bMain Room#k (2nd floor).	
+15123	229000100		Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).
+15124	229000100	Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).	Look at the #bFaceless Portrait#k in the #bFrame Room#k again, then go back to Sophelia.
+15125	229000000		Talk to the #bSteward#k in the #bCentral Hall#k (top floor).
+15126	229000000	Talk to the #bSteward#k in the #bCentral Hall#k (top floor).	Get a #bPumpkin Knight's Charm#k from the #rPumpkin Knights#k in #bGuest Room 2#k and give it to Sophelia.
+15127	229000100	Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).	Ask Joey about the contract of doom. Talk to #bJoey#k in the #bSecret Room#k (through Sophelia's portrait in the #bFrame Room#k, 2nd floor).
+15128	229000212	Talk to #bJoey#k in the #bSecret Room#k (through Sophelia's portrait in the #bFrame Room#k, 2nd floor).	Pick up some #bTrashed Hair#k in the #bCentral Hall#k and bring it to Joey.
+15129	229000212	Talk to #bJoey#k in the #bSecret Room#k (through Sophelia's portrait in the #bFrame Room#k, 2nd floor).	Go through the #bWeird Room#k (2nd floor) into the #bMask Room#k and read the #bPiled Documents#k.
+15130	229000310	Talk to #bJonas#k in the #bPuppet Workshop#k (through the #bChimney#k in the Central Hall).	Get #b5 Invisible Cloth Pieces#k from the #rFire Steeds#k in #bGuest Room 4#k and bring them to Jonas.
+15131	229000310	Talk to #bJonas#k in the #bPuppet Workshop#k (through the #bChimney#k in the Central Hall).	Cover the #bPiano#k in the #bCentral Hall#k with the #bTransparent Mantle#k.
+15132	229000310		Talk to #bJonas#k in the #bPuppet Workshop#k (through the #bChimney#k in the Central Hall).
+15133	229000212		Talk to #bJoey#k in the #bSecret Room#k (through Sophelia's portrait in the #bFrame Room#k, 2nd floor).
+15134	229000212	Talk to #bJoey#k in the #bSecret Room#k (through Sophelia's portrait in the #bFrame Room#k, 2nd floor).	Ask Sophelia for some of her hair. Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).
+15135	229000100	Talk to #bSophelia#k in #bSophelia's Room#k (Central Hall, left door).	Bring #bSophelia's Hair#k to Joey.
+15136	229000212	Talk to #bJoey#k in the #bSecret Room#k (through Sophelia's portrait in the #bFrame Room#k, 2nd floor).	Break the #bGloomy Mask#k in the #bMask Room#k (through the #bWeird Room#k) with the #bEvil Hammer#k.
+15137	229000000	Talk to the #bMaid#k in the #bCentral Hall#k.	Talk to Joey in the #bSecret Room#k one last time.

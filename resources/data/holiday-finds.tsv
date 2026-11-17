@@ -1,0 +1,86 @@
+# Holiday event finds: items monsters have while the event is on, straight into the inventory (HolidayEvents.onMobKilled).
+# need = stop at this many; chance in 1/10000; quests = any of these in progress (empty: no quest needed);
+# regions = map id / 1,000,000 (empty: monsters near your level outside towns); openQuest = with no quests, only until this quest is done.
+event	item	need	chance	minLevel	quests	regions	openQuest	note
+# Winter Preparations: each town's quest wants 20 of something from the monsters of its region
+winter	4032558	20	2500	1	10530	100		Red Thermals - Henesys
+winter	4032559	20	2500	1	10531	101		Air-Light Fluff - Ellinia
+winter	4032560	20	2500	1	10532	102		Burning Firewood - Perion
+winter	4032561	20	2500	1	10533	103		Heat Pack - Kerning City
+winter	4032563	20	2500	1	10534	105		Fire Flower - Sleepywood (Ant Tunnel)
+winter	4032564	20	2500	1	10535	200		Red Tea Bag - Orbis
+winter	4032565	20	2500	1	10536	211		Tepid Lava - El Nath
+winter	4032566	20	2500	1	10537	220		Felt Piece - Ludibrium
+winter	4032567	20	2500	1	10538	221		Jumper Inner Layer - Omega Sector
+winter	4032568	20	2500	1	10539	222		Quilting Cotton - Korean Folk Town
+winter	4032569	20	2500	1	10540	230		Warm Bubble - Aquarium
+winter	4032570	20	2500	1	10541	240		Hot Stone - Leafre (Minar Forest)
+winter	4032571	20	2500	1	10542	250		Temperature Secret - Mu Lung
+winter	4032572	20	2500	1	10543	251		Yellow Bellflower Bud - Herb Town
+winter	4032573	20	2500	1	10544	260		Fire Sand - Ariant
+winter	4032574	20	2500	1	10545	261		Cast Iron - Magatia
+winter	4031228	20	2500	1	10547	310		Flame Rue - Edelstein
+# Valentine's Day: the Ace of Hearts' chocolate ingredients
+valentine	4031109	1	400	8	8206,8207			White Chocolate
+valentine	4031110	1	400	8	8206,8207			Dark Chocolate
+valentine	4031111	1	400	8	8206			Heart Box
+valentine	4031112	1	400	8	8206			Gold Ribbon
+valentine	4031113	1	400	8	8207			Basket
+valentine	4031114	1	400	8	8207			Cover Material
+# Easter
+easter	4001689	30	1000	10	28769			Easter Egg
+easter	2022538	10	800	70	5069			Red Easter Egg
+easter	4031283	1	200	70	5069			Easter Basket
+# Spring Flower Festival: Cassandra's ingredients; the flowers (no quest) for the researchers
+spring	4032264	10	1500	10	10240			Spring Flower Seed
+spring	4032266	10	1500	10	10240			Dazzling Sunlight
+spring	4032265	10	1500	40	10241			Spring Flower Petal
+spring	4032270	10	1500	40	10241			Glistening Sunlight
+spring	2022526	3	200	10				Azalea
+spring	2022527	3	200	10				Forsythia
+spring	2022528	3	200	10				Clover
+# Thanksgiving
+thanksgiving	4032522	5	1000	33	28326			Yellow Turkey Egg
+thanksgiving	4032523	10	1000	50	28327			Green Turkey Egg
+thanksgiving	4032524	20	1000	100	28328			Blue Turkey Egg
+# Moon Festival: Gold Richie's sheet music, the music box cylinders, the Wish Papers (one per wish quest)
+moon	4032827	1	1000	13	10868			Moonlight Sonata Sheet Music
+moon	4032828	10	3000	13	10869			Music Box Cylinder
+moon	3994400	30	2500	10	11681			Wish Paper
+moon	3994401	30	2500	10	11682			Wish Paper
+moon	3994402	30	2500	10	11683			Wish Paper
+moon	3994403	30	2500	10	11684			Wish Paper
+moon	3994404	30	2500	10	11685			Wish Paper
+moon	3994405	30	2500	10	11686			Wish Paper
+moon	3994406	30	2500	10	11687			Wish Paper
+moon	3994407	30	2500	10	11688			Wish Paper
+# New Year's Day: the letters of HAPPY NEW YEAR
+newyearsday	3994017	2	400	13	9270			letter A
+newyearsday	3994018	2	400	13	9270			letter E
+newyearsday	3994019	1	400	13	9270			letter H
+newyearsday	3994020	1	400	13	9270			letter N
+newyearsday	3994021	2	400	13	9270			letter P
+newyearsday	3994022	1	400	13	9270			letter R
+newyearsday	3994023	1	400	13	9270			letter W
+newyearsday	3994024	2	400	13	9270			letter Y
+# Lunar New Year: Yut Sticks and Gift Boxes all event long, the soup ingredients for the soup quest
+lunarnewyear	2430659	300	800	10				Yut Sticks
+lunarnewyear	2430658	100	250	10				New Year's Gift Box
+lunarnewyear	3994487	20	2500	10	12093			Rice Cake Soup ingredient
+lunarnewyear	3994488	20	2500	10	12093			Rice Cake Soup ingredient
+lunarnewyear	3994489	20	2500	10	12093			Rice Cake Soup ingredient
+# MMF: DJ JM's lost equipment (one piece per quest) and Tangyoon's BBQ ingredients
+mmf	4034900	1	800	33	59900			DJ JM's lost equipment
+mmf	4034901	1	800	33	59901			DJ JM's lost equipment
+mmf	4034902	1	800	33	59902			DJ JM's lost equipment
+mmf	4034903	1	800	33	59903			DJ JM's lost equipment
+mmf	4034904	1	800	33	59904			DJ JM's lost equipment
+mmf	4034905	1	800	33	59905			DJ JM's lost equipment
+mmf	4034906	1	800	33	59906			DJ JM's lost equipment
+mmf	4034908	100	600	33				BBQ ingredient
+mmf	4034909	100	600	33				BBQ ingredient
+mmf	4034910	100	600	33				BBQ ingredient
+mmf	4034911	100	600	33				BBQ ingredient
+mmf	4034912	100	600	33				BBQ ingredient
+# Thanksgiving: the Turkey Commando's Eye, any time until its quest is done
+thanksgiving	4032525	1	100	10			28977	Turkey Commando's Eye

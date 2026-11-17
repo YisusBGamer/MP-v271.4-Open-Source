@@ -1,0 +1,82 @@
+# item	min level	level up through	above that: one level of EXP (1) or nothing (0)	not for Burning characters (1)	name	levels: up to this many, fewer more likely the higher the level (default 1)
+2430218	1	199	0	0	Storm Growth Potion
+2430230	1	199	0	0	Storm Growth Potion
+2430473	1	199	0	0	Storm Growth Potion
+2430479	1	199	0	0	Storm Growth Potion
+2430632	1	199	0	0	Power Growth Potion
+2430979	1	199	0	0	Power Growth Potion
+2431154	1	199	0	0	BigWigs Storm Growth Potion
+2431384	1	199	0	0	Power Growth Potion
+2431874	60	80	0	0	RED Growth Potion Stage 1\t
+2431875	80	100	0	0	RED Growth Potion Stage 2
+2431952	1	180	0	0	Evolution Storm Growth Potion
+2432339	100	199	0	0	Mysterious Storm Growth Potion
+2432474	100	199	0	0	Vocalist Storm Growth Potion
+2433431	100	199	0	0	Bestie Growth Potion
+2433605	100	199	0	0	Bestie Growth Potion
+2433716	100	199	0	0	Bestie Growth Potion
+2434033	1	199	0	0	Pink Bean Storm Growth Potion
+2435405	1	199	0	0	12th Anniversary Growth Potion
+2436782	1	199	0	0	Storm Growth Potion
+2439660	200	239	1	0	Typhoon Growth Potion
+2436274	1	199	0	0	Storm Growth Potion
+2436386	1	199	0	0	Storm Growth Potion
+2430697	1	199	0	0	Happy Hour Storm Growth Potion
+2432171	1	199	0	0	Power Growth Potion
+2435601	100	199	0	0	Mysterious Storm Growth Potion
+2437902	1	199	0	0	Storm Growth Potion
+2630571	1	199	0	0	Storm Growth Potion
+2630813	101	239	1	0	Relay Master Growth Potion
+2631461	200	209	1	0	Rise Growth Potion I
+2631462	200	219	1	0	Rise Growth Potion II
+2631463	200	229	1	0	Rise Growth Potion III
+2632138	200	209	1	0	<Mountain of Awakening> Growth Potion 1
+2632139	200	219	1	0	<Mountain of Awakening> Growth Potion 2
+2632140	200	229	1	0	<Mountain of Awakening> Growth Potion 3
+2632141	200	239	1	0	<Mountain of Awakening> Growth Potion 4
+2632315	200	209	1	0	Ellinel Growth Potion 1
+2632316	200	219	1	0	Ellinel Growth Potion 2
+2632317	200	229	1	0	Ellinel Growth Potion 3
+2632318	200	239	1	0	Ellinel Growth Potion 4
+2632790	200	209	1	0	Neo Growth Potion 1
+2632791	200	219	1	0	Neo Growth Potion 2
+2632792	200	229	1	0	Neo Growth Potion 3
+2632793	200	249	1	0	Magnificent Growth Potion
+2632797	200	209	1	0	Neo Growth Potion 1
+2632798	200	219	1	0	Neo Growth Potion 2
+2632799	200	229	1	0	Neo Growth Potion 3
+2633222	200	209	1	0	Yeti x Pink Bean Growth Potion 1
+2633223	200	219	1	0	Yeti x Pink Bean Growth Potion 2
+2633314	200	209	1	0	Blooming Growth Potion (Lv. 200 - 209)
+2633315	200	219	1	0	Blooming Growth Potion (Lv. 200 - 219)
+2633316	200	229	1	0	Blooming Growth Potion (Lv. 200 - 229)
+2633612	200	209	1	1	Growth Potion (200 - 209)
+2633613	200	219	1	1	Growth Potion (200 - 219)
+2633614	200	229	1	1	Growth Potion (200 - 229)
+2633615	200	239	1	0	Typhoon Growth Potion
+2633617	200	209	1	1	Growth Potion (200 - 209)
+2633618	200	219	1	1	Growth Potion (200 - 219)
+2633619	200	229	1	1	Growth Potion (200 - 229)
+2633620	200	239	1	0	Typhoon Growth Potion
+2633621	200	249	1	0	Magnificent Growth Potion
+2633625	200	249	1	0	Magnificent Growth Potion
+2637134	200	269	1	0	Transcendent Growth Potion
+2637926	200	239	1	0	Typhoon Growth Potion
+2637927	200	249	1	0	Magnificent Growth Potion
+2637928	200	269	1	0	Transcendent Growth Potion
+2639828	200	269	1	0	Transcendent Growth Potion
+2633227	200	209	1	0	Lv. 200 - 209 Growth Potion
+2633228	200	219	1	0	Lv. 200 - 219 Growth Potion
+2633229	200	229	1	0	Lv. 200 - 229 Growth Potion
+2633426	200	239	1	0	Typhoon Growth Potion
+2633425	200	209	1	0	Growth Potion 1
+2633424	200	219	1	0	Growth Potion 2
+2633423	200	229	1	0	Growth Potion 3
+2635121	200	209	1	0	Spiegelmann's Growth Potion (200 - 209)
+2635884	200	209	1	0	Maple Expedition Growth Potion I
+2635885	200	219	1	0	Maple Expedition Growth Potion II
+2635886	200	229	1	0	Maple Expedition Growth Potion III
+2635887	200	239	1	0	Maple Expedition Growth Potion IV
+2635888	200	249	1	1	Maple Expedition Growth Potion V
+2631180	141	199	0	1	Extreme Growth Potion	10
+2435708	170	179	1	0	Breakthrough Potion 170

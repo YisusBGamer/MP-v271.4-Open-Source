@@ -1,0 +1,8 @@
+# Kid Draco's wishes (HolidayEvents.DRACO_WISHES, quests 12095-12099 in this order): crystal = the Wishbearing Dragon Crystal
+# that grants it, reward x count, alternative = the reward to pick instead (0 = none).
+crystal	reward	count	alternative	note
+3994491	4001832	12000	0	Spell Trace x12,000 (was a Golden Hammer 50%, retired in GMS v271)
+3994493	2049406	1	0	Special Potential Scroll
+3994495	2049119	1	0	Incredible Chaos Scroll 60%
+3994497	2046318	1	2046319	Accessory ATT / Magic ATT 15%
+3994499	2046227	1	2046228	Armor ATT / Magic ATT 15%

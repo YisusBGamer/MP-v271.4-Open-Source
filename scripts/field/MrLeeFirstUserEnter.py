@@ -1,0 +1,6 @@
+# Field script MrLeeFirstUserEnter
+# onFirstUserEnter: 620100045, 620100046, 620100047, 620100048, 620100049, 620100050, 620100051, 620100052, 620100053, 620100054, 620100055, 620100056, 620100057, 620100058, 620100059, 620100060, 620100061, 620100062, 620100063, 620100064, 620100065, 620100066, 620100067, 620100068, 620100069, 620100070, 620100071, 620100072, 620100073, 620100074, 620100075, 620100076, 620100077
+# Map.wz names this hook but carries no dialogue, spawn or condition for it:
+# there is nothing to port and no script to copy.
+# Without this file the server answers "Map not implemented, please report to developer."
+# Documented no-op.

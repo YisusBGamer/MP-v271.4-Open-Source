@@ -1,0 +1,23 @@
+# Holiday boxes: one prize by weight (plus 2 Swordie Coins).
+box	item	count	weight	note
+# The event boxes that couldn't be opened any more (their 2017 scripts are gone): Easter's.
+easter	2000004	10	25	Elixir
+easter	2000005	5	20	Power Elixir
+easter	4001832	50	25	Spell Trace
+easter	2022336	1	15	Secret Box
+easter	2022538	20	15	Red Easter Egg
+# New Year's Gift Box 1.
+new-year-1	2000004	10	25	Elixir
+new-year-1	2000005	5	20	Power Elixir
+new-year-1	4001832	50	25	Spell Trace
+new-year-1	2022955	2	20	New Year's Festivities (ATT/M.ATT +40, 30 min)
+new-year-1	2450042	1	5	2x EXP Coupon
+new-year-1	2028157	1	5	Magic Die
+# New Year's Gift Box 2 (from Kid Draco and his uncle, the better one).
+new-year-2	2000005	10	20	Power Elixir
+new-year-2	4001832	100	25	Spell Trace
+new-year-2	2022955	3	20	New Year's Festivities
+new-year-2	2450042	1	15	2x EXP Coupon
+new-year-2	4001832	12000	5	Spell Trace x12,000 (was a Golden Hammer 50%, retired in GMS v271)
+new-year-2	2049406	1	5	Special Potential Scroll
+new-year-2	2028157	1	10	Magic Die

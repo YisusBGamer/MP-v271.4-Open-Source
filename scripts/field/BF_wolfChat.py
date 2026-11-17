@@ -1,0 +1,6 @@
+# Field script BF_wolfChat
+# onUserEnter: 109090200, 109090201, 109090202, 109090203, 109090204, 910040120
+# Map.wz names this hook but carries no dialogue, spawn or condition for it:
+# there is nothing to port and no script to copy.
+# Without this file the server answers "Map not implemented, please report to developer."
+# Documented no-op.

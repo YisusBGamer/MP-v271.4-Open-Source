@@ -1,0 +1,17 @@
+# Nightmare Paradise (NightmareParadiseInstanceHelper): stages per mode, their map, kind (hunt = defeat the stage's
+# monsters, boss = defeat the boss), boss (0 none) and the stage window (EpicDungeonUI.img/stageUI: 6 stage,
+# 7 middle boss, 8 final boss)
+mode	stage	field	kind	boss	ui	note
+normal	1	993270000	hunt	0	6	Abandoned Shrine <1>
+normal	2	993270200	boss	9834623	7	Abandoned Shrine <2>, Contaminated Shensung
+normal	3	993270400	hunt	0	6	Abandoned Shrine <3>
+normal	4	993270600	hunt	0	6	Path to the Temple
+normal	5	993270800	boss	9834630	7	Temple of the Guardian, Contaminated Ara
+normal	6	993271000	hunt	0	6	Demon Sky Summit
+normal	7	993271200	boss	9834635	8	Burning Pavilion, Contaminated Zigang
+story	1	993274000	hunt	0	0	Abandoned Shrine <1>
+story	2	993274100	boss	9834623	0	Abandoned Shrine <2>, Contaminated Shensung
+story	3	993274200	hunt	0	0	Path to the Temple
+story	4	993274300	boss	9834630	0	Temple of the Guardian, Contaminated Ara
+story	5	993274400	hunt	0	0	Demon Sky Summit
+story	6	993274500	boss	9834635	0	Burning Pavilion, Contaminated Zigang

@@ -1,0 +1,6 @@
+# Story quests that ask for a boss defeat through a quest record (Quest.wz Check/1 infoNumber + infoex) instead of a
+# kill count (StoryBossRecords): when the mob dies, everyone it credits who has the quest in progress gets the record.
+mob	quest	record	key	value	note
+8880155	34331	34360	boss	1	[Lachelein] Decisive Battle: Lucid (Easy, last phase)
+8880150	34331	34360	boss	1	[Lachelein] Decisive Battle: Lucid (Normal, last phase)
+8880153	34331	34360	boss	1	[Lachelein] Decisive Battle: Lucid (Hard, last phase)

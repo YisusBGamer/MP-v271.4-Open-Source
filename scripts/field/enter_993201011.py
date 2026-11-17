@@ -1,0 +1,56 @@
+# Somewhere in Ereve (993201011): To Ereve, the Sky Island (36617). Kidan and the Ereve Elder meet Mihile; the Elder
+# asks after Chromile. Then Shinsoo, and Empress' Road.
+execfile("scripts/quest/_mihile_story.py")
+
+if sm.hasQuest(36617):
+    try:
+        scene_start()
+        sm.blind(1, 255, 0, 0)
+        sm.sendDelay(300)
+        unblack(1000)
+        me("(Ereve, the floating island. It's so peaceful and beautiful.)")
+        say(NEINHEART, "Those two up ahead come from the Piyo Tribe, natives of Ereve. Don't stare at them. It wouldn't "
+                       "be polite.")
+        say(KIDAN, "Welcome back, Your Majesty.")
+        say(KIDAN, "Ah, a newcomer. A new knight, perhaps?")
+        say(CYGNUS, "Yes, indeed.")
+        say(NEINHEART, "The Empress believes he may be the #bKnight of Light#k we've been searching for.")
+        say(NEINHEART, "This is Kidan, Ereve's master at arms. ...Well, Mihile, introduce yourself.")
+        me("H-Hello, I am Mihile.")
+        say(ELDER, "Oh, the Knight of Light. Found at last.")
+        say(NEINHEART, "He hasn't awakened yet, mind you, but Her Majesty sees his potential.")
+        say(NEINHEART, "Of course, awakening a Knight of Light is far from an exact science...")
+        say(CYGNUS, "Don't worry, Mihile. I believe in you.")
+        say(CYGNUS, "You are the Knight of Light. It's in you, I know it. They'll see it soon.")
+        me("Thank you, Empress.")
+        say(ELDER, "Well, now. You remind me of someone.")
+        say(ELDER, "That face... Ah!")
+        say(ELDER, "Is your father's name #bChromile#k, by any chance?")
+        me("No, it's not. I'm sorry.")
+        say(ELDER, "My mistake, pardon me. Chromile was the name of the #bprevious Knight of Light#k.")
+        say(ELDER, "His son would be about your age.")
+        say(NEINHEART, "Regardless, the Knight of Light is not some hereditary title.")
+        say(ELDER, "True, indeed.")
+        say(ELDER, "Ah, where are my manners? A pleasure to make your acquaintance, Sir Knight-in-training.")
+        me("The pleasure is mine.")
+        say(NEINHEART, "If there's nothing further...")
+        black(1000)
+        unblack(1000)
+        say(SHINSOO, "Empress, welcome back.")
+        say(CYGNUS, "Thank you, Shinsoo.")
+        me("(Shinsoo... What an amazing creature.)")
+        say(SHINSOO, "I sense your fatigue, Majesty. You bear the fate of many on your shoulders. Do not push your body "
+                     "beyond its limits.")
+        say(CYGNUS, "I'll take that under advisement, yes.")
+        say(NEINHEART, "Shinsoo has been here since the time of the very first Empress.")
+        say(NEINHEART, "Through Cygnus, she expresses her power, as she did through all the Empresses of old. Their hearts "
+                       "are one, and as one, they protect this land.")
+        say(NEINHEART, "And that makes it our job to protect them. We're building an order of Cygnus Knights to do just "
+                       "that.")
+        black(500)
+        finish(36617)
+        hide("03", "04")
+    finally:
+        scene_end()
+sm.warpInstanceOut(EREVE, 0)
+sm.dispose()

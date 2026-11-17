@@ -1,0 +1,9 @@
+# Maps where GMS shows the Quick Move entries besides QuickMoveModule's towns (button y), or doesn't (n) (Char.hasQuickMoveButton)
+map	button	note
+100000100	y	Henesys: Henesys Market
+402000000	y	Savage Terminal: Brigand's Row
+410000200	y	Cheong-woon Valley: Marketplace
+410000300	y	Ristonia: Fountain Square
+410004000	y	Narin: Sun-Mottled Plateau
+693007001	y	Helia: Katanos
+320000000	n	Subspace Crevasse: Zero's Temple

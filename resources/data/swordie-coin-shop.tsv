@@ -1,0 +1,77 @@
+# The Swordie Coin Shop (SwordieCoinShop, @shop), in the order shown.
+# type: item (one item; id = the item), outfit (items = versions split by |; id = set_<name letters>),
+# symbols (pick one of items, count each; Kind SYMBOL), hammer (one item, capped), pocket (opens the pocket slot;
+# {charm} = the Charm level), items (item:quantity list). cap 0 = none; weekly 1 = the cap resets weekly.
+type	id	section	name	price	cap	weekly	count	items	note
+# chairs
+item		chairs		40	0	0		3010512	
+item		chairs		40	0	0		3015503	
+item		chairs		40	0	0		3018064	
+item		chairs		50	0	0		3015051	
+item		chairs		50	0	0		3015938	
+item		chairs		60	0	0		3015245	
+item		chairs		60	0	0		3018813	
+item		chairs		60	0	0		3018335	
+item		chairs		60	0	0		3019150	
+item		chairs		70	0	0		3015450	
+item		chairs		70	0	0		3018352	
+item		chairs		80	0	0		3014045	
+item		chairs		80	0	0		3018511	
+item		chairs		80	0	0		3018071	
+# mounts (permanent mount coupons)
+item		mounts		80	0	0		2432293	
+item		mounts		80	0	0		2434517	
+item		mounts		80	0	0		2435517	
+item		mounts		90	0	0		2435965	
+item		mounts		90	0	0		2436405	
+item		mounts		100	0	0		2638343	
+item		mounts		100	0	0		2433733	
+item		mounts		120	0	0		2432295	
+item		mounts		120	0	0		2433349	
+item		mounts		120	0	0		2634646	
+item		mounts		150	0	0		2634807	
+item		mounts		150	0	0		2830549	
+# damage skins
+item		skins		30	0	0		2438290	
+item		skins		30	0	0		2438298	
+item		skins		30	0	0		2438303	
+item		skins		30	0	0		2635408	
+item		skins		40	0	0		2630749	
+item		skins		40	0	0		2439393	
+item		skins		40	0	0		2439408	
+item		skins		40	0	0		2637161	
+item		skins		50	0	0		2438146	
+item		skins		50	0	0		2630652	
+# outfit sets (permanent cash equips); where there are two versions, the player picks one
+outfit		outfits	Knight of Darkness	130	0	0		1006047,1053872,1073665,1103478	
+outfit		outfits	Elite Knight	130	0	0		1006195,1053965,1073740,1103570	
+outfit		outfits	Arbiter of Justice	130	0	0		1005795,1053716,1073541,1103339|1005795,1053717,1073542,1103339	
+outfit		outfits	Darkness Chaser	130	0	0		1005798,1053720,1073543,1103340|1005798,1053721,1073543,1103340	
+outfit		outfits	Abyssal Shrine	100	0	0		1006311,1054036,1073785|1006311,1054037,1073785	
+outfit		outfits	Black Wolf Yevgnen	100	0	0		1006486,1054156,1073889	
+outfit		outfits	Tactician Neinheart	100	0	0		1022336,1054192,1073911	
+outfit		outfits	Pixel Hero	100	0	0		1005362,1053437,1103192	
+outfit		outfits	Mad Mage	160	0	0		1005611,1012725,1053629,1082750,1073476,1103291	
+# bags
+item		bags		60	0	0		3080016	
+item		bags		40	0	0		3080018	
+item		bags		50	0	0		2650007	
+item		bags		50	0	0		2650010	
+item		bags		50	0	0		2650016	
+item		bags		30	0	0		2650011	
+item		bags		40	0	0		4330032	
+item		bags		25	0	0		4330031	
+item		bags		25	0	0		4330030	
+# services
+pocket	pocket	services	Open the pocket slot now	30	0	0			Your Charm goes up to level {charm}, which opens the pocket slot.
+# time-savers
+symbols	arcane	time	Arcane Symbol x10	10	6	1	10	1712001,1712002,1712003,1712004,1712005,1712006	For a symbol you wear that isn't at its max level yet; the new ones merge into it.
+symbols	sacred	time	Sacred Symbol x10	25	4	1	10	1713000,1713001,1713002,1713003,1713004,1713005	For a symbol you wear that isn't at its max level yet; the new ones merge into it.
+symbols	grand	time	Grand Sacred Symbol x5	40	2	1	5	1714000	For a symbol you wear that isn't at its max level yet; the new ones merge into it.
+items	fragments	time	Sol Erda Fragment x50	15	6	1		4009548:50	Untradable fragments for the HEXA Matrix.
+items	energy	time	Dense Sol Erda Energy	5	10	1		2636422:1	500 Sol Erda energy (half a Sol Erda).
+hammer	hammerBelt	time		400	1	0		2644204	
+hammer	hammerFace	time		400	1	0		2644205	
+hammer	hammerEye	time		500	1	0		2644206	
+hammer	hammerEarring	time		500	1	0		2644207	
+hammer	hammerMedal	time		400	3	0		2644208	

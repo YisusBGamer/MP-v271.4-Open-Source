@@ -1,0 +1,39 @@
+# Endgame gear of the Demo character the boss and party quest testers copy (JourneyDemo). slot: a BodyPart name, empty for
+# the item's own slot, arcane / sacred for symbols (in this order from 1600 / 1700). Worn items are scrolled, starred to
+# their maximum, flamed and cubed by AutoGearModule when Demo is built.
+slot	item	note
+	1005980	Eternal Knight Hat
+	1042433	Eternal Knight Top
+	1062285	Eternal Knight Bottom
+	1082760	Eternal Knight Gloves
+	1073629	Eternal Knight Shoes
+	1103433	Eternal Knight Cape
+	1152212	Eternal Knight Shoulder
+	1402268	Genesis Two-handed Sword
+	1032316	Commanding Force Earring
+	1132308	Dreamy Belt
+	1182285	Genesis Badge
+	1012632	Berserked
+	1022278	Magic Eyepatch
+	1162080	Cursed Red Spellbook
+	1190555	Mitra's Rage: Warrior
+	1352206	Princess No's Medal
+	1672095	Total Control
+Pendant	1122430	Source of Suffering
+ExtendedPendant	1122266	Reinforced Engraved Gollux Pendant
+Ring1	1113306	Endless Terror
+Ring2	1113075	Superior Gollux Ring
+Ring3	1113074	Reinforced Gollux Ring
+Ring4	1113067	Meister Almighty Ring
+arcane	1712001	Vanishing Journey
+arcane	1712002	Chu Chu Island
+arcane	1712003	Lachelein
+arcane	1712004	Arcana
+arcane	1712005	Morass
+arcane	1712006	Esfera
+sacred	1713000	Cernium
+sacred	1713001	Arcus
+sacred	1713002	Odium
+sacred	1713003	Shangri-La
+sacred	1713004	Arteria
+sacred	1713005	Carcion

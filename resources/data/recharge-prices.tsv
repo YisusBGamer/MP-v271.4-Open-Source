@@ -1,0 +1,27 @@
+# Meso per unit when a shop recharges a throwing star, bullet or capsule stack (matches GMS). Others: 1 meso per unit.
+item	unit_price	note
+2070000	0.3	Subi Throwing-Stars
+2070001	0.4	Wolbi Throwing-Stars
+2070002	0.5	Mokbi Throwing-Stars
+2070003	0.6	Kumbi Throwing-Stars
+2070004	0.6	Tobi Throwing-Stars
+2070005	0.7	Steely Throwing-Knives
+2070006	0.8	Ilbi Throwing-Stars
+2070007	1.0	Hwabi Throwing-Stars
+2070008	1.0	Snowball
+2070009	1.0	Wooden Top
+2070010	1.0	Icicle
+2070011	1.0	Maple Throwing-Stars
+2070023	1.2	Flame Throwing Stars
+2070024	0.8	Infinite Throwing-Knives
+2070026	1.0	White Gold Throwing Stars
+2330000	0.3	Bullet
+2330001	0.4	Split Bullet
+2330002	0.5	Mighty Bullet
+2330003	0.6	Vital Bullet
+2330004	0.7	Shiny Bullet
+2330005	0.8	Eternal Bullet
+2330008	1.0	Giant Bullet
+2330016	1.0	White Gold Bullet
+2331000	0.7	Blaze Capsule
+2332000	0.7	Glaze Capsule

@@ -1,0 +1,57 @@
+{
+  "news": [
+    {
+      "date": "2026-11-04",
+      "title": "Maple Planner and boss checks",
+      "text": "The planner works: it remembers your checks, and Start / Complete handle your dailies. Move to Boss and the Contents Guide show a check on bosses you've cleared. Thanks to Twoal from the Discord."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Story Skip",
+      "text": "Always available now, and it works for every class."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Erel Light",
+      "text": "Can be created again. More fixes coming, it's not fully playable yet."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Bosses",
+      "text": "Lotus, Princess No, Damien, Lucid and Ursus fixes. Princess No drops match GMS. Practice Mode works."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Classes",
+      "text": "Fixes for Adele, Hero, Night Walker, Wild Hunter, Mihile, Zero, Kaiser, Cadena, Ren, Luminous and more."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Enhancing",
+      "text": "The Scroll tab doesn't freeze anymore, every item has GMS's extra upgrade slot, and Star Force gets the old Star Catching bonus."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Surprise Style Boxes",
+      "text": "Open again from the Cash Inventory and the Cash Shop, Use 1 and Use All both work."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Other players",
+      "text": "No more floating when someone enters the map, and guild names are readable again."
+    },
+    {
+      "date": "2026-10-31",
+      "title": "New launcher on the way",
+      "text": "One window for playing and, for admins, running the server."
+    }
+  ],
+  "slides": [],
+  "knownIssues": [
+    {
+      "title": "Bug board",
+      "text": "Every known bug, sorted by priority: https://claude.ai/artifact/S5fwGXPWfuPuUohPZsaHFF",
+      "link": "https://claude.ai/artifact/S5fwGXPWfuPuUohPZsaHFF"
+    }
+  ]
+}

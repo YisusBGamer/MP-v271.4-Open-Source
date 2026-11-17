@@ -1,0 +1,4 @@
+# Sunny Sunday: the Monster Park EXP bonus (percent) for a date, dd/MM/yyyy in the server's time zone.
+# A date that is not listed keeps the plain Sunday +50% (the GMS rule); 0 turns the bonus off for that date.
+date	mpIncExp
+#14/02/2026	50

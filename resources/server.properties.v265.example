@@ -1,0 +1,33 @@
+# Example settings for a v265.3 server. Copy to server.properties in the folder the server runs from.
+# The database is set in database.properties (see database.properties.v265.example next to this file).
+
+# Game data: the classic XML export of the GMS v265.3 client (one folder per .wz, split parts merged).
+data.wzDir=C:/MapleStory v265.3 XML Files
+
+# .dat caches built from that data. Give each game data version a folder of its own.
+data.datDir=dat265
+
+# The v265.3 client folder (with MapleStory.exe). The login file-check lists are made from it once and kept in the
+# dat folder (client-files).
+data.clientDir=C:/MapleStory265
+
+# Ports. The client dials 8484 unless a login hook sends it elsewhere. Channels use loginPort + 100 * world + channel
+# (Bera = world 1: 8585, 8586) and are sent to the client by the server.
+net.loginPort=8484
+net.webApiPort=3000
+
+# Launcher API (login, register, account overview over plain TCP).
+# The connection is not encrypted (passwords included): only offer it on a trusted network or behind a tunnel.
+net.clientApiEnabled=true
+net.clientApiPort=8483
+# false: no account creation through the launcher (ServerConstants.WEB_REGISTRATION_ENABLED = false turns off both)
+net.clientApiRegistration=true
+# minutes a launcher login may wait before starting the game (after the game has used it, it lasts 24 h)
+net.clientApiTokenMinutes=60
+# minutes without a request before the connection is closed (0 = never)
+net.clientApiIdleMinutes=60
+# open launcher connections per address
+net.clientApiMaxPerAddress=4
+
+web.requireHttps=false
+web.allowHttpFromLan=true

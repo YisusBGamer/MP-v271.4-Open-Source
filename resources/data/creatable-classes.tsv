@@ -1,0 +1,60 @@
+# Classes the v271.4 character creation screen offers (login job flags in JobConstants.LoginJob), one row per class.
+# final_job: the 4th job (@job's choice); login_job: the LoginJob name bots pick; race: client race id; order: race order (the screen order is unchecked).
+# status: creatable, uncertain (unchecked against the screen), parked (event or discontinued; not tested). tiers: job advancements.
+class	final_job	login_job	race	order	status	tiers	note
+Battle Mage	3212	RESISTANCE	0	1	creatable	4	
+Wild Hunter	3312	RESISTANCE	0	2	creatable	4	
+Mechanic	3512	RESISTANCE	0	3	creatable	4	
+Blaster	3712	RESISTANCE	0	4	creatable	4	
+Hero	112	EXPLORER	1	5	creatable	4	
+Paladin	122	EXPLORER	1	6	creatable	4	
+Dark Knight	132	EXPLORER	1	7	creatable	4	
+Arch Mage (Fire, Poison)	212	EXPLORER	1	8	creatable	4	
+Arch Mage (Ice, Lightning)	222	EXPLORER	1	9	creatable	4	
+Bishop	232	EXPLORER	1	10	creatable	4	
+Bowmaster	312	EXPLORER	1	11	creatable	4	
+Marksman	322	EXPLORER	1	12	creatable	4	
+Night Lord	412	EXPLORER	1	13	creatable	4	
+Shadower	422	EXPLORER	1	14	creatable	4	
+Buccaneer	512	EXPLORER	1	15	creatable	4	
+Corsair	522	EXPLORER	1	16	creatable	4	
+Dawn Warrior	1112	CYGNUS	2	17	creatable	4	
+Blaze Wizard	1212	CYGNUS	2	18	creatable	4	
+Wind Archer	1312	CYGNUS	2	19	creatable	4	
+Night Walker	1412	CYGNUS	2	20	creatable	4	
+Thunder Breaker	1512	CYGNUS	2	21	creatable	4	
+Aran	2112	ARAN	3	22	creatable	4	
+Evan	2217	EVAN	4	23	creatable	4	
+Mercedes	2312	MERCEDES	5	24	creatable	4	
+Demon Slayer	3112	DEMON	6	25	creatable	4	
+Demon Avenger	3122	DEMON	6	26	creatable	4	
+Phantom	2412	PHANTOM	7	27	creatable	4	
+Dual Blade	434	DUAL_BLADE	8	28	creatable	6	
+Mihile	5112	MIHILE	9	29	creatable	4	
+Luminous	2712	LUMINOUS	10	30	creatable	4	
+Kaiser	6112	KAISER	11	31	creatable	4	
+Angelic Buster	6512	ANGELIC	12	32	creatable	4	
+Cannoneer	532	CANNONER	13	33	creatable	4	
+Xenon	3612	XENON	14	34	creatable	4	
+Zero	10112	ZERO	15	35	creatable	4	
+Shade	2512	SHADE	16	36	creatable	4	
+Pink Bean	13100	PINK_BEAN	17	37	parked	1	event class, parked 11-05; one advancement
+Kinesis	14212	KINESIS	18	38	creatable	4	
+Cadena	6412	CADENA	19	39	creatable	4	
+Illium	15212	ILLIUM	20	40	creatable	4	
+Ark	15512	ARK	21	41	creatable	4	
+Pathfinder	332	PATHFINDER	22	42	creatable	4	
+Hoyoung	16412	HO_YOUNG	23	43	creatable	4	
+Adele	15112	ADELE	24	44	creatable	4	
+Kain	6312	KAIN	25	45	creatable	4	
+Yeti	13500	YETI	26	46	parked	1	event class, parked 11-05; race 26 is the pre-event Lara slot
+Lara	16212	LARA	27	47	creatable	4	
+Khali	15412	KHALI	28	48	creatable	4	
+Jett	570	JETT	29	49	parked	4	no longer creatable; flag off
+Ren	16112	REN	30	50	creatable	4	
+Mo Xuan	17512	MO_XUAN	1000	51	creatable	4	
+Hayato	4112	HAYATO	1001	52	creatable	4	
+Kanna	4212	KANNA	1002	53	creatable	4	
+Lynn	17212	LYNN	1003	54	creatable	4	
+Sia Astelle	18212	SIA	1004	55	creatable	4	
+Erel Light	18112	EREL_LIGHT	1005	56	creatable	4	

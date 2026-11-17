@@ -1,0 +1,54 @@
+# Summon skills the v271 client reads SUMMONED_CREATED differently for (Summoned.summonedCreated). userClone: the two clone delay ints (client 0x14101fdd0);
+# templateDrawn: drawn from the template id (client 0x1441813b0); tail*: the skill-specific tail - tailEffects: bat effect handles + duration, tailInt: one int, tailTerm: the summon term, tailIntByte: an int and a byte, tailByte: one byte.
+rule	skill	note
+userClone	14111024	Dark Servant
+userClone	14121054	Shadow Illusion
+userClone	14121055	Shadow Illusion
+userClone	14121056	Shadow Illusion
+userClone	131001017	Pink Shadow
+userClone	131002017	Pink Shadow
+userClone	131003017	Pink Shadow
+userClone	400001071	Transcendent: Time
+userClone	400031007	Spirit of Elluel
+userClone	400031008	Spirit of Elluel
+userClone	400031009	Spirit of Elluel
+userClone	400041095	Shadow Slide
+userClone	500001085	HEXA Transcendent: Time
+userClone	500061004	Shadow Slide
+userClone	500061046	Spirit of Elluel
+userClone	500061047	Spirit of Elluel
+userClone	500061048	Spirit of Elluel
+templateDrawn	12000022	Flame Elemental
+templateDrawn	12100026	Greater Flame Elemental
+templateDrawn	12110024	Grand Flame Elemental
+templateDrawn	12120007	Final Flame Elemental
+templateDrawn	14000027	Shadow Bat
+tailEffects	14121003	Dark Omen (NightWalker.DARK_OMEN)
+tailEffects	14121012	Dark Omen
+tailEffects	14141017	HEXA Dark Omen
+tailEffects	14141020	HEXA Dark Omen
+tailInt	2341006	HEXA Fountain of Vengeance
+tailInt	400011065	Rift of Damnation (DawnWarrior.RIFT_OF_DAMNATION_SUMMON)
+tailInt	400021047	Altar of Annihilation (BattleMage.ALTAR_OF_ANNIHILATION)
+tailInt	164141056	HEXA Talisman: Seeking Ghost Flame
+tailInt	152141501	Mytocrystal Expanse
+tailInt	42111100	Tengu Strike
+tailInt	42141012	HEXA [Order] Pulverizing Strike
+tailInt	400011167	Sentinel Rise
+tailInt	500001005	Sol Hecate
+tailInt	500001024	HEXA Fury of the Wild
+tailInt	500001026	HEXA Fury of the Wild
+tailInt	500001028	HEXA Fury of the Wild
+tailInt	500001063	HEXA Resistance Infantry
+tailInt	500001064	HEXA Resistance Infantry
+tailInt	500001065	HEXA Resistance Infantry
+tailInt	500001066	HEXA Resistance Infantry
+tailInt	500001067	HEXA Resistance Infantry
+tailTerm	151111001	Reign of Destruction (Adele.TERRITORY)
+tailTerm	151141015	HEXA Reign of Destruction
+tailIntByte	500001068	HEXA Defender of the Demon
+tailIntByte	500001070	HEXA Defender of the Demon
+tailByte	42111101	Tengu Strike (Left)
+tailByte	42111102	Tengu Strike (Right)
+tailByte	42141013	HEXA Summon Tengu
+tailByte	42141014	HEXA Piercing Shot

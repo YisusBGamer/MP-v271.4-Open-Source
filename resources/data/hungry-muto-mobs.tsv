@@ -1,0 +1,18 @@
+# Hungry Muto (HungryMutoInstanceHelper): each phase's monsters, in spawn order, and the material each drops
+mob	phase	material	note
+9833030	0	0	Pinedeer
+9833031	0	2	Ewenana
+9833032	0	4	Flyon
+9833033	0	6	Unripe Wolfruit
+9833034	0	8	Green Catfish
+9833035	0	10	Rhyturtle
+9833036	0	12	Crilia
+9833037	0	14	Birdshark
+9833038	1	1	Bighorn Pinedeer
+9833039	1	3	Ramanana
+9833040	1	5	Angry Flyon
+9833041	1	7	Ripe Wolfruit
+9833042	1	9	Blue Catfish
+9833043	1	11	Boss Rhyturtle
+9833044	1	13	Patriarch Crilia
+9833045	1	15	Patriarch Birdshark

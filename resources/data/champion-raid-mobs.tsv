@@ -1,0 +1,8 @@
+# Champion raid mobs per stage (ChampionRaid), in stage order: scout, brute, and the five boss variants (missions 2, 4, 6, 8, 10)
+stage	scout	brute	bosses	note
+0	9834538	9834539	9834573,9834574,9834575,9834576,9834577	Jade Scout / Jade Brute / Jade War Master
+1	9834541	9834542	9834578,9834579,9834580,9834581,9834582	Azure Scout / Azure Brute / Azure War Master
+2	9834544	9834545	9834583,9834584,9834585,9834586,9834587	Scarlet Scout / Scarlet Brute / Scarlet War Master
+3	9834547	9834548	9834588,9834589,9834590,9834591,9834592	Jade Viper / Jade Elite / Jade Draco Lord
+4	9834550	9834551	9834593,9834594,9834595,9834596,9834597	Azure Viper / Azure Elite / Azure Draco Lord
+5	9834553	9834554	9834598,9834599,9834600,9834601,9834602	Scarlet Viper / Scarlet Elite / Scarlet Draco Lord

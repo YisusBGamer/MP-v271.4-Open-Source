@@ -1,0 +1,280 @@
+# Key entries the v271 client refuses or allows (FuncKeyRules), from its key map reader; rule = which check
+rule	id	note
+notKeyable	110	refused outright (0x141004d20): Pirate Blessing (Cannoneer)
+notKeyable	252	Invincible Belief (Hero)
+notKeyable	253	Invincible Belief (Paladin)
+notKeyable	254	Invincible Belief (Dark Knight)
+notKeyable	255	Empirical Knowledge (Arch Mage - Fire/Poison)
+notKeyable	256	Empirical Knowledge (Arch Mage - Ice/Lightning)
+notKeyable	257	Empirical Knowledge (Bishop)
+notKeyable	258	Adventurer's Curiosity (Bow Master)
+notKeyable	259	Adventurer's Curiosity (Marksman)
+notKeyable	260	Adventurer's Curiosity (Pathfinder)
+notKeyable	261	Thief's Cunning (Night Lord)
+notKeyable	262	Thief's Cunning (Shadower)
+notKeyable	263	Thief's Cunning (Dual Blade)
+notKeyable	264	Pirate Blessing (Buccaneer)
+notKeyable	265	Pirate Blessing (Corsair)
+notKeyable	1001008	War Leap
+notKeyable	1001011	War Leap
+notKeyable	1221019	Divine Mark
+notKeyable	1341002	Dark Bident
+notKeyable	3001007	Double Jump
+notKeyable	3011005	Double Jump
+notKeyable	4221019	Meso Explosion
+notKeyable	4241007	HEXA Meso Explosion
+notKeyable	5001005	Dash
+notKeyable	10001254	Elemental Shift
+notKeyable	11001028	Soul Leap
+notKeyable	11141000	Equinox Power
+notKeyable	11141001	Equinox Power
+notKeyable	11141003	Equinox Power
+notKeyable	12001028	Firewalk
+notKeyable	13001024	Gust Swift
+notKeyable	15001024	Elemental Shift
+notKeyable	15141004	HEXA Thunderbolt
+notKeyable	20050286	Close Call
+notKeyable	21001010	Smash Swing
+notKeyable	22110019	Wind Jump
+notKeyable	31141001	HEXA Demon Impact: Demon Chain
+notKeyable	31141014	HEXA Cerberus Chomp: Teeth of Tartarus
+notKeyable	31141015	Demon Awakening
+notKeyable	42111003	Shikigami Charm
+notKeyable	51001015	Weightless Heart
+notKeyable	60011216	Soul Buster
+notKeyable	60021278	Chain Arts: Thrash
+notKeyable	61001000	Dragon Slash
+notKeyable	80000000	Pirate Blessing (Cannoneer)
+notKeyable	80001143
+notKeyable	80001705	Rope Lift
+notKeyable	80001768	Rope Lift
+notKeyable	80002377	Lv. 1 Paragliding
+notKeyable	80002378	Lv. 2 Paragliding
+notKeyable	80002379	Lv. 3 Paragliding
+notKeyable	80002380	Lv. 4 Paragliding
+notKeyable	80002734	Monster Busters
+notKeyable	80002753	Papyrus of Luck
+notKeyable	80002758	Invincible Belief
+notKeyable	80002759	Invincible Belief (Hero)
+notKeyable	80002760	Invincible Belief (Paladin)
+notKeyable	80002761	Invincible Belief (Dark Knight)
+notKeyable	80002762	Empirical Knowledge
+notKeyable	80002763	Empirical Knowledge (Arch Mage - Fire/Poison)
+notKeyable	80002764	Empirical Knowledge (Arch Mage - Ice/Lightning)
+notKeyable	80002765	Empirical Knowledge (Bishop)
+notKeyable	80002766	Adventurer's Curiosity
+notKeyable	80002767	Adventurer's Curiosity (Bow Master)
+notKeyable	80002768	Adventurer's Curiosity (Marksman)
+notKeyable	80002769	Adventurer's Curiosity (Pathfinder)
+notKeyable	80002770	Thief's Cunning
+notKeyable	80002771	Thief's Cunning (Night Lord)
+notKeyable	80002772	Thief's Cunning (Shadower)
+notKeyable	80002773	Thief's Cunning (Dual Blade)
+notKeyable	80002774	Pirate Blessing
+notKeyable	80002775	Pirate Blessing (Buccaneer)
+notKeyable	80002776	Pirate Blessing (Corsair)
+notKeyable	80002779	Riftbringer
+notKeyable	80002801	Nerota Relic Hunt
+notKeyable	80002837	Glory Guard Medal
+notKeyable	80002852	Phan's Goblin Baton
+notKeyable	80002857	Noble Fire
+notKeyable	80002863	Rising Knight Training
+notKeyable	80002885	Eileen's Support
+notKeyable	80002897	Mysterious Magical Pouch
+notKeyable	80002923	Neon Mushroom Watch
+notKeyable	80002924	7-Star Catered Buffet
+notKeyable	80002926	VIP Skill
+notKeyable	80002939	Special Therapy
+notKeyable	80002943	Baek Gong's Flute
+notKeyable	80002966	Chun Gong's Sword
+notKeyable	80002977	Man Gong's Jewel
+notKeyable	80003015	Time to Prepare
+notKeyable	80003016	Renee's Magic Orb
+notKeyable	80003023	Renee's Magic Music Box
+notKeyable	80003025	Renee and the Magic Bell
+notKeyable	80003046	Floral Blessing
+notKeyable	80003058	Nature's Friend
+notKeyable	80003064	Pop Reaction
+notKeyable	80003082	Gift Showtime
+notKeyable	80003090	Prancing with the Stars
+notKeyable	80003137	Shining Shooting Stars
+notKeyable	80003141	Starlight Symphony, Assemble!
+notKeyable	80003224	Innate Gift
+notKeyable	80003341	Continuous Ring
+notKeyable	80003877	Grounded Body
+notKeyable	80003880	Curse of the Scholarly Cephalopod
+notKeyable	80004203	Phantasmal Waltz
+notKeyable	80011471	Elunarium Power
+notKeyable	80011529	Dr. Bebe Strengthening Boost Potion
+notKeyable	80011530	Please stop dying.
+notKeyable	80011536	Mr. Saint's Strengthening Boost Potion (Attack)
+notKeyable	80011537	Mr. Saint's Strengthening Boost Potion (HP)
+notKeyable	80011964	Qi Cultivation
+notKeyable	100000275	Piercing Thrust
+notKeyable	100000278	Shadow Strike
+notKeyable	101000100	Air Raid
+notKeyable	101000101	Air Riot
+notKeyable	101000200	Piercing Thrust
+notKeyable	101000201	Shadow Strike
+notKeyable	101100100	Throwing Weapon
+notKeyable	101100101	Advanced Throwing Weapon
+notKeyable	101100200	Blade Ring
+notKeyable	101100201	Advanced Blade Ring
+notKeyable	101110101	Wheel Wind
+notKeyable	101110102	Advanced Wheel Wind
+notKeyable	101110202	Rolling Assault
+notKeyable	101110203	Advanced Rolling Assault
+notKeyable	101120100	Falling Star
+notKeyable	101120101	Falling Star
+notKeyable	101120102	Groundbreaker
+notKeyable	101120104	Mega Groundbreaker
+notKeyable	101120201	Wind Striker
+notKeyable	101120202	Storm Break
+notKeyable	131001000	Pink Powerhouse
+notKeyable	135001000	Snack Dash
+notKeyable	135001006	Yeti Smash
+notKeyable	135001018	Rage Enhancement: Explosive Fists
+notKeyable	152120001	Radiant Javelin II
+notKeyable	152120003	Radiant Orb II
+notKeyable	161121043	Final Imugi Spirit Sword: Years Uncounted
+notKeyable	182141007	SHINE Stellar II - Algol
+notKeyable	400010070	Final Beyond Blade - White Tiger
+notKeyable	400011048	Flare Slash
+notKeyable	400011079	Draco Surge
+notKeyable	400011134	Ego Weapon
+notKeyable	400011135	Ego Weapon
+notKeyable	400011157	Final Imugi Spirit Sword: Blade of the Unbound Heart
+notKeyable	400011165	Eternal Light
+notKeyable	400021062	Reaction - Spectral Blast
+notKeyable	400021111	Crystal Gate
+notKeyable	400031076	Overbite
+notKeyable	400041074	Muscle Memory Finale
+notKeyable	400041075	Haunted Edge
+notKeyable	400041087	Arts: Astra
+notKeyable	400051043	True Spirit Claw
+notKeyable	400051045	Lightning God Spear Strike
+notKeyable	400051047	Devious Nightmare
+notKeyable	400051048	Devious Dream
+notKeyable	500001008	Sol Hecate: Phlegethon
+notKeyable	500061068	Crystal Gate
+keyable	3141009	allowed before the remaining checks (0x141004d20): Extra Quiver Cartridge
+keyable	13141007	Anemoi
+keyable	24141003	Fate Shuffle
+keyable	24141008	La Mort Carte
+keyable	25141008	Dusk Blow
+keyable	35141011	Robo Conversion: CB-P1
+notKeyableExtra	80003094	0x141004d20 helpers 0x140f3cfe0, 0x141079160, 0x14107a5d0, 0x140f3d740 (mounts and such): Peep Delivery
+notKeyableExtra	80003155	Happy Playtime!
+notKeyableExtra	80003176	Click Click Momentree
+notKeyableExtra	80012711	Travel Companions
+notKeyableExtra	80001436	Action Skill
+notKeyableExtra	80001579	Star Planet Action Skill
+notKeyableExtra	80001609	Star Planet Event Action Skill
+notKeyableExtra	80001437	Action: Prance
+notKeyableExtra	80001438	Action: Moonwalk
+notKeyableExtra	80001439	Action: Growl
+notKeyableExtra	80001486	Action: Shovel Snow
+notKeyableExtra	80001512	Action: Red M-Forcer
+notKeyableExtra	80001513	Action: Blue M-Forcer
+notKeyableExtra	80001514	Action: Green M-Forcer
+notKeyableExtra	80001515	Action: Yellow M-Forcer
+notKeyableExtra	80001516	Action: Pink M-Forcer
+notKeyableExtra	80001573	Action: Mass Dance
+notKeyableExtra	80001574	Action: Headspin
+notKeyableExtra	80001575	Action: Hands Over Head
+notKeyableExtra	80001576	Action: Photo Zone
+notKeyableExtra	80001577	Action: Shining Star
+notKeyableExtra	80001578	Action: Shining Star
+notKeyableExtra	80001603	Action: Halloween Event Dance
+notKeyableExtra	80001604	Action: Halloween Event Dance
+notKeyableExtra	80001605	Action: Halloween Event Dance
+notKeyableExtra	80001606	Action: Leftward Halloween Dance
+notKeyableExtra	80001607	Action: Center Halloween Dance
+notKeyableExtra	80001608	Action: Rightward Halloween Dance
+notKeyableExtra	80011143	Action: Offering Hearts Salute
+notKeyableExtra	80001586	Allied Airship
+notKeyableExtra	80001587	Airship Lv. 1
+notKeyableExtra	80001588	Airship Lv. 2
+notKeyableExtra	80001589	Airship Lv. 3
+notKeyableExtra	80001590	Airship Lv. 4
+notKeyableExtra	80001591	Airship Lv. 5
+notKeyableExtra	80001629	Airship Attack
+notKeyableExtra	80002458
+addAttackTrigger	3000008	Skill.wz addAttack skill/skillPlus (isAuto 0) numbered x0xxx/x9xxx (map read by 0x140fde3c0): Double Jump
+addAttackTrigger	5710023
+addAttackTrigger	5710024
+addAttackTrigger	5710025
+addAttackTrigger	5710026
+addAttackTrigger	20000014	Tutorial Skill
+addAttackTrigger	20000015	Tutorial Skill
+addAttackTrigger	21000006	Smash Swing
+addAttackTrigger	21000007	Smash Swing
+addAttackTrigger	22110019	Wind Jump
+addAttackTrigger	22110022	Dragon Flash
+addAttackTrigger	22110023	Dragon Flash
+addAttackTrigger	22140022	Dragon Dive
+addAttackTrigger	23100004	Parting Shot
+addAttackTrigger	23110006	Aerial Barrage
+addAttackTrigger	23120013	Staggering Strikes
+addAttackTrigger	100000275	Piercing Thrust
+addAttackTrigger	100000278	Shadow Strike
+addAttackTrigger	101000100	Air Raid
+addAttackTrigger	101000200	Piercing Thrust
+addAttackTrigger	101000201	Shadow Strike
+addAttackTrigger	101100100	Throwing Weapon
+addAttackTrigger	101100200	Blade Ring
+addAttackTrigger	101110101	Wheel Wind
+addAttackTrigger	101110202	Rolling Assault
+addAttackTrigger	101120100	Falling Star
+addAttackTrigger	101120102	Groundbreaker
+addAttackTrigger	101120201	Wind Striker
+addAttackTrigger	101120202	Storm Break
+addAttackTrigger	112000001	Paw Swipe 2
+addAttackTrigger	112000002	Paw Swipe 3
+addAttackTrigger	112000003	Furious Strikes
+addAttackTrigger	112000019	Bear 3.5 Hit
+addAttackTrigger	112100001
+addAttackTrigger	112100002	Leopard's Pounce
+addAttackTrigger	112100003	Leopard's Roar
+addAttackTrigger	112120001	Friend Launcher 2
+addAttackTrigger	112120002	Friend Launcher 3
+addAttackTrigger	112120003	Friend Launcher 4
+addAttackTrigger	152110004	Winged Javelin
+addAttackTrigger	152120001	Radiant Javelin II
+addAttackTrigger	152120003	Radiant Orb II
+addAttackTrigger	400010070	Final Beyond Blade - White Tiger
+triggerRefused	13120007	refused even as an addAttack trigger (0x14057f1e0): Emerald Dust
+triggerRefused	5120012	Double Down
+triggerRefused	5210015	All Aboard
+triggerRefused	5220014	Double Down
+triggerRefused	5320007	Double Down
+triggerRefused	5320008	Mega Monkey Magic
+triggerRefused	15120003	Typhoon
+triggerRefused	23120013	Staggering Strikes
+triggerRefused	24120002	Carte Noir
+triggerRefused	24140004	HEXA Carte Noir
+triggerRefused	35120014	Double Down
+triggerRefused	32100010	Grim Contract
+triggerRefused	32110017	Grim Contract II
+triggerRefused	32120019	Grim Contract III
+triggerRefused	35110017	Advanced Homing Beacon
+triggerRefused	35120002	Enhanced Support Unit
+triggerRefused	61120008	Final Form
+triggerRefused	61120219	Dragon Slash
+triggerRefused	182001000	Ray
+triggerRefused	182101000	Boom
+triggerRefused	23100004	Parting Shot
+triggerRefused	23110006	Aerial Barrage
+wipesPreset	80002534	the entry decoder refuses it: Alliance Skill
+wipesPreset	80003124	Private Course
+wipesPreset	172121000	found by testing in the client (fallback in case the dat lacks keyFlags): Strike
+oldStyleKeyable	5100016	x0xxx/x9xxx number the entry decoder still accepts: Advanced Dash
+oldStyleKeyable	37120002	Muzzle Flash
+blanked	5001005	skill entry the client blanks (0x14057f8c0): Dash
+blankedType7	5010422	type 7 entry the client blanks (0x14057f8c0)
+blankedType7	5010429
+keyableGuild	91001022	the only keyable guild (9100) skills: Boss Slayers
+keyableGuild	91001023	Undeterred
+keyableGuild	91001024	For the Guild!
+keyableGuild	91001025	Hard Hitter
+keyableGuild	91001036	Sharenian Demon Mount

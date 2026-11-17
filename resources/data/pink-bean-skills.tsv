@@ -1,0 +1,67 @@
+# Pink Bean skills (LevelUnlockModule; Pink Bean learns by level, not SP). level = the level it unlocks at (Skill.wz 13100 reqLev; the two 13000 skills are given here because that job is skipped at creation); level empty = a hidden half of an attack, its level follows the character level (max 300)
+skill	level	note
+130000111	0	Master of Organization
+130000112	0	Curse of Black Bean
+131001000	0	Pink Powerhouse
+131001004	0	Let's Roll!
+131001024	0	Bounce
+131001005	0	Umbrella
+131000016	0	Pink Bean's Dignity
+131001013	30	Let's Rock!
+131001008	30	Sky Jump
+131000014	30	Pink Bean Power
+131001006	45	Chill Out
+131001021	60	Pink Bean's Scooter
+131001007	60	Instant Garden
+131001009	60	Everybody Happy!
+131001026	80	Magic Show Time
+131001010	100	Blazing Yo-yo
+131001015	100	Go, Mini Beans!
+131001018	120	Pink Warrior
+131001025	130	Pink Splitter
+131001012	140	Pink Pulverizer
+131001017	155	Pink Shadow
+131001019	165	Go, Pink Beans!
+131001020	175	Pink Bean's Tutu
+131001023	185	Pink Bean's Matryoshka
+131001022	195	Twilight of Gods
+131001027	200	Triple Color Spotlight
+131002000		Pink Powerhouse
+131001001		Pink Powerhouse
+131001101		Pink Powerhouse
+131001002		Pink Powerhouse
+131001102		Pink Powerhouse
+131001003		Pink Powerhouse
+131001103		Pink Powerhouse
+131002004		Let's Roll!
+131001104		Let's Roll!
+131002016		Pink Bean's Dignity Damage
+131003016		Pink Bean's Dignity: Mini Bean Attack
+131001113		Electric Guitar
+131001213		Whistle
+131001313		Megaphone
+131001208		Sky Jump Grounder
+131002014		Pink Bean Power Damage
+131002021		Pink Bean's Scooter
+131001107		Posie
+131001207		Breezy
+131001307		Pretty
+131002010		Blazing Yo-yo
+131001011		Blazing Yo-yo
+131002015		Go, Mini Beans!
+131002018		Pink Warrior
+131002025		Pink Splitter
+131002012		Pink Pulverizer Damage
+131002019		Pink Drop
+131002020		Pink Bean's Tutu
+131002023		Pink Bean's Matryoshka
+131003023		Pink Bean's Matryoshka
+131004023		Pink Bean's Matryoshka
+131005023		Pink Bean's Matryoshka
+131006023		Pink Bean's Matryoshka
+131002022		Twilight of Gods
+131003022		Twilight of Gods
+131004022		Twilight of Gods
+131005022		Twilight of Gods
+131006022		Twilight of Gods
+131002026		Magic Show Time

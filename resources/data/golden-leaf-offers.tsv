@@ -1,0 +1,16 @@
+# Golden Maple Leaf shop (GoldenLeafModule, @menu leaves). id: the offer key the code and leafShop.py use (solErda, nx, charSlot have their own handling; item 0 = not an item); quantity per purchase (nx: NX credit per Leaf); leaves = price; many = several at once; note = shown in the shop; name = item name (not read)
+id	tab	item	quantity	leaves	many	note	name
+fragment	progression	4009548	1	5	y	untradable	Sol Erda Fragment
+solErda	progression	0	1	10	y	6th job; goes into the HEXA Matrix	
+arcaneSelector	progression	2630437	1	2	y	level 200 and the 5th job	Arcane Symbol Selector Coupon
+sacredSelector	progression	2633616	1	10	y	an area whose story you finished	Sacred Symbol Selector Coupon
+blackCubes	progression	5062010	100	10			Black Cube
+bonusCubes	progression	5062500	100	15			Bonus Potential Cube
+whiteBonusCubes	progression	5062503	100	15			Bonus Bright Cube
+nx	progression	0	8000000	1	y	Cash Shop NX credit	
+charSlot	account	0	1	5		one more character on this account	
+chairGoldenPig	cosmetic	3010929	1	100			Golden Pig Chair
+chairMesoTree	cosmetic	3018511	1	150			Golden Meso Tree Chair
+mountMapleLeaf	cosmetic	2437487	1	250		permanent mount	Permanent Maple Leaf Mount Coupon
+mountGoldenDragon	cosmetic	2630768	1	300		permanent mount	Permanent Great Golden Dragon Mount Coupon
+emblemGoldMaple	cosmetic	1190301	1	500		level 100, +10 all stats, +2 attack	Gold Maple Leaf Emblem

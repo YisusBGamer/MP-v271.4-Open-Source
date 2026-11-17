@@ -1,0 +1,115 @@
+# Hunting grounds: map, recommended character level from, to; authentic = Authentic Force when Map.wz has none.
+# Picked from popular training guides (ayumilove, Rento's Reboot leveling guide on Dexless, GamerEmpire), checked
+# against this client's map data. The ranges are rough: a map is still fine a few levels outside them. Grandis
+# ranges start at the monsters' level (Map.wz spawns, Mob.wz levels). @qm sorts them by "from".
+map	from	to	authentic	note
+# Victoria Island, Edelstein, Savage Terminal, Pantheon (10-60)
+100020000	10	15		Spore Hill - Green Mushroom
+402000112	10	20		Hedgehog Prickleyard 3
+100040000	12	18		Golem's Temple Entrance - Stone Golem
+310030100	12	20		Edelstein Strolling Path 2
+100040300	15	25		Golem's Temple 3 - Flaming Mixed Golem
+310030310	20	30		Streetlight Row
+101030100	22	30		North Forest: Green Tree Trunk - Curse Eye
+402000122	23	32		Waste Treatment Plant 3
+402000123	30	40		Shaded Dump Site - Dumpy Hoodlum
+120041100	30	40		Gold Beach Seaside 2
+400010400	38	45		Enchanted Forest - Gravi Stonegar
+402000322	38	47		Mr. Hazard's Lair 3
+103020410	42	50		Kerning City Subway: Line 2 Area 2 - Wraith
+102030000	48	60		Wild Boar Land
+# Victoria Island, Ossyria, Edelstein, Magatia (55-100)
+102040301	57	68		Military Camp 1 - Skeledog, Mummydog
+105010000	60	72		Silent Swamp - Copper Drake
+200010200	65	77		Stairway to the Sky I
+230020200	72	82		Sand Castle Playground
+211040200	75	87		Ice Valley II - White Fang
+310050800	62	72		Verne Mine: Shaft 4
+260020600	83	97		Sahel 2 - Sand Rat, Scorpion
+261020600	87	97		Lab - Area B-3 - Iron Mutae
+261020400	90	100		Lab - Area C-2
+300020000	92	102		Ellin Forest: Deep Inside the Cave
+# Leafre, Ludibrium, Korean Folk Town, El Nath, Herb Town (100-155)
+240010000	100	108		West Leafre Forest - Rash
+240010600	102	112		Sky Nest II - Blood Harp
+220020600	108	120		Toy Factory <Apparatus Room> - Robo
+220060201	115	125		Unbalanced Time - Dual Ghost Pirate
+220070400	118	128		Forgotten Passage
+211041100	120	130		Forest of Dead Trees I - Coolie Zombie
+224000100	125	135		Black Mountain Entrance - Moon Bunny
+224000112	130	140		Tiger Forest II
+211042200	130	142		The Cave of Trials III - Bain
+224000131	132	142		Moonlight Ridge
+240040320	136	146		Black Wyvern's Nest - Dark Wyvern
+251010402	136	146		Red-Nose Pirate Den 2
+224000142	136	146		Goblin House - Yellow King Goblin
+240040512	145	155		The Dragon Nest Left Behind 2 - Skelosaurus, Skelegon
+# Kerning Tower, Time Lane, Henesys Ruins, Omega Sector, Twilight Perion (148-200)
+103041119	148	160		Kerning Tower: 2F Cafe <4> - Enraged Espresso Machine
+103041157	148	160		Kerning Tower: 6F Hair Salons <3>
+270030630	155	167		Detour to Oblivion 4
+271010300	160	170		Hill North of Henesys Ruins
+221030300	160	171		Boswell Field III
+271010400	163	173		Ravaged Forest: Dreamy Forest Trail
+271030320	168	180		Knight Stronghold: Armory 2 - Official Knights
+221030620	168	180		Inside the Mothership: Corridor 203
+241000216	170	180		Kingdom Road: Corrupted Magic Forest 1
+221030660	175	187		Inside the Mothership: Corridor H03 - Gray Luxury Saucer
+273010000	185	192		Deserted Southern Ridge - Swollen Stump
+273040000	188	198		Forsaken Excavation Site 1
+273040100	190	200		Forsaken Excavation Site 2 - Sinister Rocky Mask
+273060300	192	200		Warrior Grounds
+# Arcane River (200-265)
+450001012	200	205		Vanishing Journey: Weathered Land of Rage - Raging Erda
+450001216	203	208		Vanishing Journey: Below the Cave
+450014020	203	210		Reverse City: Subway Tunnel 1
+450001261	205	210		Vanishing Journey: Hidden Fire Zone - Soulful Erda
+450014300	207	213		Reverse City: Hidden Research Train
+450002002	210	215		Chu Chu Island: Mottled Forest 1
+450002010	210	216		Chu Chu Island: Slurpy Forest Depths
+450002012	212	220		Chu Chu Island: Torrent Zone 1 - Catfish
+450015240	215	222		Yum Yum Island: Fungos Forest 4
+450003310	220	225		Lachelein: Chicken Festival 2 - Gallus
+450003420	220	226		Lachelein: Revelation Place 3
+450003510	223	230		Lachelein: Nightmare Clocktower 2F - Dreamkeeper
+450005130	228	235		Arcana: The Forest of Earth - Earth Spirit
+450005222	230	237		Arcana: Between Frost and Thunder 2
+450005430	233	240		Arcana: Cavern Lower Path - Befuddled Spirit
+450006150	235	242		Morass: Bully Blvd. 2
+450006230	237	243		Morass: Shadowdance Hall 4
+450006420	240	247		Morass: That Day in Trueffet 3
+450007110	240	248		Esfera: Mirror-touched Sea 2 - Aranya
+450007160	243	250		Esfera: Mirror-touched Sea 7 - Keeper of Darkness
+450016040	243	250		Sellas: The Final Edge of Light 4
+450016140	246	252		Sellas: Plunging Depths 4
+450009120	248	255		Moonbridge: Last Horizon 2
+450011440	252	258		Labyrinth of Suffering Interior 5
+450011620	255	262		Labyrinth of Suffering Deep Core 3
+450012340	258	265		Limina: End of the World 1-5 - Ascendion, Foreberion
+# Grandis (260+): map, from, to, Authentic Force the map asks for (Map.wz barrierAut)
+410000550	260	264	30	Cernium: Rocky Overlook 4
+410000720	262	266	30	Cernium: Royal Library Section 3
+410000750	263	267	30	Cernium: Royal Library Section 6
+410000950	264	268	50	Burning Cernium: Western City Ramparts in Battle 4
+410001030	266	270	50	Burning Cernium: Eastern City Ramparts in Battle 6
+410000890	267	272	50	Burning Cernium: Burning Royal Library Section 6
+410003070	265	269	70	Hotel Arcus: Outlaw-Infested Wastes 4
+410003140	267	271	70	Hotel Arcus: Nostalgic Drive-in Theater 6
+410003200	269	273	100	Hotel Arcus: Train with No Destination 6
+410007051	270	273	130	Odium: Road to the Castle's Gate 4
+410007008	271	274	160	Odium: Captured Alley 3
+410007013	272	275	180	Odium: Sunny Laboratory 2
+410007016	273	277	200	Odium: Laboratory Behind Locked Door 2
+410007027	275	278	230	Shangri-La: Blooming Spring 2
+410007030	276	279	260	Shangri-La: Gentle Summer 2
+410007033	277	280	280	Shangri-La: Drowsy Autumn 2
+410007036	278	282	300	Shangri-La: Harsh Winter 2
+410007523	280	283	330	Arteria: Empress Road: Western Outskirts
+410007528	282	285	360	Arteria: Bottom Deck Passage 2
+410007538	284	287	400	Arteria: Top Deck Passage 2
+410007621	285	288	430	Carcion: Giant Coral Colony 2
+410007641	287	290	460	Carcion: Enfolding Forest 2
+410007661	289	292	500	Carcion: Breathtaking Cave 2
+410013621	290	294	630	Tallahart: Silent Ashlands 2
+410013644	292	296	660	Tallahart: Fate-Fields of Judgment 2
+410013661	294	300	700	Tallahart: Night Road 2

@@ -1,0 +1,20 @@
+# Grandis bosses' Eternal set tokens and armor boxes (EternalSources): cost of the item for one piece, which pieces (eternal-pieces.tsv set), ownClass y = only the user's class's pieces.
+item	cost	set	ownClass	note
+2634472	10	armor		Kalos's Residual Determination
+2635747	10	armor		Ferocious Beast Entanglement Ring (Kaling)
+2830304	10	armor		Echo of Ancient Resolve (First Adversary)
+2638063	10	accessory		Distorted Ambition (Limbo)
+2639252	10	accessory		Trace of Eternal Loyalty (Baldrix)
+2831104	10	accessory		Lingering Twisted Desire (Jupiter)
+2638064	1	armor		Divine Eternal Armor Box
+2638065	1	armor		Ferocious Beast Eternal Armor Box
+2830306	1	armor		Ancient Eternal Armor Box
+2831226	1	armor		Ancient Eternal Armor Box
+2638066	1	accessory		Eternal Armor of Desire Box
+2639253	1	accessory		Eternal Armor of Oaths Box
+2831106	1	accessory		Eternal Twisted Armor Box (Jupiter)
+2832799	1	accessory		Eternal Twisted Armor Box
+2830376	1	accessory		Eternal Armor of Oaths Box
+2638067	1	armor	y	Divine Eternal Armor Box (for your job)
+2638068	1	armor	y	Ferocious Beast Eternal Armor Box (for your job)
+2638069	1	accessory	y	Eternal Armor of Desire Box (for your job)

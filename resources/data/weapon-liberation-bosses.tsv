@@ -1,0 +1,16 @@
+# Genesis / Destiny Weapon liberation boss quests (GenesisLiberation). weapon: genesis or destiny; record: the quest record that holds clear/point (35650 Genesis, 35858 the first Destiny stage, 35878 the second); clear = the record's clear value; remnant = Black Mage Remnant given with it (0 = none); points = Traces of Darkness the quest asks for; mobs = boss templates whose death counts
+weapon	record	quest	clear	remnant	points	mobs	note
+genesis	35650	35658	1	0	500	8840014	Hard Von Leon
+genesis	35650	35659	2	4036458	500	8860000	Arkarium (Normal)
+genesis	35650	35660	3	4036460	500	8880000	Hard Magnus
+genesis	35650	35661	4	4036461	1000	8950102	Hard Lotus (3rd phase)
+genesis	35650	35662	5	4036462	1000	8880101	Hard Damien (as BossCooldown.DamienHard)
+genesis	35650	35663	6	4036463	1000	8880302	Hard Will (3rd phase)
+genesis	35650	35664	7	4036464	1000	8880153,8880177	Hard Lucid: 3rd phase / reward box
+genesis	35650	35665	8	4036465	1000	8880450,8880410	Verus Hilla (Normal / Hard)
+destiny	35858	35854	1	0	2000	8880614	Battle of the Chosen: Hard Chosen Seren (treasure chest)
+destiny	35858	35855	2	0	2500	8881038	Battle of the Guardian: Chaos Kalos (treasure chest)
+destiny	35858	35856	3	0	3000	8880945	Battle of the Apostle: Hard Kaling
+destiny	35878	35880	1	0	10000	8881775,8881805	Battle of the Adversary: Hard / Extreme First Adversary (treasure chest)
+destiny	35878	35881	2	0	12500	8881384	Battle of the Abyss: Hard Limbo (last phase)
+destiny	35878	35882	3	0	15000	8881674	Battle of the Captain: Hard Baldrix (last phase)

@@ -1,0 +1,62 @@
+# Boss clear monsters (BossFirstClearModule): the monsters that end a boss fight, by boss and difficulty
+# (empty: the boss has one). Mobs whose ids BossConstants owns (Lotus cores, Will, Verus Hilla, Seren, the
+# Grandis chests) are added in BossFirstClearModule.
+name	difficulty	mobs	note
+Zakum	Easy	8800022	
+Zakum	Normal	8800002	
+Zakum	Chaos	8800102	
+Horntail	Easy	8810214	
+Horntail	Normal	8810018	
+Horntail	Chaos	8810122,8810118	
+Papulatus	Easy	8500002	
+Papulatus	Normal	8500012	
+Papulatus	Chaos	8500022	
+Magnus	Easy	8880010	
+Magnus	Normal	8880002	
+Magnus	Hard	8880000	
+Hilla	Normal	8870000	
+Hilla	Hard	8870100	
+Mori Ranmaru	Normal	9421581	
+Mori Ranmaru	Hard	9421589	
+Pierre	Normal	8900103	
+Pierre	Chaos	8900003	
+Von Bon	Normal	8910100	
+Von Bon	Chaos	8910000	
+Crimson Queen	Normal	8920106	
+Crimson Queen	Chaos	8920006	
+Vellum	Normal	8930100	
+Vellum	Chaos	8930000	
+Von Leon	Easy	8840007	
+Von Leon	Normal	8840000	
+Von Leon	Hard	8840014	
+Arkarium	Easy	8860005	
+Arkarium	Normal	8860000	
+Pink Bean	Normal	8820001	
+Pink Bean	Chaos	8820212	
+Cygnus	Easy	8850111	
+Cygnus	Normal	8850011	
+Gollux	Easy	9601459	
+Gollux	Normal	9601460	
+Gollux	Hard	9601461	
+Gollux	Hell	9601462	
+Lotus	Normal	8950002	
+Lotus	Hard	8950102	
+Damien	Normal	8880111,8950111	the clear is the clear room's Restrained Sword of Destruction
+Damien	Hard	8880101,8950112	
+Guardian Angel Slime	Normal	9210052,8880726	
+Guardian Angel Slime	Chaos	9210051,8880725	
+Lucid	Easy	8880156	
+Lucid	Normal	8880167	
+Lucid	Hard	8880177	
+Will	Normal	8880342	
+Will	Hard	8880302	
+Gloom	Normal	8644650	
+Gloom	Chaos	8644655,9210046	
+Darknell	Normal	8645009	
+Darknell	Hard	8645066	
+Chosen Seren	Hard	8880615	
+Black Mage		8880504	
+Akechi Mitsuhide		9601623	
+Princess No		9450022	
+Julieta		9402282	
+OMNI-CLN		8880200	

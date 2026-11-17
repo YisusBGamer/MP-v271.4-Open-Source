@@ -1,0 +1,21 @@
+# Each Arcane River and Grandis area's town by the area's name, which its map name doesn't always say
+# ("Lake of Oblivion : Nameless Town" is Vanishing Journey's), so @go finds them by area too.
+map	area
+450001000	Vanishing Journey
+450014050	Reverse City
+450002000	Chu Chu Island
+450015060	Yum Yum Island
+450003000	Lachelein
+450005000	Arcana
+450006130	Morass
+450007040	Esfera
+450009050	Moonbridge
+450011120	Labyrinth of Suffering
+450012000	Limina
+410000500	Cernium
+410003010	Hotel Arcus
+410007000	Odium
+410007020	Shangri-La
+410007520	Arteria
+410007600	Carcion
+410013600	Tallahart

@@ -1,0 +1,1982 @@
+# item	mode	rewards (item*count*days[*weight[*stars*potential]]; meso*n; mp*n)	name  -- made from the v265 String.wz item descriptions (ItemBoxRewards); random = one by weight (equal if none)
+2430466	all	1662006*1*0;1672021*1*0	Princessoid Coupon
+2431403	all	5044006*1*7	World Map Warp Drive Coupon
+2431738	all	4000814*500*0	500-Maple-Point Coupon
+2431739	all	mp*1000*0	1000-Maple-Point Coupon
+2431740	all	4000814*1500*0	1500-Maple-Point Coupon
+2431741	all	4000814*3000*0	3000-Maple-Point Coupon
+2431742	all	4000814*4000*0	4000-Maple-Point Coupon
+2431743	all	4000814*10000*0	10000-Maple-Point Coupon
+2431747	all	4000814*10000*0	10000-Maple-Point Coupon
+2432122	all	mp*1000*0;2432128*1*0	Bonus Purchase Plus Box
+2432228	all	2049617*1*0;1112148*1*0	Katherine's Gift
+2432947	all	4000814*10000*0	10000-Maple-Point Coupon
+2433487	all	1004416*1*0	Cutie Birk Hat Coupon
+2433488	all	1052896*1*0	Cutie Birk  Outfit Coupon
+2433489	all	1102806*1*0	Cutie Birk Wings Coupon
+2433490	all	1082643*1*0	Cutie Birk Gloves Coupon
+2433491	all	1073039*1*0	Cutie Birk Shoes Coupon
+2433624	all	mp*50000*0	50,000-Maple-Point Coupon
+2433933	all	2433954*1*0;2433955*1*0	Black Heaven Special Package Coupon
+2433987	all	4000814*3000*0	3000-Maple-Point Coupon
+2433988	all	4000814*5000*0	5000-Maple-Point Coupon
+2433989	all	4000814*10000*0	10000-Maple-Point Coupon
+2434020	all	2048716*1*0	Powerful Rebirth Flame Coupon
+2434026	all	2048717*1*0	Eternal Rebirth Flame Coupon
+2434249	all	mp*1000*0	Lv.1 Perks Box
+2434250	all	mp*1000*0;5062010*1*0;2434247*1*0	Lv.2 Perks Box
+2434313	all	4000814*500*0	Lv.1 Perks Box
+2434346	all	5205003*1*0	Lv.1 Perks Box
+2434347	all	5205003*1*0;2432128*1*0;5062010*1*0	Lv.2 Perks Box
+2434350	all	5205003*1*0;2434354*1*0	Lv. 5 Perks Box
+2434500	all	1112191*1*0	[30-Day] Honey Bee Label Ring Coupon
+2434501	all	1115004*1*0	[30-Day] Honey Bee Chat Ring Coupon
+2434506	all	1004599*1*0	Black Ursus Hat
+2434508	all	1082668*1*0	Black Ursus Gloves
+2434509	all	1004597*1*0	White Ursus Hat
+2434511	all	1082666*1*0	White Ursus Gloves
+2434512	all	1004598*1*0	Brown Ursus Hat
+2434514	all	1082667*1*0	Brown Ursus Gloves
+2434547	all	5205008*1*0;2434559*1*0	Lv. 1 Maple Veteran Box
+2434550	all	2434292*1*0;5150107*1*0	Lv. 4 Maple Veteran Box
+2434551	all	2434558*1*0;2434546*1*0	Lv. 5 Maple Veteran Box
+2434552	all	5150107*1*0;2433384*1*0	Maple Honey Fashion Box
+2434554	all	4000814*500*0	500-Maple-Point Coupon
+2434555	all	mp*1000*0	1,000-Maple-Point Coupon
+2434556	all	4000814*1500*0	1500-Maple-Point Coupon
+2434557	all	4000814*2000*0	2,000-Maple-Point Coupon
+2434558	all	4000814*3000*0	3,000-Maple-Point Coupon
+2434559	all	2432271*1*0	Owl of Minerva x6 Coupon
+2434560	all	5062029*1*3	Bright Cube Coupon
+2434561	all	5152091*1*0	Trendy Royal Face Coupon
+2434562	all	5150107*1*0	September Royal Hair Coupon
+2434563	all	5062028*1*3	Glowing Cube Coupon
+2434564	all	5062800*1*0	Miracle Circulator Coupon
+2434620	random	5211110*1*0;4001832*1*0;2436500*1*0	Nexon Star Magic Box
+2434729	all	1112165*1*0	Green Forest Label Ring (30 Days) Coupon
+2434730	all	1112277*1*0	Green Forest Chat Ring (30 Days) Coupon
+2434763	all	3994586*1*0	Fusion Anvil Coupon
+2434770	all	5062800*1*0	Miracle Circulator Coupon
+2434781	all	1122334*1*90	Pendant of the Spirit (90 Days) Coupon
+2434813	all	4001852*1*0	Unity Training Center Entrance Charm Coupon
+2434930	random	2049501*1*0;4001832*1*0	Adequate Exploration Box
+2434931	random	2048716*1*0;2049705*1*0;2049500*1*0;2049501*1*0;4001832*1*0	Decent Exploration Box
+2434932	random	2048717*1*0;2048308*1*0;2048716*1*0;2049705*1*0;2049500*1*0;2049501*1*0;4001832*1*0	Substantial Exploration Box
+2434960	all	1004688*1*0	Slumbering Dragon Snapback Coupon
+2435084	all	1004703*1*0	Damien Snapback Coupon
+2435085	all	1115019*1*0	Damien Chat Ring Coupon
+2435086	all	1115108*1*0	Damien Label Ring Coupon
+2435154	all	1004723*1*0	Transcendence Stone Snapback Coupon
+2435155	all	1115020*1*0	Transcendence Stone Chat Ring Coupon
+2435156	all	1115109*1*0	Transcendence Stone Label Ring Coupon
+2435270	all	5000600*1*0	Ursie Pet Coupon
+2435273	all	1802563*1*0	Gym Cat Dumbbell Coupon
+2435274	all	5000602*1*0	Iron Rabbit Pet Coupon
+2435275	all	1802564*1*0	Iron Rabbit Engine Coupon
+2435299	all	1115105*1*0	Mighty Banana Label Ring (30 Days) Coupon
+2435300	all	1115018*1*0	Mighty Banana Chat Ring (30 Days) Coupon
+2435339	all	4310206*100*0	12th Anniversary Coin x100 Coupon
+2435340	all	4310206*200*0	12th Anniversary Coin x200 Coupon
+2435414	all	2049004*13*0	Pure Clean Slate Scroll 10% 13-Pack
+2435415	all	2048717*13*0	Eternal Rebirth Flame 13 Pack
+2435416	all	2432970*13*0	Special Medal of Honor 13 Pack
+2435417	all	2710002*13*0	Master Craftsman's Cube 13 Pack
+2435418	all	2049705*13*0	Epic Potential Scroll 50% 13 Pack
+2435468	all	2049004*1*0	Pure Clean Slate Scroll 10% Coupon
+2435469	all	2049705*1*0	Epic Potential Scroll 50% Coupon
+2435470	all	2710002*1*0	Master Craftsman's Cube Coupon
+2435471	all	2432970*1*0	Special Medal of Honor Coupon
+2435479	all	5062009*6*0;5530124*1*0	Thrilling Red Cube Six Pack
+2435480	random	5211110*1*0;4001832*1*0;2436500*1*0	NEW 넥슨별 매직박스
+2435482	all	1662146*1*0;1672079*1*0;2643008*1*0	Damienroid Coupon
+2435483	all	1662147*1*0;1672079*1*0;2643008*1*0	Aliciaroid Coupon
+2435552	all	4000814*10000*0	10000-Maple-Point Coupon
+2435564	all	2439630*1*0	Starry Night Orchid Set
+2435677	all	4000814*15000*0	15000-Maple-Point Coupon
+2435685	all	4037090*1*0	Daily V 90h Box
+2435714	all	2435708*1*0;2434558*1*0;2049700*1*0;3801189*1*0	Breakthrough Box (Lv. 170)
+2435752	all	5062800*3*0	Miracle Circulator x3 Coupon
+2435753	all	2432970*5*0	Special Medal of Honor x5 Coupon
+2435755	all	2048717*3*0	Eternal Rebirth Flame x3 Coupon
+2435803	all	1114300*1*0	Vengeful Ring Coupon
+2435806	all	2049705*10*0	Epic Potential Scroll 50% Double V Pack
+2435810	all	2049004*1*0	Pure Clean Slate Scroll 10% Coupon
+2435811	all	2049705*1*0	Epic Potential Scroll 50% Coupon
+2435812	all	2710002*1*0	Master Craftsman's Cube Coupon
+2435813	all	2432970*1*0	Special Medal of Honor Coupon
+2435846	all	1113279*1*0	House Wedding Ticket Coupon
+2435853	all	2433929*1*0;2432346*1*0	8-slot Coupon Pouch
+2435854	all	1004824*1*0	100K Likes Hat Coupon
+2435855	choose	4330021*1*0;4330022*1*0;4330035*1*0	Selective Profession 10 Slot Bag Coupon
+2435903	all	1662146*1*0;1672083*1*30	Damienroid Coupon
+2435904	all	1662147*1*0;1672083*1*30	Aliciaroid Coupon
+2435927	all	5153015*1*3	Skin Coupon Voucher
+2435928	all	5150107*1*3	September Royal Hair Coupon
+2435929	all	5152091*1*3	Trendy Royal Face Coupon
+2436017	all	5044006*1*7	World Map Warp Drive Coupon
+2436018	all	2540047*1*0	Maple Festival Hair Coupon
+2436087	all	1000124*1*30	Floral Bandana Coupon
+2436088	all	1001149*1*30	Floral Ayam Coupon
+2436092	all	2049705*15*0	Epic Potential Scroll 50% Moon Festival Pack
+2436110	all	5205005*1*0	10,000-Maple-Point Coupon
+2436236	all	5040004*1*1	Hyper Teleport Rock Coupon (1 Day)
+2436265	all	4000814*40000*0	40,000-Maple-Point Coupon
+2436266	all	4000814*5000*0	5,000-Maple-Point Coupon
+2436287	all	5062009*12*0;5530111*1*0	Red Cube Twelve Pack
+2436288	all	5062010*6*0;5530124*1*0	Black Cube Six Pack
+2436345	all	5205005*1*0	10,000-Maple-Point Coupon
+2436368	all	5062800*1*0;5062009*1*0	Override 180-min Box
+2436370	all	5680389*1*0	Power M-Point Charger Coupon
+2436371	all	2436895*1*0	Black Cube Twelve Pack
+2436372	all	1122428*1*0*1*15*Unique	Dominator Pendant Box
+2436394	all	2435708*1*0;2434558*1*0;2049700*1*0;3801189*1*0	Breakthrough Box (Lv. 170)
+2436402	all	2350002*1*0	Character Name Change Coupon Voucher
+2436417	all	1005999*1*0	Maple 5000-Day Hat Coupon
+2436418	all	1103448*1*0	Maple 5000-Day Cape Coupon
+2436419	all	1703204*1*0	Maple 5000-Day Flag Coupon
+2436532	all	2048717*1*0	Eternal Rebirth Flame Coupon
+2436533	all	2049004*1*0	Pure Clean Slate Scroll 10% Coupon
+2436534	all	2049705*1*0	Epic Potential Scroll 50% Coupon
+2436535	all	2710002*1*0	Master Craftsman's Cube Coupon
+2436536	all	2432970*1*0	Special Medal of Honor Coupon
+2436554	all	1662129*1*0;1672083*1*30	Manjiroid Coupon
+2436584	all	5060048*2*0	Override 60-min Box
+2436585	all	5205005*1*0	10,000-Maple-Point Coupon
+2436586	all	5062500*11*0;2048226*1*0	Override 60-hr Box
+2436587	all	1122428*1*0*1*15*Unique	Dominator Pendant Box
+2436603	all	4310228*1*0	Lucky Magpie Sack
+2436604	all	2048717*1*0	Lucky Eternal Rebirth Flame Sack
+2436605	all	2710003*1*0	Lucky Meister's Cube Sack
+2436606	all	2049004*1*0	Lucky Pure Clean Slate Scroll 10% Sack
+2436607	all	2432970*1*0	Lucky Special Medal of Honor Sack
+2436636	all	1004935*1*0	White M-Forcer Helmet Coupon
+2436711	all	4310225*1*0;4036314*1*0	Festival Box
+2436894	all	5062009*6*0;5530124*1*0	Red Cube Six Pack
+2436895	all	5062010*12*0;5530111*1*0	Black Cube Twelve Pack
+2436955	all	2431789*10*0	Mastery Book 20 (10 Pack)
+2436956	all	2431790*10*0	Mastery Book 30 (10 Pack)
+2436961	all	2710002*10*0	13th Anniversary Master Craftsman's Cube Package
+2436962	all	2432970*10*0	13th Anniversary Medal of Honor Package
+2436963	all	5450012*1*7	메이플M 아란 상자 30
+2436965	all	2693043*10*0;5010083*1*30	메이플M 아란 상자 70
+2436966	all	5681023*1*0;2450083*2*0	메이플M 아란 상자 90
+2437019	all	2710002*10*0	13th Anniversary Master Craftsman's Cube Package
+2437088	all	1122334*1*0	Pendant of the Spirit Coupon (1 Day)
+2437089	all	1122334*1*0	Pendant of the Spirit Coupon (7 Days)
+2437090	all	1122334*1*0	Pendant of the Spirit Coupon (14 Days)
+2437091	all	1122334*1*0	Pendant of the Spirit Coupon (30 Days)
+2437092	all	1122334*1*0	Pendant of the Spirit Coupon (1 Day)
+2437093	all	1122334*1*0	Pendant of the Spirit Coupon (7 Days)
+2437094	all	1122334*1*0	Pendant of the Spirit Coupon (14 Days)
+2437095	all	1122334*1*0	Pendant of the Spirit Coupon (30 Days)
+2437128	all	5205003*1*0;4001832*3000*0;2434769*1*0;3801189*1*0	Breakthrough Box (Lv. 150)
+2437137	all	1012626*1*0	Cadena Mask Coupon
+2437171	all	5680389*1*0	Power M-Point Charger Coupon
+2437174	all	1122428*1*0*1*15*Unique	Dominator Pendant Box
+2437183	all	2048717*7*0	Eternal Rebirth Flame Coupon
+2437236	all	4036313*1*0	Snowing Mesos Pouch
+2437267	all	2643008*10*0	Fairy Heart Enhancement Stone x10 Coupon
+2437276	all	5680389*1*0	Power M-Point Charger Coupon
+2437279	all	2049700*1*0	Epic Potential Scroll 100% Coupon
+2437548	all	2437084*1*0;2437550*1*0;2437551*1*0	Triple Lucid Pets Full Package
+2437549	all	5000641*1*0	Ebony Lucid Pet Coupon
+2437550	all	5000642*1*0	Powder Lucid Pet Coupon
+2437551	all	5000643*1*0	Rose Lucid Pet Coupon
+2437557	all	4000814*30000*0	30,000-Maple-Point Coupon
+2437558	all	mp*100000*0	100,000-Maple-Point Coupon
+2437559	all	mp*500000*0	500,000-Maple-Point Coupon
+2437572	all	5000290*1*0;5000291*1*0;5000292*1*0	Triple Angel Pets Full Package
+2437576	all	5000293*1*0;5000294*1*0;5000295*1*0	Triple Roo-bot Pets Full Package
+2437580	all	5000309*1*0;5000310*1*0;5000311*1*0	Triple Root Abyss Pets Full Package
+2437584	all	5689000*3*0	Premium Water of Life x3 Coupon
+2437622	all	2048717*4*0	Eternal Rebirth Flame Coupon
+2437627	all	4310237*1*0	Festival Nova Box
+2437628	all	4310237*1*0	Festival Nova Box
+2437668	all	1662129*1*0;1672083*1*30	Manjiroid Coupon
+2437692	all	4310228*100*0	Magpie Coin x100 Coupon
+2437693	all	4310228*200*0	Magpie Coin x200 Coupon
+2437704	all	1005036*1*0	Ryude Hat Coupon
+2437705	all	1053234*1*0	Ryude Robe Coupon
+2437740	all	4310241*1*0;4036314*1*0	Plum Petal Puff
+2437741	all	4310241*1*0;4036314*1*0	Plum Petal Puff
+2437752	all	5680389*1*0	Power M-Point Charger Coupon
+2437755	all	1006750*1*0	Strawberry Hair Pin Coupon
+2437756	all	1042380*1*0	Strawberry Training Shirt Coupon
+2437757	all	1062248*1*0	Strawberry Training Pants Coupon
+2437758	all	1073252*1*0	Strawberry Sneakers Coupon
+2437959	all	4310248*20*0	ARK Coin x20 Coupon
+2438004	all	4310248*150*0	ARK Coin x150 Coupon
+2438330	all	5010143*1*0	Maple Steward Effect Coupon
+2438337	all	5121055*10*0	Thank You Maple Atmospheric Effect x10 Coupon
+2438338	all	5121055*5*0	Thank You Maple Atmospheric Effect x5 Coupon
+2438339	all	5121055*2*0	Thank You Maple Atmospheric Effect x2 Coupon
+2438448	all	mp*50000*0	50,000-Maple-Point Coupon
+2438537	all	1802634*1*0	Golden Pup Glimmer Coupon
+2438545	all	5680389*1*0	Power M-Point Charger Coupon
+2438643	all	2431789*1*0;2431790*1*0	Mastery Book Set
+2438870	all	5680389*1*0	Power M-Point Charger Coupon
+2438873	all	4000814*10000*0	10000-Maple-Point Coupon
+2439238	all	2439239*1*0;2439240*1*0;2439241*1*0	Heroes of Maple Pet Bundle 1
+2439242	all	2439243*1*0;2439244*1*0;2439245*1*0	Heroes of Maple Pet Bundle 2
+2439251	all	2439252*1*0;2439253*1*0;2439254*1*0	Wonderberry Black Label 1 Package
+2439391	all	4000814*5000*0	Alliance Maple Points Support Box
+2439496	all	4000814*10000*0	Alliance Maple Points Support Box II
+2439546	gender	1000069*1*0;1001092*1*0;1050311*1*0;1051383*1*0;1072901*1*0;1702486*1*0	Moonlight Outfit Set Box
+2439565	all	5152053*1*3	Royal Face Coupon Voucher
+2439566	all	5150040*1*3	Royal Hair Coupon Voucher
+2439642	all	1005247*1*0	Cluckhead Coupon
+2439643	all	1053363*1*0	Cluckbottom Coupon
+2439651	all	2730000*10*0	Bonus Mystical Cube x10 Package
+2439653	all	2435467*10*7	Eternal Rebirth Flame x10 Package
+2439654	all	2048723*1*7	Eternal Rebirth Flame Coupon
+2439655	all	2435468*10*7	Clean Slate Scroll 10% x10 Package
+2439656	all	2049009*1*7	Clean Slate Scroll 10% Coupon
+2439657	all	2432083*10*7	Master Craftsman's Cube x10 Package
+2439658	all	2710034*1*7	Hard Cube Coupon
+2439661	all	1005247*1*0	Cluckhead Coupon
+2439662	all	1053363*1*0	Cluckbottom Coupon
+2439693	all	1662145*1*0;1672083*1*30	Gongroid Coupon
+2439704	all	1672079*1*0;2643008*10*0	Fairy Heart Enhancement Stone Coupon
+2434670	all	1004638*1*0	Mr. Orlov Hat Coupon
+2434671	all	1702635*1*0	Mr. Orlov Coin Sword Coupon
+2436385	all	mp*100000*0	100,000-Maple-Point Coupon
+2436439	all	5121071*1*0	Chocolate Rain Atmospheric Effect Coupon
+2436441	all	5680500*1*0	Choco Neutralizer Implant Coupon
+2437029	all	1122334*1*14	Pendant of the Spirit Coupon (14 Days)
+2437033	all	2450064*5*0	2x EXP Coupon (30 min) x5 Coupon
+2437034	all	2470001*2*0	Golden Hammer 50% x2 Coupon
+2437038	all	5062800*3*0	Miracle Circulator x3 Coupon
+2437039	all	2710028*50*0;2710002*2*0	Eluna Cube Pack
+2437258	all	1122428*1*0*1*12*Unique	Dominator Pendant Box
+2437910	all	2049705*1*0	Epic Potential Scroll 50% Coupon
+2435289	all	2450083*1*0	2x EXP Coupon Box
+2436624	all	5150040*1*3	Royal Hair Coupon
+2436625	all	5152053*1*3	Royal Face Coupon
+2436691	all	1662146*1*0;1672079*1*0;2643008*1*0	Damienroid Coupon
+2436692	all	1662147*1*0;1672079*1*0;2643008*1*0	Aliciaroid Coupon
+2436760	all	2049153*2*0	Incredible Chaos Scroll of Goodness 60% 2-Pack
+2436768	all	2049153*13*0	Incredible Chaos Scroll of Goodness 13-Pack
+2436769	all	2049153*1*0	Incredible Chaos Scroll of Goodness 60% Coupon
+2436805	all	meso*50000000*0	Cassandra Coin
+2437152	all	1702313*1*0	Orange Seraphim Coupon
+2437153	all	1702708*1*0	Heaven's Seraphim Coupon
+2437154	all	1702438*1*0	Stellar Seraphim Coupon
+2437155	all	1702430*1*0	Dynamic Seraphim Coupon
+2438406	all	4310247*1*0	EVA Coin Coupon
+2439143	all	2048717*5*0	Eternal Rebirth Flame x5 Coupon
+2439210	all	2048716*1*0	Powerful Rebirth Flame Coupon
+2439213	all	2048717*1*0	Eternal Rebirth Flame Coupon
+2439413	all	1003817*1*0	Dark Oz Coupon
+2439423	all	1702410*1*0	Mini Dawn Warrior Coupon
+2439424	all	1702411*1*0	Mini Blaze Wizard Coupon
+2439425	all	1702413*1*0	Mini Night Walker Coupon
+2439426	all	1702414*1*0	Mini Thunder Breaker Coupon
+2439427	all	1702412*1*0	Mini Wind Archer Coupon
+2438941	all	5000844*1*0	Kero-chan Pet (30 Day) Coupon
+2438991	all	1053322*1*45	Sakura Battle Costume Outfit (45 Day) Coupon
+2438992	all	1005177*1*45	Sakura Battle Costume Hat (45 Day) Coupon
+2438994	all	1073284*1*45	Sakura Battle Costume Shoes (45 Day) Coupon
+2438995	all	1005182*1*45	Syaoran Battle Costume Hat (45 Day) Coupon
+2438996	all	1053323*1*45	Syaoran Battle Costume Outfit (45 Day) Coupon
+2438997	all	1073287*1*45	Syaoran Battle Costume Shoes (45 Day) Coupon
+2438998	all	1053324*1*45	Tomoeda Middle School Female Winter Uniform (45 Day) Coupon
+2438999	all	1073286*1*45	Tomoeda Middle School Female Shoes (45 Day) Coupon
+2439000	all	1053325*1*45	Tomoeda Middle School Male Winter Uniform (45 Day) Coupon
+2439001	all	1073285*1*45	Tomoeda Middle School Male Shoes (45 Day) Coupon
+2439002	all	1005176*1*45	Kero-chan Hood (45 Day) Coupon
+2439003	all	1053321*1*45	Kero-chan Bodysuit (45 Day) Coupon
+2439004	all	1005179*1*45	Perched Sakura-chan (45 Day) Coupon
+2439005	all	1005180*1*45	Perched Syaoran-kun (45 Day) Coupon
+2439006	all	1005181*1*45	Perched Tomoyo-chan (45 Day) Coupon
+2439007	all	1005178*1*45	Perched Kero-chan (45 Day) Coupon
+2630292	all	4037089*1*0	Dominator Pendant Box
+2630388	all	1662148*1*0;1672083*1*30	Willroid Coupon
+2630474	all	3018333*1*0	Mu Lung Master Pink Bean Chair Coupon
+2630487	all	1662149*1*0;1672083*1*30	Pixel Aliciaroid Coupon
+2630489	all	3018340*1*0	Pixel Henesys Chair Coupon
+2630490	all	3018341*1*0	Pixel Sun Chair Coupon
+2630491	all	3018342*1*0	Pixel Starglow Chair Coupon
+2630492	all	3018343*1*0	Pixel Bloom of Lucid Coupon
+2630508	all	2430218*2*0;2450064*3*0	Honorary Hero Reward I
+2630509	all	2430218*3*0;2435719*10*0;2437750*20*0;2432970*5*0;2450064*5*0	Honorary Hero Reward II
+2630511	all	2439660*1*0;2430218*10*0;2048717*3*0;2450163*5*0	Honorary Hero Reward IV
+2630519	all	5062029*12*30;2049500*1*30	Bright Cube Twelve Pack Coupon
+2630520	all	5680389*1*0	Power M-Point Charger Coupon
+2630521	all	2632864*1*0	Vanishing Journey Set Coupon
+2630522	all	1662150*1*0;1672083*1*30	Pixel Lucidroid Coupon
+2630562	all	1662151*1*0;1672083*1*30	Pixel Damienroid Coupon
+2630564	all	3018350*1*0	Pixel First Maple Tree Coupon
+2630565	all	3018351*1*0	Pixel Ancient Guardian Chair Coupon
+2630566	all	3018352*1*0	Pixel Hall of Maple Warriors Coupon
+2630567	all	3018353*1*0	Pixel Arcana Spirit Tree Chair Coupon
+2630651	all	4000814*20000*0	20000-Maple-Point Coupon
+2630680	all	4310272*1*0	Glory Coin x1 Coupon
+2630681	all	4310272*1*0	Glory Coin x1 Coupon
+2630705	all	4037089*1*0	Dominator Pendant Box
+2630706	all	2672007*1*0	Mannequin Coupon
+2630755	all	2439210*10*7	Powerful Rebirth Flame x10 Package
+2630757	all	2048724*1*7	Powerful Rebirth Flame Coupon
+2630761	all	1103210*1*0	Havoc Wings Coupon
+2630762	all	1662152*1*0;1672086*1*0	Serenoid Coupon
+2630803	all	4000814*1000*0	1,000-Maple-Point Coupon
+2630811	all	5062028*12*30;2049500*1*30	Glowing Cube Twelve Pack Coupon
+2630812	all	5680389*1*0	Power M-Point Charger Coupon
+2630832	all	5002075*1*0;1802714*1*0	Taotie Pet Set
+2630845	all	2710040*1*7	Karma Solid Cube Coupon
+2630846	all	2048757*1*7	Karma Eternal Rebirth Flame Coupon
+2630954	all	2630680*100*0	Glory Bonanza Box
+2630956	all	2630680*2000*0	Perfect Glory Bonanza Box
+2630968	all	1662154*1*0;1672086*1*0	Moniroid Coupon
+2630977	all	2048717*5*0	Full Moon Eternal Rebirth Flame Pouch
+2630978	all	2432083*5*0	Full Moon Master Craftsman's Cube Pouch
+2630979	all	2730000*5*0	Full Moon Bonus Mystical Cube Pouch
+2630980	all	2435719*5*0	Full Moon Nodestone Pouch
+2630981	all	2437750*5*0	Full Moon Arcane Symbol Selection Pouch
+2630986	all	2000005*500*0	Power Elixir x500 Coupon
+2630987	all	2710028*5*0	Mystical Cube x5 Coupon
+2630990	all	2048716*5*0	Full Moon Powerful Rebirth Flame Pouch
+2630991	all	2049705*5*0	Full Moon Epic Potential Scroll 50% Pouch
+2630992	all	2048308*5*0	Full Moon Bonus Potential Scroll 50% Pouch
+2630993	all	2049004*5*0	Full Moon Pure Clean Slate Scroll 10% Pouch
+2630994	all	3018429*1*0	My Marvelous Moon Chair Coupon
+2631093	all	1703205*1*0	Wonky the Lamp Fairy Weapon Coupon
+2631101	all	2631110*1*0;2631111*1*0;2631112*1*0	New Year Arabian Outfit Set Coupon
+2631102	all	3018447*1*0	Magic Lamp Chair Coupon
+2631110	all	1005435*1*0	Arabian Hat Coupon
+2631111	all	1053504*1*0	Arabian Outfit Coupon
+2631141	all	5002113*1*0;1802731*1*0	Lil Wonky Pet Coupon
+2631187	all	2710029*1*1	Hard Cube Coupon
+2631188	all	4000814*5000*0	5,000-Maple-Point Coupon
+2631455	all	1005481*1*0	Winterberry Snowman Hat Coupon
+2631469	all	1662156*1*0;1672086*1*0	Laniaroid Coupon
+2631489	all	5150173*1*0;5152245*1*0	Beauty Awards Coupon Voucher
+2631522	all	2890011*1*0	Simper Face Coupon Voucher
+2631590	all	1005502*1*0	Mouse Ear Headband Coupon
+2631591	all	1000109*1*0	Bright Blue Marble Pin (M) Coupon
+2631592	all	1001132*1*0	Bright Pink Silk Ribbon (F) Coupon
+2631593	all	1050546*1*0	Bright Blue Celebration Tunic (M) Coupon
+2631594	all	1051616*1*0	Bright Pink Celebration Dress (F) Coupon
+2631595	all	1070117*1*0	Bright Blue Silk Shoes (M) Coupon
+2631596	all	1071133*1*0	Bright Pink Silk Shoes (F) Coupon
+2631613	all	2435719*5*0;2437750*10*0;2450115*5*0	Knights of Einherjar Treasure Chest
+2631699	all	1005514*1*0	Love Mouse Hat Coupon
+2631700	all	1053563*1*0	Love Mouse Outfit Coupon
+2631706	all	5002146*1*0;1802745*1*0	Lil Wave Pet Coupon
+2631707	all	5152301*1*0	Mystery Colorblend Eye Color Coupon Voucher
+2631709	all	2433835*1*0	Mystery Mix Dye Coupon Voucher
+2631713	choose	3018384*1*0;3018429*1*0;3018351*1*0;3018185*1*0;3015642*1*0;3015520*1*0;3015976*1*0;3015637*1*0	Fairy Bros' Chair Selection Box
+2631714	all	5152248*1*0	Fairy Bros' Face Selector Coupon Voucher
+2631715	all	5150176*1*0	Fairy Bros' Hair Selector Coupon Voucher
+2631746	all	3018519*1*0	Special Training Chair Coupon
+2631813	all	3018523*1*0	Fierce Spring Gust Chair Coupon
+2631816	all	3018525*1*0	Pink Bean House Chair Coupon
+2631822	all	1012833*1*0;1032348*1*0;1113342*1*0;1122428*1*0;1182304*1*0	Boss Accessory Box
+2631878	all	2633385*1*0	Arcane Symbol Selector x100 Coupon
+2631879	all	5062505*1*3	Bonus Glowing Cube Coupon
+2631891	all	1662166*1*0;1672086*1*0	Lilinroid Coupon
+2631899	all	2435467*5*7	Eternal Rebirth Flame x5 Package
+2631900	all	2439210*5*7	Powerful Rebirth Flame x5 Package
+2631901	all	2434563*5*7	Glowing Cube x5 Package
+2631902	all	2434560*5*7	Bright Cube x5 Package
+2631925	all	3018549*1*0	Master of 16 Billion Mesos Chair Coupon
+2632122	all	1662167*1*0;1672086*1*0	Rock Spiritroid Coupon
+2632130	all	1712001*10*0	Arcane Symbol: Vanishing Journey x10 Package
+2632131	all	1712002*10*0	Arcane Symbol: Chu Chu Island x10 Package
+2632132	all	1712003*10*0	Arcane Symbol: Lachelein x10 Package
+2632133	all	1712004*10*0	Arcane Symbol: Arcana x10 Package
+2632134	all	1712005*10*0	Arcane Symbol: Morass x10 Package
+2632135	all	1712006*10*0	Arcane Symbol: Esfera x10 Package
+2632136	all	2432970*10*7	Special Medal of Honor x10 Package
+2632137	all	2435902*10*7	Nodestone x10 Package
+2632150	all	2434917*2*1	Pollo and Fritto Entry Ticket x2 Coupon
+2632151	all	2431940*3*1	Infinite Revitalizer x3 Coupon
+2632152	all	1712001*3*0	Arcane Symbol: Vanishing Journey x3 Coupon
+2632153	all	1712002*3*0	Arcane Symbol: Chu Chu Island x3 Coupon
+2632154	all	1712003*3*0	Arcane Symbol: Lachelein x3 Coupon
+2632155	all	2048757*10*7	Karma Eternal Rebirth Flame x10 Package
+2632156	all	2048759*10*7	Karma Powerful Rebirth Flame x10 Package
+2632172	all	1004999*1*0	Dragon Pop Headband Coupon
+2632173	all	1052975*1*0	Preppy Suspenders Coupon
+2632349	all	1662168*1*0;1672086*1*0	Wonkyroid Coupon
+2632367	all	2632864*1*0	Vanishing Journey Set Coupon
+2632434	all	1005621*1*0	Manji Mask Coupon
+2632435	all	1005622*1*0	Mike Mask Coupon
+2632436	all	1005623*1*0	Dark Lord Mask Coupon
+2632437	all	1005624*1*0	Grendel the Really Old Mask Coupon
+2632438	all	1005625*1*0	Mu Gong Mask Coupon
+2632439	all	1005626*1*0	Athena Pierce Mask Coupon
+2632440	all	1005627*1*0	Moonbeam Mask Coupon
+2632441	all	1005628*1*0	Ryude Mask Coupon
+2632442	all	1005629*1*0	Wonky Mask Coupon
+2632443	all	1005630*1*0	Pollo Mask Coupon
+2632444	all	1005631*1*0	Fritto Mask Coupon
+2632446	all	1703045*1*0	Hologram Laser Sword Coupon
+2632447	all	1005632*1*0	Hologram Hairpin Coupon
+2632500	all	1005647*1*0;1005648*1*0;1050569*1*0;1051641*1*0;1073488*1*0	Blue Nightmare Outfit Set Coupon
+2632696	all	mp*50000*0	50,000-Maple-Point Coupon
+2632709	all	1053641*1*0	Me Yeti Too Coupon
+2632710	all	1703050*1*0	Yeti Mic Coupon
+2632811	all	5062505*1*3	Bonus Glowing Cube Coupon
+2632812	all	2048759*5*7	Karma Powerful Rebirth Flame x5 Package
+2632813	all	2048757*5*7	Karma Eternal Rebirth Flame x5 Package
+2632814	all	2048766*5*7	Karma Black Rebirth Flame x5 Package
+2632817	choose	1005700*1*0;1050573*1*0;1051645*1*0;1073507*1*0	Neo Castle Outfit Set Box
+2632818	all	1662169*1*0;1672086*1*0	Reneeroid Coupon
+2632819	all	1662170*1*0;1672086*1*0	Leoroid Coupon
+2632844	all	1102250*1*0	Murgoth's Feather Coupon
+2632845	all	1102695*1*0	Spirited Nine Tails Coupon
+2632846	all	3018662*1*0	Holiday Nostalgia Chair Coupon
+2632851	all	1052693*1*0	Rudi's Outfit Coupon
+2632852	all	1004833*1*0	Rudi's Hat Coupon
+2632854	all	5689005*1*0	Concentrated Premium Water of Life Coupon
+2632860	all	5002081*1*0	Lil Pony Coupon
+2632862	all	5152300*1*30	Custom Colorblend Eye Color Coupon Voucher
+2632883	all	1003194*1*0	Rookie Bobble Heart Band Coupon
+2632977	all	1103320*1*0	I'm A Cow Tail Coupon
+2632978	all	1005715*1*0	I'm A Cow Headband Coupon
+2633060	all	3018680*1*0	Peplock Holmes Detective Office Chair Coupon
+2633062	choose	1005737*1*0;1005738*1*0	Robo Helmet Selection Box
+2633066	all	5152226*1*7	Change Royal Face Coupon Voucher
+2633067	all	5150157*1*7	Change Royal Hair Coupon Voucher
+2633188	all	3700681*1*0	Everyday Hustler Title Coupon
+2633203	all	2633215*1*0	Singles' Army Damage Skin Coupon
+2633204	all	1053705*1*0	Invincible Singles' Army Armor Coupon
+2633205	all	1103333*1*0	Invincible Singles' Army Cape Coupon
+2633206	all	1005783*1*0	Invincible Singles' Army Helmet Coupon
+2633207	all	3015475*1*0	Singles' Army Statue Chair Coupon
+2633208	all	1703082*1*0	Singles' Army Warrior's Spear Coupon
+2633209	all	2633216*1*0	Couples' Army Damage Skin Coupon
+2633210	all	1053706*1*0	Loving Couples' Army Armor Coupon
+2633211	all	1103334*1*0	Loving Couples' Army Cape Coupon
+2633212	all	1005784*1*0	Loving Couples' Army Helmet Coupon
+2633213	all	3015476*1*0	Couples' Army Statue Chair Coupon
+2633214	all	1703083*1*0	Couples' Army Warrior's Sword Coupon
+2633226	all	3018688*1*0	Yeti House Chair Coupon
+2633308	all	1662172*1*0;1672086*1*0	Wildflower Spiritroid Coupon
+2633339	all	2450115*5*0;2450115*5*0	Mitra's 2x EXP Coupon Box
+2633341	all	1005802*1*0	Blossoming Flower Coupon
+2633342	all	3018707*1*0	Bouquet of Me Coupon
+2633347	all	5150159*1*0;5152228*1*0	All-Star Choice Coupon Voucher
+2633376	all	1005805*1*0	Royal Maple Crown Coupon
+2633384	all	2631180*3*0	Extreme Growth Potion x3 Coupon
+2633385	choose	2437750*100*0	Arcane Symbol Selector x100 Coupon
+2633386	all	2710040*20*0	Karma Solid Cube x20 Coupon
+2633387	all	2439279*2*0	Experience Nodestone x2 Coupon
+2633558	all	5002263*1*0;1802824*1*0	Mountain Kid Pet Package
+2633559	all	2450115*10*0;2450115*10*0	Mitra's 2x EXP Coupon Box
+2633563	all	2437750*20*0;2435719*5*0	Mitra's Gift Box
+2633569	all	2450115*2*0;2450115*2*0	Mitra's 2x EXP Coupon Box
+2633575	all	2000019*100*0	Power Elixir x100 Coupon
+2633576	all	2000019*1000*0	Power Elixir x1000 Coupon
+2633577	all	2434917*2*1	Pollo and Fritto Entry Ticket x2 Coupon
+2633578	all	5040004*1*0	Hyper Teleport Rock Coupon
+2633582	all	2434560*10*7	Bright Cube x10 Package
+2633583	all	2632081*1*30	EXP Coupon Box Voucher
+2633585	all	2439170*3*0	Mastery Box x3 Coupon
+2633595	all	5062028*1*0	Glowing Cube x1 Coupon
+2633596	all	5062029*1*0	Bright Cube x1 Coupon
+2633597	all	1662175*1*0;1672086*1*0	Superstar Pink Beanroid Coupon
+2633604	all	1050591*1*0	Manji Outfit Coupon
+2633605	all	1053540*1*0	Lania Outfit Coupon
+2633606	all	1053448*1*0	Moni Outfit Coupon
+2633607	all	1005076*1*0	Paper Bag Coupon
+2633610	all	2388043*1*0	Pink Bean x1 Coupon
+2633611	all	4310313*1*0	Black Bean x1 Coupon
+2633698	all	1703114*1*0;1005833*1*0;1053720*1*0;1073562*1*0;1103356*1*0;1022310*1*0	Darkness Chaser Outfit Box
+2633797	all	3018729*1*0	Golden Gavel Trophy Coupon
+2633854	all	3018739*1*0	Golden Player Trophy Chair Coupon
+2633911	all	1005866*1*0	Guardian Angel Crown Coupon
+2633921	all	1690203*1*0	AbsoLab Weapon Box
+2633923	all	1690204*1*0	Arcane Umbra Weapon Box
+2633987	all	1103380*1*0	Wonky Wings Coupon
+2634018	all	1005883*1*0;1053780*1*0;1073587*1*0;1103381*1*0	Chu Chu Festival Outfit Set Coupon
+2634021	all	1662176*1*0;1672086*1*0	Small Mutoroid Coupon
+2634028	all	2631180*10*0	Extreme Growth Potion x10 Coupon
+2634033	all	1703136*1*0	Dorothy Wand Coupon
+2634036	all	2023882*1*0;2024085*1*0;2023926*1*0;2024275*1*0;5121104*1*0;5121168*1*0;2024084*1*0	Alicia's Blessing
+2634055	all	1143254*1*0	Glorious Golden Hand Medal Coupon
+2634056	all	1143255*1*0	Shining Silver Hand Medal Coupon
+2634103	all	3700700*1*0	I'm Quite Hasty Title Coupon
+2634106	all	3018754*1*0	Moonlit Night Driving Chair Coupon
+2634109	all	3018756*1*0	Tactical Relay Chair 2022 Coupon
+2634110	all	3018757*1*0	Great Tactical Relay Chair 2022 Coupon
+2634111	all	3018758*1*0	Perfect Tactical Relay Chair 2022 Coupon
+2634145	all	1005906*1*0	Halloween Kitty Cat Ears Coupon
+2634166	all	3018764*1*0	I Really Haven't Done Anything Chair Coupon
+2634172	all	1005920*1*0	Maple Pop Star Hat Coupon
+2634175	all	2432970*3*0	Special Medal of Honor x3 Coupon
+2634220	all	2702007*3*0	Black Circulator x3 Coupon
+2634249	all	3018782*1*0	Toben Hair is a Legend For Real Chair Coupon
+2634254	all	2439279*3*0	Experience Nodestone x3 Coupon
+2634261	all	1005936*1*0	Omnom Rice Cake Hat Coupon
+2634270	all	1662177*1*0;1672086*1*0	Stellaroid Coupon
+2634281	all	5002264*1*0	Red Snail Pet Box
+2634288	all	5062800*3*0	Miracle Circulator x3 Coupon
+2634294	all	5062402*1*0	Medal Fusion Anvil Coupon
+2634296	all	5000930*1*0	Oberon Pet Coupon
+2634297	all	5000931*1*0	Titania Pet Coupon
+2634298	all	5000932*1*0	Petite Pico Pet Coupon
+2634299	all	5002079*1*0	Victory Pet Coupon
+2634300	all	5002080*1*0	Glory Pet Coupon
+2634301	all	5002081*1*0	Lil Pony Pet Coupon
+2634302	all	5002197*1*0	Dusk Pet Coupon
+2634303	all	5002198*1*0	Dawn Pet Coupon
+2634304	all	5002199*1*0	Lil Glowy Pet Coupon
+2634334	all	2000019*100*0	Power Elixir x100 Coupon
+2634418	all	5002299*1*0;1802902*1*0	Mini Sugar Pet Package
+2634419	all	1115344*1*0;1115243*1*0	Dreaming of Adventure Label/Chat Ring Box
+2634422	all	5152268*1*0;5150199*1*0	Adventurer's Friend Face/Hair Coupon Box
+2634423	all	1005975*1*0	Baby Magpie Buddy Hat Coupon
+2634424	all	1005973*1*0;1053828*1*0;1703186*1*0	Goddess's Grace Outfit Set Coupon
+2634430	all	2437750*50*0;2435719*20*0	Adventurer Support Box
+2634431	all	2437750*100*0;2435719*30*0	Adventurer Support Box
+2634447	all	1103001*1*0	Korean Kite Cape Coupon
+2634448	all	1702747*1*0	Baby Magpie Buddy Coupon
+2634449	all	3018809*1*0	Starlight Symphony Concert Chair Coupon
+2634503	all	5152270*1*0	Fairy Bros' Explorer Face Selector Coupon Voucher
+2634504	all	5150201*1*0	Fairy Bros' Explorer Hair Selector Coupon Voucher
+2634508	all	1005700*1*0;1050573*1*0;1051645*1*0;1073507*1*0	Neo Castle Outfit Set Box
+2634510	all	1005393*1*0;1053464*1*0;1103210*1*0;1702943*1*0	Havoc Outfit Set Box
+2634515	all	1005987*1*0	Starlight Ensemble Hat Coupon
+2634517	all	1053841*1*0	Starlight Ensemble Uniform Coupon
+2634518	all	1703197*1*0	Starlight Ensemble Baton Coupon
+2634532	all	1103320*1*0	I'm A Cow Tail Coupon
+2634533	all	1005715*1*0	I'm A Cow Headband Coupon
+2634536	all	1005612*1*0	Traditional Scholar's Hat Coupon
+2634537	all	1005514*1*0	Love Mouse Hat Coupon
+2634538	all	1053563*1*0	Love Mouse Outfit Coupon
+2634539	all	1702988*1*0	True Love Chocolate Coupon
+2634540	all	1702989*1*0	Heartbreak Chocolate Coupon
+2634541	all	1005502*1*0	Mouse Ear Headband Coupon
+2634552	all	1053517*1*0	Pink Bean Hoodie Coupon
+2634553	all	1103234*1*0	Pink Bean Tail Coupon
+2634554	all	1005435*1*0	Arabian Hat Coupon
+2634555	all	1053504*1*0	Arabian Outfit Coupon
+2634556	all	1073392*1*0	Arabian Shoes Coupon
+2634557	all	1703205*1*0	Wonky the Lamp Fairy Weapon Coupon
+2634558	all	1004865*1*0	Halloween Dracula Mask Coupon
+2634559	all	1004866*1*0	Halloween Frankenstein Mask Coupon
+2634560	all	1004867*1*0	Halloween Skull Mask Coupon
+2634561	all	1004868*1*0	Halloween Werewolf Mask Coupon
+2634562	all	1004869*1*0	Halloween Mummy Mask Coupon
+2634567	all	1005301*1*0	Blushing Reindeer Hat
+2634569	all	1005300*1*0	Snowman Mask Coupon
+2634570	all	1053393*1*0	Snowman Costume Coupon
+2634571	all	1082734*1*0	Snowman Gloves Coupon
+2634572	all	1103087*1*0	Choco Coupon
+2634574	all	1005052*1*0	Dumpling Hat Coupon
+2634575	all	1005057*1*0	Pink Bean Hairband Coupon
+2634576	all	1703204*1*0	Maple 5000-Day Flag Coupon
+2634577	all	1005999*1*0	Maple 5000-Day Hat Coupon
+2634578	all	1103448*1*0	Maple 5000-Day Cape Coupon
+2634580	all	1053259*1*0	Ghost Costume Coupon
+2634581	all	1005073*1*0	Ghost Mask Coupon
+2634582	all	1005078*1*0	Cow Mask Coupon
+2634583	all	1053263*1*0	Cow Costume Coupon
+2634584	all	1005079*1*0	Tiger Cub Hat Coupon
+2634585	all	1053262*1*0	Tiger Cub Costume Coupon
+2634586	all	1005080*1*0	Angel Halo Coupon
+2634587	all	1052030*1*0	Toga Coupon
+2634590	all	1005996*1*0	Royal Moonlight Flower Hairpin Coupon
+2634591	all	1005997*1*0	Halloween Pumpkin Hat Coupon
+2634592	all	1005998*1*0	Hat of a Masked Man Coupon
+2634593	all	1002556*1*0	Maple-Stein Head Coupon
+2634594	all	1002525*1*0	Mummy Hat Coupon
+2634595	all	1052067*1*0	Mummy Suit Coupon
+2634596	all	1005086*1*0	Worn Witch Hat Coupon
+2634597	all	1053266*1*0	Worn Witch Outfit Coupon
+2634598	all	1103070*1*0	Worn Witch Cape Coupon
+2634599	all	1005087*1*0	Worn Skull Hat Coupon
+2634600	all	1053267*1*0	Worn Skull Outfit Coupon
+2634601	all	1082724*1*0	Worn Skull Gloves Coupon
+2634617	all	1006000*1*0	Spring News Hairpin Coupon
+2634618	all	1103449*1*0	Spring News Wings Coupon
+2634619	all	1053844*1*0	Spring News Outfit Coupon
+2634620	all	1012050*1*0	Maple-Stein Face Coupon
+2634624	all	5680531*1*0	Hairstyling Room Slot Expansion Coupon
+2634625	all	5680733*1*0	Beauty Lounge Slot Expansion Coupon
+2634647	all	3700706*1*0	I'm Always So Quick Title Coupon
+2634648	all	3018837*1*0	Speeding Train Chair Coupon
+2634726	all	1662178*1*0;1672086*1*0	Ellieroid Coupon
+2634727	all	1662179*1*0;1672086*1*0	Rithroid Coupon
+2634750	all	5062028*1*7	Glowing Cube Coupon
+2634751	all	5062029*1*7	Bright Cube Coupon
+2634752	all	5062505*1*7	Bonus Glowing Cube Coupon
+2634753	all	1006016*1*0	18th Anniversary Birthday Hat Coupon
+2634759	all	3018852*1*0	Jumping Mole Chair Coupon
+2634760	all	3018853*1*0	Group Jumping Mole Chair Coupon
+2634798	all	1662180*1*0;1672086*1*0	Baby Ellieroid Coupon
+2634799	all	1662181*1*0;1672086*1*0	Baby Rithroid Coupon
+2634815	all	3018876*1*0	7000-Day Together Chair Coupon
+2634897	all	1662182*1*0;1672086*1*0	Mister Ignitionroid Coupon
+2634898	all	1662183*1*0;1672086*1*0	DJ Selenaroid Coupon
+2634911	all	1006044*1*0;1051720*1*0;1703230*1*0;1103475*1*0;1073662*1*0	Knight of the Sun and Moon Outfit Set Coupon
+2634912	all	1006045*1*0;1051721*1*0;1703231*1*0;1103476*1*0;1073663*1*0	Knight of Wind Outfit Set Coupon
+2634913	all	1006046*1*0;1051722*1*0;1703232*1*0;1103477*1*0;1073664*1*0	Knight of Fire Outfit Set Coupon
+2634914	all	1006047*1*0;1053872*1*0;1703233*1*0;1103478*1*0;1073665*1*0	Knight of Darkness Outfit Set Coupon
+2634915	all	1006048*1*0;1053873*1*0;1703234*1*0;1103479*1*0;1073666*1*0	Knight of Lightning Outfit Set Coupon
+2634916	all	1006049*1*0;1053874*1*0;1092116*1*0;1103480*1*0;1073667*1*0	Knight of Light Outfit Set Coupon
+2634924	all	5152273*1*0;5150204*1*0	Chief Knight Face/Hair Coupon Box
+2634926	all	5002510*1*0;1802930*1*0	Lil Shinsoo Pet Package
+2634960	all	1712001*1*0	Arcane Symbol: Vanishing Journey x1 Coupon
+2634961	all	1712002*1*0	Arcane Symbol: Chu Chu Island x1 Coupon
+2634962	all	1712003*1*0	Arcane Symbol: Lachelein x1 Coupon
+2634963	all	1712004*1*0	Arcane Symbol: Arcana x1 Coupon
+2634964	all	1712005*1*0	Arcane Symbol: Morass x1 Coupon
+2634965	all	1712006*1*0	Arcane Symbol: Esfera x1 Coupon
+2634967	all	1006055*1*0;1053871*1*0;1103484*1*0;1073673*1*0;1703239*1*0	Alliance Commander Outfit Set Coupon
+2634985	all	2437750*50*0;2435719*5*0;2432970*5*0	New Knight Support Box
+2634986	all	2437750*50*0;2435719*5*0	New Knight Support Box
+2634987	all	2437750*50*0;2435719*10*0	New Knight Support Box
+2634988	all	2437750*50*0;2439279*1*0	New Knight Support Box
+2634989	all	2437750*100*0;2435719*10*0;2630654*1*0	New Knight Support Box
+2635005	choose	1051720*1*0;1051721*1*0;1051722*1*0;1053872*1*0;1053873*1*0;1053874*1*0	Cygnus Knights Outfit Selection Box
+2635006	choose	1703230*1*0;1703231*1*0;1703232*1*0;1703233*1*0;1703234*1*0;1092116*1*0	Cygnus Knights Weapon Selection Box
+2635049	choose	1662186*1*0;1662187*1*0	Android Selector Coupon
+2635054	all	1022317*1*0	Hologram Sunglasses Coupon
+2635146	all	1703264*1*0	Midnight Coconut Water Coupon
+2635147	all	1053902*1*0	Midnight Casual Shirt Coupon
+2635148	all	1006094*1*0	Midnight Sunglasses Coupon
+2635149	all	1103516*1*0	Midnight Ignition Coupon
+2635150	all	1082775*1*0	Midnight Paper Band Coupon
+2635151	all	1073690*1*0	Midnight Twinkle Sneakers Coupon
+2635153	all	3018911*1*0	Wonky Seesaw Chair Coupon
+2635228	all	3018930*1*0	Tactical Relay Chair 2023 Coupon
+2635229	all	3018931*1*0	Great Tactical Relay Chair 2023 Coupon
+2635230	all	3018932*1*0	Perfect Tactical Relay Chair 2023 Coupon
+2635235	all	3018934*1*0	Autumn Sky Dragonfly Flying Chair Coupon
+2635237	all	1703276*1*0	Hunminjeongeum Coupon
+2635308	all	2635307*1*0	Cosmos Flower Bookmark x1 Coupon
+2635310	all	1053363*1*0	Cluckbottom Coupon
+2635312	choose	1053437*1*0;1103192*1*0	Maple Pixel Hero Outfit Coupon
+2635313	choose	1053923*1*0;1103528*1*0	Maple Pixel Outfit Coupon
+2635314	choose	1053314*1*0;1103103*1*0	Maple Gumshoe's Outfit Coupon
+2635315	choose	1053924*1*0;1103529*1*0	Maple Galaxy Outfit Coupon
+2635316	choose	1053925*1*0;1103530*1*0	Noble Maple Outfit Coupon
+2635317	choose	1050553*1*0;1051623*1*0	Maple Vacation Outfit Selection Box
+2635318	all	1053606*1*0	Sage Training Outfit Coupon
+2635319	choose	1053592*1*0;1103264*1*0	Candy Cloud Outfit Coupon
+2635320	choose	1050565*1*0;1051637*1*0;1103296*1*0	Ellinel Full Moon Party Outfit Selector Coupon
+2635321	choose	1050569*1*0;1051641*1*0	Blue Nightmare Outfit Selector Coupon
+2635322	choose	1053463*1*0;1103209*1*0	Glory Outfit Selector Coupon
+2635323	choose	1053926*1*0;1103531*1*0	Maple Alliance Outfit Selection Box
+2635325	choose	1052896*1*0;1102806*1*0	Cutie Birk Outfit Selection Box
+2635326	choose	1004618*1*0;1004619*1*0;1004620*1*0	Rice Cake Hat Selection Box
+2635327	choose	1000124*1*0;1001149*1*0	Floral Hat Selection Box
+2635328	choose	1005247*1*0;1702872*1*0	Cluck, Cluck, Bean Accessory Selection Box
+2635329	all	1005481*1*0	Winterberry Snowman Hat Coupon
+2635330	choose	1005362*1*0;1702924*1*0	Maple Pixel Hero Accessory Selector Coupon
+2635331	choose	1006118*1*0;1703281*1*0	Maple Pixel Accessory Selector Coupon
+2635332	choose	1005168*1*0;1702836*1*0;1073281*1*0	Maple Gumshoe's Accessory Selector Coupon
+2635333	choose	1006119*1*0;1703282*1*0	Maple Galaxy Accessory Selector Coupon
+2635334	choose	1006120*1*0;1703283*1*0;1073702*1*0	Noble Maple Accessory Selector Coupon
+2635335	choose	1000111*1*0;1001133*1*0;1073446*1*0	Maple Vacation Accessory Selection Box
+2635336	choose	1005575*1*0;1703018*1*0	Sage Training Accessory Selection Box
+2635337	choose	1005558*1*0;1703010*1*0;1073448*1*0	Candy Cloud Accessory Selector Coupon
+2635338	choose	1005615*1*0;1073479*1*0	Ellinel Full Moon Party Accessory Selector Coupon
+2635339	choose	1005647*1*0;1005648*1*0;1703048*1*0;1073488*1*0	Blue Nightmare Accessory Selector Coupon
+2635340	choose	1005886*1*0;1005887*1*0;1005888*1*0	Korean Consonant Hat Selector Coupon
+2635341	all	1005802*1*0	Blossoming Flower Coupon
+2635342	choose	1005392*1*0;1702942*1*0	Glory Guard Accessory Selector Coupon
+2635343	choose	1006121*1*0;1703284*1*0	Maple Alliance Accessory Selection Box
+2635344	choose	1005056*1*0;1005055*1*0;1005054*1*0;1005053*1*0;1004875*1*0	Autumn Flea Market Mask Selector Coupon
+2635345	all	1004885*1*0	Big Expedition Hat Coupon
+2635346	choose	1005298*1*0;1082733*1*0;1070076*1*0;1071093*1*0	Santa Accessory Selection Box
+2635347	choose	1004416*1*0;1082643*1*0;1073039*1*0	Cutie Birk Accessory Selection Box
+2635348	choose	1004038*1*0;1004734*1*0;1004565*1*0;1004566*1*0	Cold Hat Selector Coupon
+2635352	choose	1012436*1*0;1012432*1*0;1012433*1*0;1012434*1*0;1012435*1*0	Eyes Face Accessory Selector Coupon
+2635353	all	1012007*1*0	Santa Beard Coupon
+2635381	all	2635380*1*0	Safe Ticket x1 Coupon
+2635382	all	1052693*1*0	Rudi's Outfit Coupon
+2635383	all	1004833*1*0	Rudi's Hat Coupon
+2635384	all	1005446*1*0	Hallo-Hallo Witch Hat Coupon
+2635386	all	1006128*1*0	Autumn Wind Hat Coupon
+2635387	choose	1050672*1*0;1051745*1*0	Autumn Wind Outfit Selector Coupon
+2635388	choose	1070158*1*0;1071174*1*0	Autumn Wind Shoes Selector Coupon
+2635389	all	3018953*1*0	I Seriously Haven't Done Anything Chair Coupon
+2635400	all	1690204*1*0	Arcane Umbra Weapon Box
+2635402	choose	1006127*1*0;1005906*1*0	Hallowkitty's Cat Ears Selector Coupon
+2635403	all	2630782*1*0;2437750*100*0;2049793*1*0;2436803*5*0;2450134*10*0	Yeti x Pink Bean Step Up Reward Box I
+2635404	all	2436803*5*0;2450134*10*0	Yeti x Pink Bean Step Up Reward Box II
+2635405	all	2635324*1*0;2437750*100*0;2436803*10*0;2450184*10*0	Yeti x Pink Bean Step Up Reward Box III
+2635406	all	2436803*10*0;2450184*10*0	Yeti x Pink Bean Step Up Reward Box IV
+2635409	all	3018965*1*0	Lachelein Candle Warmer Chair (Pink Bean) Coupon
+2635410	all	3018966*1*0	Lachelein Candle Warmer Chair (Yeti) Coupon
+2635420	choose	1050476*1*0;1051543*1*0	Halloween Pumpkin Suit Selection Box
+2635421	choose	1050511*1*0;1051581*1*0	Santa Costume Selection Box
+2635424	all	1703291*1*0	Golden Pickaxe Coupon
+2635425	all	1703292*1*0	Diamond Pickaxe Coupon
+2635504	all	1003009*1*0	Maplemas Light Hairband Coupon
+2635505	all	1003058*1*0	Maplemas Hairpin Coupon
+2635506	all	1003048*1*0	Maplemas Wreath Coupon
+2635507	all	1002720*1*0	Lovely Maplemas Coupon
+2635508	all	1003043*1*0	Maplemas Bell Coupon
+2635515	all	1662194*1*0;1672086*1*0	Seraroid Coupon
+2635519	all	1703310*1*0	My Friend Wonky Coupon
+2635522	all	1053947*1*0	Dessert-mancer Coupon
+2635524	all	1703311*1*0	Sugar Crush Coupon
+2635525	all	1082778*1*0	Birth of Dessert Coupon
+2635526	all	1073722*1*0	Dessert Slipper Coupon
+2635527	all	1006158*1*0	Dessert Meringue Coupon
+2635528	all	1103551*1*0	Dessert Angel Coupon
+2635533	all	1006157*1*0;1053946*1*0;1103549*1*0;1073721*1*0;1703309*1*0	Wongstaurant Outfit Set Coupon
+2635537	all	1006159*1*0	Pink Bean Scooter Helmet Coupon
+2635538	all	5010253*1*0	Cooking Master Spiegelmann's Blessing Coupon
+2635599	all	1703314*1*0	Hammer of Toad Coupon
+2635614	all	5002546*1*0;1802959*1*0	Lil Khali Pet Package
+2635615	all	2430447*1*0;2433929*4*0	Lv. 30 Gift
+2635616	all	2635624*1*0;2433444*1*0	Lv. 100 Gift
+2635617	all	2430909*1*0;2634980*1*0;2631498*1*0	Lv. 150 Gift
+2635618	all	2635625*1*0;2437750*50*0;2435719*50*0;2633612*3*0	Lv. 200 Gift
+2635619	all	2437750*50*0;2435719*50*0;2633613*3*0	Lv. 210 Gift
+2635620	all	2437750*50*0;2630654*1*0	Lv. 215 Gift
+2635622	all	2437750*50*0;2435719*50*0	Lv. 225 Gift
+2635623	all	2439660*1*0;2439279*1*0	Lv. 230 Gift
+2635626	all	2450115*10*0;2450115*10*0	Mitra's 2x EXP Coupon Box
+2635627	all	2635630*1*0;2635631*1*0;2634770*1*0	First Attendance Gift
+2635628	all	3019005*1*0;2635634*1*0	Third Attendance Gift
+2635629	all	2635635*1*0;2632793*1*0	Fourth Attendance Gift
+2635634	all	5010259*1*0	Khali Emblem Coupon
+2635635	all	1006182*1*0;1053955*1*0;1073734*1*0;1103563*1*0;1703321*1*0	Ypsilon Zealot Set Coupon
+2635677	all	2635380*1*0	Safe Ticket x1 Coupon
+2635694	all	5150121*1*0;5152091*1*0	Premium PC Cafe Beauty Coupon Voucher
+2635775	all	2635774*1*0	Secret Ticket x1 Coupon
+2635776	all	2635774*20*0	Top Secret Ticket
+2635780	all	1662199*1*0;1672086*1*0	Neon Spiegelmannroid Coupon
+2635785	all	1006192*1*0;1006193*1*0;1050692*1*0;1051765*1*0;1073738*1*0	Mint Chocolate Set Coupon
+2635797	all	1006195*1*0;1053965*1*0;1073740*1*0;1103570*1*0	Elite Knight Set Coupon
+2635798	all	1114307*1*0;2643131*3*0	Tenebris Expedition Ring Coupon
+2635799	all	1114318*1*0;2643132*3*0	Awake Ring Coupon
+2635853	all	5002075*1*0;1802714*1*0	Taotie Pet Package
+2635898	all	2635897*1*0	Fertile Soil x1 Coupon
+2635910	all	4310386*1*0	Challenger Coin Coupon
+2635915	all	1070165*1*0;1071181*1*0;1050696*1*0;1051769*1*0;1006216*1*0;1703336*1*0	Strawberry Farm Outfit Set Coupon
+2635916	all	1662200*1*0;1672086*1*0	Strawberry Spiegeletteroid Coupon
+2635955	all	4310334*1*0	Mayple Leaf x1 Coupon
+2635956	all	1122334*1*60	Pendant of the Spirit (60 Days) Coupon
+2635957	all	5002573*1*0;1802978*1*0	Mayple Pet Set Coupon
+2635958	all	1115385*1*0;1115282*1*0	Mayple Label/Chat Ring Coupon
+2635959	all	5010260*1*0	Mayple Effect Coupon
+2635973	all	1662202*1*0;1672086*1*0	Amerylroid Coupon
+2635993	all	1006222*1*0;1050700*1*0;1051773*1*0;1073754*1*0;1103579*1*0;1703338*1*0	Mayple Outfit Set Coupon
+2635997	all	1703343*1*0	Maple Umbrella Coupon
+2636015	all	5062028*20*0	Glowing Cube x20 Coupon
+2636016	all	5062029*20*0	Bright Cube x20 Coupon
+2636017	all	5062503*20*0	Bonus Bright Cube x20 Coupon
+2636018	all	5062503*1*0	Bonus Bright Cube x1 Coupon
+2636019	all	1713000*1*0	Sacred Symbol: Cernium x1 Coupon
+2636020	all	1713001*1*0	Sacred Symbol: Arcus x1 Coupon
+2636054	all	4310336*1*0	Mayple Candy x1 Coupon
+2636063	all	3019042*1*0;2636013*1*0	Mayple Topper Chair Coupon
+2636064	all	1713000*1*0	Sacred Symbol: Cernium x1 Coupon
+2636065	all	1713001*1*0	Sacred Symbol: Arcus x1 Coupon
+2636066	all	1052975*1*0	Preppy Suspenders Coupon
+2636074	all	5062503*1*7	Bonus Bright Cube Coupon
+2636088	all	1006253*1*0;1050704*1*0;1051777*1*0;1073763*1*0	Spring Camping Outfit Set Box
+2636099	all	1012748*1*0	Blushing Toothy Smirk Coupon
+2636139	all	1713002*1*0	Sacred Symbol: Odium x1 Coupon
+2636141	all	1713000*1*0	Sacred Symbol: Cernium Coupon
+2636142	all	1713001*1*0	Sacred Symbol: Arcus Coupon
+2636149	all	5010264*1*0	Mayple Fairy Coupon
+2636152	all	5010265*1*0	NEW AGE Effect Coupon
+2636226	all	1012748*1*0	Blushing Toothy Smirk Coupon
+2636231	all	5002356*1*0	Toth Pet Coupon
+2636232	all	5002357*1*0	Vella Pet Coupon
+2636233	all	5002358*1*0	Lil Death Pet Coupon
+2636234	all	5002561*1*0	Mazurka Pet Coupon
+2636235	all	5002562*1*0	Cantabile Pet Coupon
+2636236	all	5002563*1*0	Lil Time Pet Coupon
+2636299	all	5010267*1*0	Warm Wave Effect Coupon
+2636302	all	1662204*1*0;1672086*1*0	Enkiroid Coupon
+2636303	all	1006286*1*0;1054024*1*0;1073777*1*0;1103605*1*0;1703376*1*0	Small Sea Otter Outfit Set Coupon
+2636304	all	4310339*1*0	Sunlight Coin x1 Coupon
+2636309	all	2650000*1*0	8-Slot Recipe Bag Coupon
+2636310	all	4330029*1*0	8-Slot Production Bag Coupon
+2636311	all	2650009*1*0	20-Slot Scroll Bag Coupon
+2636312	all	2650007*1*0	40-Slot Soul Bag Coupon
+2636318	all	1713002*1*0	Sacred Symbol: Odium Coupon
+2636319	all	1713003*1*0	Sacred Symbol: Shangri-La Coupon
+2636322	all	1004999*1*0	Dragon Pop Headband Coupon
+2636323	all	1005600*1*0;1050561*1*0;1051633*1*0;1073469*1*0;1703032*1*0	Fluffy Outfit Set Box
+2636344	all	5062029*10*0	Bright Cube x10 Coupon
+2636349	all	3080016*1*0	40-slot Chair Bag Coupon
+2636370	all	1713003*1*0	Sacred Symbol: Shangri-La x1 Coupon
+2636394	all	1713004*1*0	Sacred Symbol: Arteria Coupon
+2636457	all	5062028*10*0	Glowing Cube x10 Coupon
+2636458	all	5062028*20*0	Glowing Cube x20 Coupon
+2636459	all	5062028*50*0	Glowing Cube x50 Coupon
+2636460	all	5062028*100*0	Glowing Cube x100 Coupon
+2636461	all	5062028*200*0	Glowing Cube x200 Coupon
+2636462	all	5062029*10*0	Bright Cube x10 Coupon
+2636463	all	5062029*20*0	Bright Cube x20 Coupon
+2636464	all	5062029*50*0	Bright Cube x50 Coupon
+2636465	all	5062029*100*0	Bright Cube x100 Coupon
+2636466	all	5062029*200*0	Bright Cube x200 Coupon
+2636478	all	1713004*1*0	Sacred Symbol: Arteria x1 Coupon
+2636479	all	1713005*1*0	Sacred Symbol: Carcion x1 Coupon
+2636552	all	1713005*1*0	Sacred Symbol: Carcion Coupon
+2636606	all	2634472*1*0	Kalos's Residual Determination Fragment
+2636632	all	1006325*1*0;1006326*1*0;1050714*1*0;1051787*1*0;1073792*1*0	Sweet Brown Boy/Girl Set Coupon
+2636653	all	2632793*1*0;4009546*1*0	Chu Chu Special Gift Box
+2636700	all	4034381*1*0	Red Maple Leaf x1 Coupon
+2636704	all	1114316*1*0	Glory Guard Ring: Justicar Coupon
+2636709	all	2644002*1*0;4009546*1*0	Minar Picnic Box
+2636714	all	1662207*1*0;1672086*1*0	Dollyroid Coupon
+2636765	all	5150243*1*0;5152408*1*0	Premium PC Cafe Beauty Coupon Voucher
+2636783	all	1005612*1*0	Traditional Scholar's Hat Coupon
+2636812	all	1004875*1*0	Halloween Cat-O-Lantern Mask Coupon
+2636813	all	1006372*1*0	Black Bean Eye Mask Coupon
+2636814	all	1053264*1*0	Paper Box Coupon
+2636815	all	1012814*1*0	Witch Cat Face Accessory Coupon
+2636817	all	1003393*1*0	Imperial Duke Crown Coupon
+2636820	all	1102381*1*0	Imperial Duke Wing Coupon
+2636821	all	1050453*1*0	Sweet Choco Suit Coupon
+2636823	all	1051520*1*0	Soft Cream Dress Coupon
+2636826	all	5010315*1*0	Teddy Family Coupon
+2636827	choose	1005435*1*0;1053504*1*0;1073392*1*0	Arabian Outfit Selection Box
+2636828	choose	1005973*1*0;1053828*1*0;1703186*1*0	Goddess's Grace Outfit Selector Coupon
+2636829	choose	1022330*1*0;1022331*1*0;1022332*1*0	Masquerade Mask Selection Box
+2636830	choose	1006375*1*0;1054077*1*0;1703421*1*0	Orange Pop Outfit Selection Box
+2636831	choose	1006377*1*0;1006378*1*0;1006376*1*0	Teddy Hairband Selection Box
+2636832	choose	1054080*1*0;1054081*1*0;1054079*1*0	Teddy Outfit Selection Box
+2636833	choose	1006389*1*0;1050721*1*0;1051798*1*0;1073806*1*0	Magic School Purple Uniform Selection Box
+2636834	choose	1000131*1*0;1050724*1*0;1070172*1*0	Ghost Groom Outfit Selection Box
+2636835	choose	1005883*1*0;1053780*1*0;1073587*1*0;1103381*1*0	Chu Chu Food Festival Outfit Selection Box
+2636836	choose	1005941*1*0;1053816*1*0;1073610*1*0;1103410*1*0	Starglimmer Outfit Selector Coupon
+2636837	choose	1006373*1*0;1054076*1*0;1073808*1*0;1703419*1*0	Ghost Dress-up Outfit Selection Box
+2636838	choose	1005700*1*0;1050573*1*0;1051645*1*0;1073507*1*0	Neo Castle Outfit Selection Box
+2636839	choose	1005647*1*0;1005648*1*0;1050569*1*0;1051641*1*0;1073488*1*0	Blue Nightmare Outfit Selector Coupon
+2636840	choose	1005825*1*0;1005824*1*0;1050592*1*0;1051665*1*0;1073555*1*0	Influencer Outfit Selector Coupon
+2636842	choose	1000107*1*0;1001130*1*0;1050541*1*0;1051612*1*0;1073424*1*0	Azure Teddy Outfit Selection Box
+2636843	choose	1006374*1*0;1050723*1*0;1051795*1*0;1073809*1*0;1103649*1*0;1703420*1*0	Candy Magician Outfit Selection Box
+2636844	choose	1006379*1*0;1050725*1*0;1051796*1*0;1073810*1*0;1103651*1*0;1703422*1*0	Galactic Guardian Outfit Selection Box
+2636845	choose	1006380*1*0;1050726*1*0;1051797*1*0;1073811*1*0;1103652*1*0;1703423*1*0	Barista Outfit Selection Box
+2636846	choose	1000132*1*0;1001156*1*0;1050722*1*0;1051794*1*0;1073807*1*0;1103648*1*0;1703418*1*0	Mystic Rose Outfit Selection Box
+2636847	choose	1000112*1*0;1001134*1*0;1050557*1*0;1051627*1*0;1073432*1*0;1103246*1*0;1703017*1*0	Tranquil Sage Outfit Selection Box
+2636849	all	1703416*1*0	Golden Honey Pot Coupon
+2636850	all	1703417*1*0	Diamond Honey Pot Coupon
+2636958	all	2632793*1*0;4009546*1*0	Maple Fashion Week Gift Box
+2637003	all	2632793*1*0;4009546*1*0	Pink Bubble Box
+2637006	all	1115506*1*0;1115404*1*0	Dreamer Label/Chat Ring Gift Box
+2637008	all	1022333*1*0	Fifth Dream Gift Box
+2637011	all	2637052*1*0	Dreamer Background Coupon Gift Box
+2637020	all	2630782*1*0;2635324*1*0;2437750*200*0;2049793*1*0;2436803*30*0	Amazing Step Up Box
+2637023	all	3700747*1*0;3700748*1*0	Angelic Buster Comeback Merch Entry Ticket
+2637029	all	2430909*1*0;2634980*1*0;2450163*2*0	Angelic Buster Lv. 150 Gift
+2637030	all	2637036*1*0;2437750*100*0;2435719*100*0;2450163*2*0;4037073*1000*0	Angelic Buster Lv. 200 Gift
+2637031	all	2437750*100*0;2450163*2*0;4037073*1000*0	Angelic Buster Lv. 205 Gift
+2637032	all	2437750*100*0;2435719*100*0;2450163*2*0;4037073*2000*0;2632823*1*0;2710041*50*0	Angelic Buster Lv. 210 Gift
+2637041	all	1103667*1*0;1051812*1*0	Angelic Buster Comeback Outfit Set Coupon
+2637042	all	1115507*1*0	Angelic Buster Label/Chat Ring Coupon
+2637044	all	5010317*1*0	Pop Bubble Effect Coupon
+2637139	all	1662209*1*0;1672079*1*0	Dreaming Lucidroid Coupon
+2637148	all	1000138*1*0;1050743*1*0;1070181*1*0	Blue Caped Uniform Outfit Set Box
+2637149	all	1001164*1*0;1051822*1*0;1071197*1*0	Red Caped Uniform Outfit Set Box
+2637150	all	1662210*1*0;1672086*1*0	Dreamkeeper-roid Coupon
+2637184	all	1073850*1*0	Forest Wizard Shoes Coupon
+2637185	all	1103679*1*0	Forest Wizard Cape Coupon
+2637186	all	1082800*1*0	Forest Wizard Gloves Coupon
+2637187	all	1703461*1*0	Forest Wizard Ancient Book Coupon
+2637188	all	1143344*1*0;3019186*1*0	Dance Fragment Collector Box
+2637190	all	5040004*1*7	Hyper Teleport Rock (7 Days) Coupon
+2637200	all	1703462*1*0	Snow Duck Maker Coupon
+2637275	all	2635380*1*0	Safe Ticket x1 Coupon
+2637276	all	2635380*1*0	Safe Ticket x1 Coupon
+2637277	all	2635380*1*0	Safe Ticket x1 Coupon
+2637278	all	2635380*1*0	Safe Ticket x1 Coupon
+2637279	all	2635380*1*0	Safe Ticket x1 Coupon
+2637320	all	5000930*1*0	Oberon Pet Coupon
+2637321	all	5000931*1*0	Titania Pet Coupon
+2637322	all	5000932*1*0	Petite Pico Pet Coupon
+2637323	all	5002079*1*0	Victory Pet Coupon
+2637324	all	5002080*1*0	Glory Pet Coupon
+2637325	all	5002081*1*0	Lil Pony Pet Coupon
+2637326	all	5002197*1*0	Dusk Pet Coupon
+2637327	all	5002198*1*0	Dawn Pet Coupon
+2637328	all	5002199*1*0	Lil Glowy Pet Coupon
+2637329	all	5002356*1*0	Toth Pet Coupon
+2637330	all	5002357*1*0	Vella Pet Coupon
+2637331	all	5002358*1*0	Lil Death Pet Coupon
+2637332	all	5002561*1*0	Mazurka Pet Coupon
+2637333	all	5002562*1*0	Cantabile Pet Coupon
+2637334	all	5002563*1*0	Lil Time Pet Coupon
+2637396	all	2632793*1*0;4009546*1*0	Neverending Dream Gift Box
+2637459	all	1703480*1*0	Sunshine Cotton Candy Coupon
+2637460	all	2632793*1*0;4009546*1*0	Golden Giveaway Special Box
+2637464	choose	2437750*5*0;2633616*2*0	Symbol Selector Coupon
+2637472	all	5150228*1*0	Spiegelette's Hair Selector Coupon Voucher
+2637473	all	5152296*1*0	Spiegelette's Face Selector Coupon Voucher
+2637476	all	1073876*1*0	Magician of the Sacred Forest Shoes Coupon
+2637477	all	1103371*1*0	Magician of the Sacred Forest Cape Coupon
+2637479	all	1005862*1*0	Magician of the Sacred Forest Hat Coupon
+2637480	all	1703124*1*0	Magician of the Sacred Forest Weapon Coupon
+2637481	all	2632793*1*0;4009546*1*0	Pink Star Box
+2637482	all	1662212*1*0;1672086*1*0	Syncroid Coupon
+2637483	all	2631180*3*0	Blue Relay Box
+2637484	random	2631180*1*0*60;2631180*5*0*30;2631180*9*0*10	Red Relay Box
+2637486	all	4037202*8*0	Blue Relay Box
+2637487	random	4037202*2*0*60;4037202*12*0*30;4037202*32*0*10	Red Relay Box
+2637489	all	2432970*4*0	Blue Relay Box
+2637490	random	2432970*1*0*60;2432970*6*0*30;2432970*16*0*10	Red Relay Box
+2637492	all	2435719*15*0	Blue Relay Box
+2637493	random	2435719*5*0*60;2435719*23*0*30;2435719*51*0*10	Red Relay Box
+2637495	all	2048766*2*0	Blue Relay Box
+2637496	random	2048766*1*0*60;2048766*3*0*30;2048766*5*0*10	Red Relay Box
+2637498	all	2636420*15*0	Blue Relay Box
+2637499	random	2636420*5*0*60;2636421*1*0*30;2636421*3*0*10	Red Relay Box
+2637590	all	2650013*1*0	40-slot Recipe Bag Coupon
+2637591	all	4330037*1*0	20-slot Production Bag Coupon
+2637592	all	2650014*1*0	40-slot Scroll Bag Coupon
+2637598	all	5153026*1*0	Monster Skin Coupon Voucher
+2637599	choose	1115418*1*0;1115419*1*0;1115420*1*0;1115424*1*0;1115425*1*0;1115426*1*0;1115421*1*0;1115422*1*0;1115423*1*0;1115520*1*0;1115419*1*0;1115522*1*0;1115526*1*0;1115527*1*0;1115528*1*0;1115523*1*0;1115524*1*0;1115525*1*0	Permanent Petite Luna Chat/Label Ring Selector Coupon
+2637600	choose	1115427*1*0;1115428*1*0;1115429*1*0;1115430*1*0;1115431*1*0;1115529*1*0;1115530*1*0;1115531*1*0;1115532*1*0;1115533*1*0	Permanent Pet Chat/Label Ring Selector Coupon
+2637603	all	5153026*1*0	Monster Skin Coupon Voucher
+2637604	choose	1115418*1*0;1115419*1*0;1115420*1*0;1115424*1*0;1115425*1*0;1115426*1*0;1115421*1*0;1115422*1*0;1115423*1*0;1115520*1*0;1115419*1*0;1115522*1*0;1115526*1*0;1115527*1*0;1115528*1*0;1115523*1*0;1115524*1*0;1115525*1*0	Permanent Petite Luna Chat/Label Ring Selector Coupon
+2637605	choose	1115427*1*0;1115428*1*0;1115429*1*0;1115430*1*0;1115431*1*0;1115529*1*0;1115530*1*0;1115531*1*0;1115532*1*0;1115533*1*0	Permanent Pet Chat/Label Ring Selector Coupon
+2637611	all	1006489*1*0	Female Gunner Mask Coupon
+2637618	all	1002979*1*0	Marbum Headgear Coupon
+2637619	all	1003192*1*0;1040154*1*0;1060067*1*0	Blue Pre-School Set Coupon
+2637620	all	1003193*1*0;1041156*1*0;1061166*1*0	Red Pre-School Set Coupon
+2637621	all	1102036*1*0	Red Landcell Pack Coupon
+2637622	all	1102037*1*0	Black Landcell Pack Coupon
+2637623	all	1102038*1*0	Blue Landcell Pack Coupon
+2637636	choose	2637695*1*0;2637697*1*0;2637699*1*0;2637701*1*0;2637703*1*0	Victoria Cup Background Selector Coupon
+2637647	all	5010324*1*0	Permanent Berserked Cape Coupon
+2637648	all	1054155*1*0	Blaanid's Outfit Coupon
+2637649	all	1703490*1*0	Lute of Blossoming Memories Coupon
+2637650	random	1006481*1*0;1006482*1*0;1006483*1*0;1006484*1*0;1006485*1*0	Maple Helmet Coupon
+2637652	choose	1006486*1*0;1054156*1*0;1103702*1*0;1073889*1*0	Black Wolf Yevgnen Set Selector Coupon
+2637653	all	1006487*1*0;1054157*1*0;1073890*1*0;1082803*1*0	Diz Outfit Set Coupon
+2637662	random	5010327*1*0;5010328*1*0;5010329*1*0	Jelly Chick Effect Coupon
+2637664	all	1003860*1*0	Seria Wig Coupon
+2637666	random	5010325*1*0;5010326*1*0	Super Newb Effect Coupon
+2637668	all	1003844*1*0	Nao Hat Coupon
+2637669	all	1053942*1*0	Maple Soccer Competition Uniform Coupon
+2637670	all	1073716*1*0	Maple Soccer Competition Boots Coupon
+2637671	all	1702701*1*0	Dragonmare Ninth Sword Coupon
+2637672	all	1004813*1*0	Dragon Emperor's Helm Coupon
+2637673	all	1053068*1*0	Lake Monster Invincible Armor Coupon
+2637674	all	1662215*1*0;1672086*1*0	Wal-Sookroid Coupon
+2637677	all	1115534*1*0;1115432*1*0	FC Online Label/Chat Ring Selector Coupon
+2637678	all	1005366*1*0;1053442*1*0;1073358*1*0;1082742*1*0	Bazzi Outfit Set Coupon
+2637679	all	1005367*1*0;1053443*1*0;1073359*1*0;1082743*1*0	Dao Outfit Set Coupon
+2637680	all	1662214*1*0;1672086*1*0	Seriaroid Coupon
+2637684	random	1005834*1*0;1002507*1*0;1004195*1*0	Soccer Ball Hat Coupon
+2637685	random	1052056*1*0;1053419*2014*0	Soccer Uniform Coupon
+2637686	all	1662216*1*0;1672086*1*0	Naoroid Coupon
+2637688	all	1006496*1*0	Slayer Wig Coupon
+2637689	all	1114000*1*30	Kinship Ring Coupon (30 Days)
+2637690	all	4009547*1*0	Sol Erda Fragment Coupon
+2637691	all	1003846*1*0	Danjin Hat Coupon
+2637705	all	2637134*1*0;1143352*1*0	Victoria Cup Victory Box
+2637710	all	2639476*1*0;3019259*1*0;2637709*1*0;2637706*1*0	Victoria Cup Completion Box
+2637714	all	5062503*10*0	Bonus Bright Cube x10 Coupon
+2637777	all	1703511*1*0	Hologram Laser Sword Ver.3 Coupon
+2637778	all	1022337*1*0	Hologram Sunglasses Ver.2 Coupon
+2637841	all	2430447*1*0;2433929*4*0	Aran Lv. 30 Gift
+2637843	all	2430909*1*0;2634980*1*0;2450163*2*0	Aran Lv. 150 Gift
+2637844	all	2437750*100*0;2435719*100*0;2450163*2*0;2637501*1*0	Aran Lv. 200 Gift
+2637845	all	2437750*100*0;2450163*2*0	Aran Lv. 205 Gift
+2637846	all	2437750*100*0;2435719*100*0;2450163*2*0;2637501*2*0;2632823*1*0;2710041*50*0	Aran Lv. 210 Gift
+2637847	all	2437750*100*0;2439279*5*0;2450163*2*0;2637501*2*0;2630654*1*0	Aran Lv. 215 Gift
+2637848	all	2437750*200*0;2435719*100*0;2450163*2*0;2637922*1*0	Aran Lv. 220 Gift
+2637849	all	2430447*1*0;2433929*4*0	Shade Lv. 30 Gift
+2637851	all	2430909*1*0;2634980*1*0;2450163*2*0	Shade Lv. 150 Gift
+2637852	all	2437750*100*0;2435719*100*0;2450163*2*0;2637501*1*0	Shade Lv. 200 Gift
+2637853	all	2437750*100*0;2450163*2*0	Shade Lv. 205 Gift
+2637854	all	2437750*100*0;2435719*100*0;2450163*2*0;2637501*2*0;2632823*1*0;2710041*50*0	Shade Lv. 210 Gift
+2637855	all	2437750*100*0;2439279*5*0;2450163*2*0;2637501*2*0;2630654*1*0	Shade Lv. 215 Gift
+2637856	all	2437750*200*0;2435719*100*0;2450163*2*0;2637922*1*0	Shade Lv. 220 Gift
+2637865	all	1005743*1*0	New Aran Hero Feather Coupon
+2637869	all	1115543*1*0;1115441*1*0	Aran Label/Chat Ring Coupon
+2637870	all	5010342*1*0	Aran Emblem Coupon
+2637876	all	1005739*1*0	New Shade Hero Feather Coupon
+2637880	all	1115544*1*0;1115442*1*0	Shade Label/Chat Ring Coupon
+2637881	all	5010343*1*0	Shade Emblem Coupon
+2637893	all	1006541*1*0	Red-Feathered Bandana Coupon
+2637894	all	1006542*1*0	Blue-Feathered Bandana Coupon
+2637896	all	1006546*1*0	Feathered Headdress Coupon
+2637897	all	1002279*1*0	Bunny Hat Coupon
+2637898	all	5062029*1*10	Bright Cube x1 Coupon
+2637900	all	2635380*1*0	Safe Ticket x1 Coupon
+2637901	all	2635380*1*0	Safe Ticket x1 Coupon
+2637902	all	2635380*1*0	Safe Ticket x1 Coupon
+2637903	all	2635380*1*0	Safe Ticket x1 Coupon
+2637904	all	2635380*1*0	Safe Ticket x1 Coupon
+2637905	all	1006547*1*0	Golden Safe Hat Coupon
+2637906	all	1006548*1*0	Diamond Safe Hat Coupon
+2637916	all	5010341*1*0	Book of Forgotten Festivals Effect Coupon
+2637922	choose	1690203*1*0*1*17*Unique;4037089*1*0	AbsoLab Weapon/Dominator Pendant Selection Box
+2638070	all	5010344*1*0	Cleansing Light Effect Coupon
+2638071	all	5010345*1*0	Shadow of the Source Effect Coupon
+2638072	all	1012831*1*0	Specter Mask Coupon
+2638073	all	1115546*1*0	Label Ring of the Source Coupon
+2638074	all	1115444*1*0	Chat Ring of the Source Coupon
+2638078	all	1012834*1*0	Flushed Toothy Smirk Coupon
+2638079	all	5152401*1*0	Toothy Smirk Face Coupon Voucher
+2638080	all	1022346*1*0	Omega Sector Intruder Coupon
+2638081	choose	1115445*1*0;1115446*1*0;1115447*1*0;1115448*1*0;1115449*1*0;1115450*1*0;1115451*1*0;1115452*1*0;1115453*1*0;1115454*1*0;1115455*1*0;1115456*1*0;1115457*1*0;1115458*1*0;1115459*1*0;1115547*1*0;1115548*1*0;1115549*1*0;1115550*1*0;1115551*1*0;1115552*1*0;1115553*1*0;1115554*1*0;1115555*1*0;1115556*1*0;1115557*1*0;1115558*1*0;1115559*1*0;1115560*1*0;1115561*1*0	Permanent Royal Wonder 1st - 5th Chat/Label Ring Selector Coupon
+2638082	choose	1115460*1*0;1115461*1*0;1115462*1*0;1115463*1*0;1115464*1*0;1115465*1*0;1115466*1*0;1115562*1*0;1115563*1*0;1115564*1*0;1115565*1*0;1115566*1*0;1115567*1*0;1115568*1*0	Permanent Pet Chat/Label Ring Selector Coupon
+2638083	choose	1006559*1*0;1006558*1*0;1006557*1*0	Colorful Cat Ear Selector Coupon
+2638084	all	5153028*1*0	Custom Skin Coupon Voucher
+2638085	all	5783000*1*0	Skin Prism Coupon
+2638086	all	5150234*1*0	Angler Company Hair Coupon Voucher
+2638088	all	1012748*1*0	Blushing Toothy Smirk Coupon
+2638098	all	1672079*1*0	Fairy Heart Coupon
+2638103	all	3700766*1*0	Too Slow to Decide Title Coupon
+2638104	all	1714000*1*0	Grand Sacred Symbol: Tallahart Coupon
+2638106	all	1714000*1*0	Grand Sacred Symbol: Tallahart x1 Coupon
+2638181	all	1662235*1*0;1672086*1*0	Dimensional Toadroid Coupon
+2638193	all	1143373*1*0	MapleStory x Demon Slayer: Kimetsu no Yaiba Medal
+2638195	all	3700765*1*0;4310357*1*0	It's the Heart That Drives Title Coupon
+2638213	all	1115570*1*0;1115468*1*0	Tanjiro Label/Chat Ring Coupon
+2638214	all	1662226*1*0;1672086*1*90	Nezukoroid Coupon
+2638215	choose	1032344*1*0;1032345*1*0;1032346*1*0;1032347*1*0	Nadoroid Ear Sensor Selector Coupon
+2638219	all	1143380*1*0	Champion Medal Coupon
+2638220	all	1713002*1*0	Sacred Symbol: Odium x1 Coupon
+2638221	all	1713003*1*0	Sacred Symbol: Shangri-La x1 Coupon
+2638222	all	1713004*1*0	Sacred Symbol: Arteria x1 Coupon
+2638223	all	1713005*1*0	Sacred Symbol: Carcion x1 Coupon
+2638238	all	5152401*1*0	Toothy Smirk Face Coupon Voucher
+2638236	all	1012834*1*0	Flushed Toothy Smirk Coupon
+2638237	all	1012748*1*0	Blushing Toothy Smirk Coupon
+2638239	all	1022346*1*0	Omega Sector Intruder Coupon
+2638240	choose	1115445*1*0;1115446*1*0;1115447*1*0;1115448*1*0;1115449*1*0;1115450*1*0;1115451*1*0;1115452*1*0;1115453*1*0;1115454*1*0;1115455*1*0;1115456*1*0;1115457*1*0;1115458*1*0;1115459*1*0;1115547*1*0;1115548*1*0;1115549*1*0;1115550*1*0;1115551*1*0;1115552*1*0;1115553*1*0;1115554*1*0;1115555*1*0;1115556*1*0;1115557*1*0;1115558*1*0;1115559*1*0;1115560*1*0;1115561*1*0	Permanent Royal Wonder 1st - 5th Chat/Label Ring Selector Coupon
+2638241	choose	1115460*1*0;1115461*1*0;1115462*1*0;1115463*1*0;1115464*1*0;1115465*1*0;1115466*1*0;1115562*1*0;1115563*1*0;1115564*1*0;1115565*1*0;1115566*1*0;1115567*1*0;1115568*1*0	Permanent Pet Chat/Label Ring Selector Coupon
+2638242	choose	1006559*1*0;1006558*1*0;1006557*1*0	Colorful Cat Ear Selector Coupon
+2638309	all	5000930*1*0	Oberon Pet Coupon
+2638310	all	5000931*1*0	Titania Pet Coupon
+2638311	all	5000932*1*0	Petite Pico Pet Coupon
+2638312	all	5002079*1*0	Victory Pet Coupon
+2638313	all	5002080*1*0	Glory Pet Coupon
+2638314	all	5002081*1*0	Lil Pony Pet Coupon
+2638315	all	5002197*1*0	Dusk Pet Coupon
+2638316	all	5002198*1*0	Dawn Pet Coupon
+2638317	all	5002199*1*0	Lil Glowy Pet Coupon
+2638318	all	5002356*1*0	Toth Pet Coupon
+2638319	all	5002357*1*0	Vella Pet Coupon
+2638320	all	5002358*1*0	Lil Death Pet Coupon
+2638321	all	5002561*1*0	Mazurka Pet Coupon
+2638322	all	5002562*1*0	Cantabile Pet Coupon
+2638323	all	5002563*1*0	Lil Time Pet Coupon
+2638324	all	5152300*1*30	Custom Colorblend Eye Color Coupon Voucher
+2638389	all	1714000*1*0	Grand Sacred Symbol: Tallahart x1 Coupon
+2638458	all	4310362*1*0	Azmoth Coin x1 Coupon
+2638516	all	1022349*1*0;1012833*1*0;1032348*1*0;1113342*1*0;1132327*1*0;1152170*1*0;1162025*1*0;1122254*1*0;1182304*1*0	Boss Accessory Box
+2638517	all	2630782*1*0;2635324*1*0;4001934*100*0	Special Step Up Box
+2638567	choose	1006652*1*0;1006653*1*0;1006654*1*0;1006655*1*0;1006656*1*0	Masquerade Mask Selector Coupon
+2638569	choose	1012847*1*0;1012848*1*0;1012849*1*0;1012850*1*0	Mask Selector Coupon
+2638570	all	1662241*1*0;1672086*1*0	Sopheliaroid Coupon
+2638775	all	2637134*1*0;1143442*1*0;2638776*1*0	Maple University Graduation Gift Box
+2638806	all	1143388*1*0	NEXT Medal Coupon
+2638807	all	2638806*1*0;2740004*1*0;2638808*1*0;2638457*4*0	NEXT Gift Box
+2638808	all	5010352*1*0	NEXT Effect Coupon
+2638883	all	1703343*1*0	Maple Umbrella Coupon
+2638934	all	1143397*1*0	Maple's Finest Medal Coupon
+2638974	all	1074062*1*0	First Steps Follower Coupon
+2638975	all	1082843*1*0	First Steps Wings Coupon
+2638976	all	1006712*1*0	First Steps Top Shell Coupon
+2638977	all	1054331*1*0	First Steps Bottom Shell Coupon
+2638979	all	1143469*1*0	I Totally Get It Medal Coupon
+2638987	all	1662244*1*0;1672086*1*0	Breumiroid Coupon
+2638990	all	5150239*1*0	Boutique Hair Coupon Voucher
+2638991	all	1703300*1*0	Not-so Small Herbivore Coupon
+2638998	all	1006723*1*0;1054337*1*0	Hungry Bunny Set Coupon
+2638999	all	1006724*1*0;1054338*1*0	Hungry Corgi Set Coupon
+2639001	all	1006358*1*0;1054068*1*0	Maplemas Reindeer Set Coupon
+2639002	choose	1005271*1*0;1005255*1*0;1005256*1*0;1005257*1*0	Cozy Winter Animal Hat Selector Coupon
+2639015	all	1006055*1*0;1053871*1*0;1103484*1*0;1073673*1*0;1703239*1*0	Alliance Commander Outfit Set Coupon
+2639023	choose	1000149*1*0;1001175*1*0;1050800*1*0;1051877*1*0;1070191*1*0;1071206*1*0;1103822*1*0;1703600*1*0	Hanging Gardens Servant Set Selector Coupon
+2639041	all	2070026*1*0	White Gold Throwing Stars Coupon
+2639042	all	2330016*1*0	White Gold Bullet Coupon
+2639056	all	1143408*1*0	CW Season 1 - Bronze Medal Coupon
+2639057	all	1143409*1*0	CW Season 1 - Silver Medal Coupon
+2639058	all	1143410*1*0	CW Season 1 - Gold Medal Coupon
+2639059	all	1143411*1*0	CW Season 1 - Emerald Medal Coupon
+2639060	all	1143412*1*0	CW Season 1 - Diamond Medal Coupon
+2639061	all	1143413*1*0	CW Season 1 - Challenger Medal
+2639157	all	1703613*1*0	Yut and Yut Weapon Coupon
+2639158	all	1143417*1*0	Yut Master Medal Coupon
+2639220	all	1006770*1*0	Baldrix Mask Coupon
+2639221	all	5010357*1*0	Phantasmal Energy Effect Coupon
+2639250	choose	2437750*5*0;2633616*2*0	Symbol Selector Coupon
+2639260	choose	2650007*1*0;3080016*1*0;2650011*1*0;4330032*1*0;2650010*1*0;3080018*1*0	Extra Storage Selector Coupon
+2639262	all	1662246*1*0;1672086*1*0	Octo-familyroid Coupon
+2639271	all	1143380*1*0	Champion Title Coupon
+2639278	choose	1012853*1*0;1012854*1*0;1012855*1*0	Carlton's Mustache Selector Box
+2639412	all	1006809*1*0	Golden Octopus Hat Coupon
+2639413	all	3700797*1*0	8,000 Days Together Title Coupon
+2639421	all	1143435*1*0	Heart of a Golden Octo Medal Coupon
+2639426	all	1143436*1*0	Maple University Student Medal Coupon
+2639439	all	1006824*1*0	Chief Stan Hat Coupon
+2639440	all	5010363*1*0	8,000-Day Maple Leaf Fox Coupon
+2639507	all	3700800*1*0	21st Birthday Title Coupon
+2639508	all	3700801*1*0	21st Anniversary Birthday Title Coupon
+2639517	all	1012750*1*0	One-Eye Face Accessory Coupon
+2639519	all	1006021*1*0	Fish Cake Berets Coupon
+2639520	all	1703656*1*0	Fluffy Tea Spoon Coupon
+2639521	all	1103004*1*0	Pthbttt Cape Coupon
+2639527	all	1001133*1*0;1051623*1*0;1073446*1*0	Maple Vacation Outfit Set Box
+2639536	all	1012866*1*0	Octo-lips Coupon
+2639538	all	2672300*1*0	Comfy Teddy Bear Furnishing Coupon
+2639539	all	2672301*1*0	Sweet Three-Tier Cake Furnishing Coupon
+2639542	all	2672285*1*0	Henesys Stall Coupon
+2639543	all	2672286*1*0	Potion Station Coupon
+2639551	all	2672302*1*0	Jumbo Junior Yeti Doll Coupon
+2639552	all	1032355*1*0	Gold Maple Earrings Coupon
+2639554	all	2672287*1*0	Mushroom Refrigerator Coupon
+2639560	all	1006810*1*0	Pink Bean Beanie Coupon
+2639561	all	1006811*1*0	Black Bean Beanie Coupon
+2639562	all	1050814*1*0	Pink & Black University Jumper (M) Coupon
+2639563	all	1051891*1*0	Pink & Black University Jumper (F) Coupon
+2639564	all	1074140*1*0	Pink & Black Sneakers Coupon
+2639565	all	1103863*1*0	Pink Bean Backpack Coupon
+2639566	all	1703641*1*0	Pink & Black Laptop Coupon
+2639568	all	1032356*1*0	Pink & Black Beans Coupon
+2639621	all	1143436*1*0	Maple University Student Medal Coupon
+2639659	all	2677010*1*0	Well-Loved Cat Tower Furnishing Coupon
+2639660	all	2677011*1*0	Sweet Challet Furnishing Coupon
+2639673	all	1143449*1*0	Dimensional Power Medal Coupon
+2639674	all	1006848*1*0	Going Up Coupon
+2639716	all	2676008*1*0	Silver Dimensional Power Plaque Coupon
+2639717	all	2676009*1*0	Gold Dimensional Power Plaque Coupon
+2639718	all	2676010*1*0	Diamond Dimensional Power Plaque Coupon
+2639719	all	1143396*1*0	Rad Climber Medal Coupon
+2639841	all	1054498*1*0	Wanderer's Garb Coupon
+2639845	all	3700805*1*0	Red-Eyed Wanderer Title Coupon
+2639846	all	5002804*1*0;1803135*1*0	Lil Saya Pet Package
+2639885	choose	1703670*1*0;1703671*1*0;1703672*1*0;1703673*1*0;1703674*1*0	Surfboard Selector Coupon
+2639896	all	5152296*1*0	Spiegelette's Face Selector Coupon Voucher
+2639897	all	5150228*1*0	Spiegelette's Hair Selector Coupon Voucher
+2639899	all	1143459*1*0	CW Season 2 - Bronze Medal Coupon
+2639900	all	1143460*1*0	CW Season 2 - Silver Medal Coupon
+2639901	all	1143461*1*0	CW Season 2 - Gold Medal Coupon
+2639902	all	1143462*1*0	CW Season 2 - Platinum Medal Coupon
+2639903	all	1143463*1*0	CW Season 2 - Emerald Medal Coupon
+2639904	all	1143464*1*0	CW Season 2 - Diamond Medal Coupon
+2639905	all	1143465*1*0	CW Season 2 - Master Medal Coupon
+2639906	all	1143488*1*0	CW Season 2 - Challenger Medal Coupon
+2639913	all	1143488*1*0	CW Season 2 - Challenger Coupon
+2639915	all	4310405*1*0	Advanced Challenger Coin Coupon
+2639916	all	2677028*1*0	Game of Yut Board Coupon
+2639917	all	2677027*1*0	Let's Get Stacking! Mini-Game Cabinet Coupon
+2639931	all	1074062*1*0	First Steps Follower Coupon
+2639932	all	1082843*1*0	First Steps Wings Coupon
+2639934	all	1006712*1*0	First Steps Top Shell Coupon
+2639936	all	1054331*1*0	First Steps Bottom Shell Coupon
+2639937	all	1143469*1*0	I Totally Get It Medal Coupon
+2639940	all	2677029*1*0	Wolf Dog Statue Coupon
+2639945	all	2677030*1*0	Evernia Display Case Coupon
+2639990	all	2672032*1*0	Antique Marble Fireplace Coupon
+2630163	all	1113299*1*30	Determination Ring Coupon
+2630164	all	1113298*1*30	Spirit Ring Coupon
+2630166	all	5000721*1*0;5000722*1*0;5000723*1*0	Star Buddies Package
+2631232	all	5150170*1*0	VIP Royal Hair Coupon
+2631233	all	5152058*1*0	VIP Royal Face Coupon
+2631597	all	5062800*7*0	Miracle Circulator x7 Coupon
+2631628	all	5152228*1*0;5150159*1*0	All-Star Beauty Coupon Gift Box
+2631782	all	5152301*1*0	Mystery Colorblend Eye Color Coupon Voucher
+2631982	all	4000814*10000*0	10000-Maple-Point Coupon
+2631983	all	4000814*500*0	500-Maple-Point Coupon
+2632109	all	1004024*1*0	Cheese Hat Coupon
+2632227	all	2632011*1*0;2439279*7*0	[Stop Akechi Mitsuhide] Completion Box
+2632257	all	4310295*1*0;2049705*1*0	Sengoku Scroll Reward Box
+2632258	all	4310295*3*0;2049500*1*0	Sengoku Scroll Reward Box
+2632259	all	4310295*1*0;2433929*1*0	Sengoku Scroll Reward Box
+2632260	all	4310295*3*0;2710029*5*0	Sengoku Scroll Reward Box
+2632421	all	1103269*1*0;2710003*10*0	Sengoku Scroll Reward Box
+2632422	all	3018567*1*0;2710003*10*0	Sengoku Scroll Reward Box
+2632386	all	5538261*1*0	Santa Pink Bean Chat Emoticon (Nom Nom Meat)
+2632387	all	5538262*1*0	Santa Pink Bean Chat Emoticon (Go, Go, Go!)
+2632388	all	5538263*1*0	Santa Pink Bean Chat Emoticon (Special Gift)
+2632389	all	5538264*1*0	Santa Pink Bean Chat Emoticon (Zzz)
+2632390	all	5538265*1*0	Santa Pink Bean Chat Emoticon (OMG)
+2632391	all	5538266*1*0	Santa Pink Bean Chat Emoticon (Hurr Hurr)
+2632689	all	5538267*1*0	Pink Bean Chat Emoticon (Angry)
+2632690	all	5538268*1*0	Pink Bean Chat Emoticon (Greeting)
+2632691	all	5538269*1*0	Pink Bean Chat Emoticon (Hee Hee Hee)
+2632692	all	5538270*1*0	Pepe Chat Emoticon Coupon (Sad)
+2632693	all	5538271*1*0	Pepe Chat Emoticon Coupon (Say What?)
+2632694	all	5538272*1*0	Pepe Chat Emoticon Coupon (Sob)
+2632722	all	1005617*1*0	Silent Night Hat Ticket
+2632725	all	1103298*1*0	Silent Night Cape Ticket
+2632728	all	1703041*1*0	Silent Night Weapon Ticket
+2632729	all	1112178*1*0	Snow Day Dream Label Ring Ticket
+2632262	all	1005494*1*0	Showa Grandma Hair Towel Coupon
+2632263	all	1053538*1*0	Showa Grandpa Outfit Coupon
+2632264	all	1053539*1*0	Showa Grandma Outfit Coupon
+2633037	all	1103312*1*0	My Beating Heart Cape Coupon
+2633038	all	1703059*1*0	My Beating Heart Weapon Coupon
+2633117	all	1012618*1*0	Strawberry Pastry Coupon
+2633383	all	5000033*1*0;1802956*1*0	Black Dragon Pet Package
+2633378	all	2435719*5*0;2437750*10*0;2450115*5*0	Satiras's Treasure Chest
+2633279	all	5538336*1*0	Roo-bot Chat Emoticon (Bawling) Coupon
+2633280	all	5538337*1*0	Roo-bot Chat Emoticon (Confused) Coupon
+2633281	all	5538338*1*0	Roo-bot Chat Emoticon (Thumbs Up) Coupon
+2633282	all	5538339*1*0	Roo-bot Chat Emoticon (Shudder) Coupon
+2633283	all	5538340*1*0	Roo-bot Chat Emoticon (Cheering) Coupon
+2633284	all	5538341*1*0	Roo-bot Chat Emoticon (Stop) Coupon
+2633492	all	1103535*1*0	Glowing Lights Coupon
+2633493	all	1073709*1*0	Glowy Leather Shoes Coupon
+2633494	all	1703289*1*0	Dewdrop Lantern Coupon
+2633495	all	1004535*1*0	Schwarzer Beret Coupon
+2633510	all	2439239*1*0;2439240*1*0;2439241*1*0	Heroes of Maple Pet Bundle 1
+2633514	all	2439243*1*0;2439244*1*0;2439245*1*0	Heroes of Maple Pet Bundle 2
+2633536	all	5002081*1*0	Lil Pony Coupon
+2633586	all	2070018*1*0	Balanced Fury Coupon
+2633737	all	5538364*1*0	Evan & Mir Animals Chat Emoticon (Yawn) Coupon
+2633738	all	5538365*1*0	Evan & Mir Animals Chat Emoticon (Bam) Coupon
+2633739	all	5538366*1*0	Evan & Mir Animals Chat Emoticon (Excited) Coupon
+2633740	all	5538367*1*0	Evan & Mir Animals Chat Emoticon (Ready to Hunt) Coupon
+2633742	all	5538369*1*0	Evan & Mir Animals Chat Emoticon (Woozy) Coupon
+2633388	all	2437750*5*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 1
+2633389	all	2435719*10*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 2
+2633390	all	2437750*20*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 3
+2633391	all	2435719*10*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 4
+2633392	all	2437750*20*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 5
+2633393	all	2435719*20*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 6
+2633394	all	2439279*2*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 7
+2633395	all	2439279*2*0;2450083*1*0;4009495*1*0	Gift of the Goo: Fruitapalooza Lv. 8
+2633404	all	2633354*1*30;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 1
+2633405	all	2633356*1*0;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 2
+2633406	all	2633358*1*0;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 3
+2633407	all	2633360*1*0;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 4
+2633408	all	2633361*1*0;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 5
+2633409	all	2633362*1*0;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 6
+2633410	all	2633363*1*0;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 7
+2633411	all	2633364*1*0;4009495*1*0	Gift of the Goo: Dye Hunt Lv. 8
+2633427	all	2435719*5*0	Nodestone x5 Package
+2632659	all	4310297*1*0	Troupe Coin x1 Coupon
+2632660	all	4310297*1*0	Troupe Coin x1 Coupon
+2633098	all	1662171*1*0;1672086*1*90	Layered BUGCAT CAPOO-roid Coupon
+2634051	all	2450115*5*0;2450115*5*0	Mitra's 2x EXP Coupon Box
+2634058	all	2450115*5*0;2450115*5*0	Mitra's 2x EXP Coupon Box
+2634074	all	4000814*3400*0	3400 Maple Point Gift Certificate
+2634178	all	1115240*1*0	MapleStory Fest 2021 Chat Ring Coupon
+2634179	all	1115341*1*0	MapleStory Fest 2021 Label Ring Coupon
+2634180	all	1005921*1*0	MapleStory Fest 2021 Hat Coupon
+2634067	all	5538413*1*0	Lania Chat Emoticon Coupon (Awkward)
+2634068	all	5538414*1*0	Lania Chat Emoticon Coupon (On My Way)
+2634069	all	5538415*1*0	Lania Chat Emoticon Coupon (Smitten)
+2634070	all	5538416*1*0	Lania Chat Emoticon Coupon (Lovely Day)
+2634071	all	5538417*1*0	Lania Chat Emoticon Coupon (Cozy Night)
+2634072	all	5538418*1*0	Lania Chat Emoticon Coupon (Me, Me, Me!)
+2634466	all	5538465*1*0	Chu Chu Island Tomboy Chat Emoticon Coupon (Good job!)
+2634467	all	5538466*1*0	Chu Chu Island Tomboy Chat Emoticon Coupon (You did really well!)
+2634468	all	5538467*1*0	Chu Chu Island Tomboy Chat Emoticon Coupon (It's an emergency!)
+2634469	all	5538468*1*0	Chu Chu Island Tomboy Chat Emoticon Coupon (So frustrating!)
+2634470	all	5538469*1*0	Chu Chu Island Tomboy Chat Emoticon Coupon (Aren't I pretty?)
+2634471	all	5538470*1*0	Chu Chu Island Tomboy Chat Emoticon Coupon (Roll around and space out...)
+2634528	all	5205004*1*0	5,000-Maple-Point Coupon
+2634529	all	5205010*1*0	25,000-Maple-Point Coupon
+2634824	all	2634825*1*0;2634826*1*0;2634827*1*0	Lil Symphony Pet Package
+2634829	all	5002197*1*0	Dusk Pet Coupon
+2634830	all	5002198*1*0	Dawn Pet Coupon
+2634831	all	5002199*1*0	Lil Glowy Pet Coupon
+2634832	all	1005862*1*0;1053762*1*0;1053763*1*0;1103371*1*0;1703124*1*0;1115331*1*0;1115229*1*0	Magician of the Sacred Forest Set
+2634834	all	5150170*1*0;5152058*1*0	VIP Royal Hair + Face Coupon
+2632847	all	5153017*1*0	Cowhide (Black) Coupon
+2632848	all	5153018*1*0	Cowhide (Pink) Coupon
+2632849	all	5153019*1*0	Cowhide (Brown) Coupon
+2632850	all	5153020*1*0	Cowhide (Beige) Coupon
+2634895	all	5150061*1*0	All-Star Hair Coupon Voucher
+2634896	all	5152085*1*0	All-Star Face Coupon Voucher
+2633555	choose	2671132*1*0;2672177*1*0;2671133*1*0;2671134*1*0	Neo Castle Furnishing Selector Coupon
+2633637	all	2670009*1*0;2670011*1*0	Sunny Mushroom House Pack
+2633638	all	2670013*1*0;2670014*1*0;2670015*1*0	Mushroom House Tiled Roof Pack
+2633639	all	2670010*1*0;2670012*1*0;2670036*1*0	Mushroom House Morning Glory Roof Pack
+2633640	all	2670033*1*0;2670034*1*0	Mushroom House Flooring Pack
+2633641	all	2670043*1*0;2670044*1*0	Mushroom House Window Pack
+2633642	all	2670045*1*0;2670046*1*0	Mushroom House Ellinia Window Pack
+2633643	all	2670017*1*0;2670047*1*0;2670048*1*0	Mushroom House Awning Window Pack
+2633644	all	2670019*1*0;2670018*1*0	Colonial-Style Home Tiled Roof Pack
+2633645	all	2670021*1*0;2670022*1*0;2670023*1*0	Colonial-Style Home Domed Roof Pack
+2633646	all	2670024*1*0;2670025*1*0;2670037*1*0	Colonial-Style Home Gable Roof Pack
+2633647	all	2670027*1*0;2670038*1*0	Colonial-Style Home Wall Pack
+2633648	all	2670041*1*0;2670042*1*0	Colonial-Style Home Wallpaper Pack
+2633649	all	2670029*1*0;2670039*1*0	Colonial-Style Home Flooring Pack
+2633650	all	2670031*1*0;2670032*1*0	Colonial-Style Home Window Pack
+2633651	all	2670089*1*0;2670092*1*0;2670093*1*0	Townhouse Roof Pack
+2633652	all	2670090*1*0;2670091*1*0	Townhouse Windmill Roof Pack
+2633653	all	2670095*1*0;2670096*1*0	Townhouse Exterior Wall Pack
+2633655	all	2670101*1*0;2670102*1*0	Townhouse Flooring Pack
+2633656	all	2670111*1*0;2670112*1*0	Townhouse Door Pack
+2633659	all	2670008*1*0;2670009*1*0	Expanded Mushroom House Roof Pack
+2633660	all	2670010*1*0;2670012*1*0;2670036*1*0	Expanded Mushroom House Morning Glory Roof Pack
+2633661	all	2670013*1*0;2670014*1*0;2670015*1*0	Expanded Mushroom House Tiled Roof Pack
+2633662	all	2670146*1*0;2670147*1*0;2670148*1*0	Expanded Mushroom House Horny Roof Pack
+2633663	all	2670011*1*0;2670035*1*0	Expanded Mushroom House Wall Pack
+2633664	all	2670033*1*0;2670034*1*0	Expanded Mushroom House Flooring Pack
+2633665	all	2670043*1*0;2670044*1*0	Expanded Mushroom House Window Pack
+2633666	all	2670016*1*0;2670045*1*0;2670046*1*0	Expanded Mushroom House Ellinia Window Pack
+2633667	all	2670017*1*0;2670047*1*0;2670048*1*0	Expanded Mushroom House Awning Window Pack
+2633668	all	2670018*1*0;2670019*1*0	Expanded Colonial-Style Home Tiled Roof Pack
+2633669	all	2670021*1*0;2670022*1*0;2670023*1*0	Expanded Colonial-Style Home Domed Roof Pack
+2633670	all	2670024*1*0;2670025*1*0;2670037*1*0	Expanded Colonial-Style Home Gable Roof Pack
+2633671	all	2670173*1*0;2670174*1*0;2670175*1*0	Expanded Colonial-Style Home Spire Roof Pack
+2633672	all	2670027*1*0;2670038*1*0	Expanded Colonial-Style Home Wall Pack
+2633673	all	2670041*1*0;2670042*1*0	Expanded Colonial-Style Home Interior Wall Pack
+2633674	all	2670029*1*0;2670039*1*0	Expanded Colonial-Style Home Flooring Pack
+2633675	all	2670031*1*0;2670032*1*0	Expanded Colonial-Style Home Window Pack
+2633676	all	2670089*1*0;2670092*1*0;2670093*1*0	Expanded Townhouse Roof Pack
+2633677	all	2670090*1*0;2670091*1*0	Expanded Townhouse Windmill Roof Pack
+2633678	all	2670095*1*0;2670096*1*0	Expanded Townhouse Exterior Wall Pack
+2633679	all	2670098*1*0;2670099*1*0	Expanded Townhouse Wallpaper Pack
+2633680	all	2670101*1*0;2670102*1*0	Expanded Townhouse Flooring Pack
+2633681	all	2670111*1*0;2670112*1*0	Expanded Townhouse Door Pack
+2633682	all	2670104*1*0;2670105*1*0	Expanded Townhouse Window Pack
+2633683	all	2670107*1*0;2670108*1*0	Expanded Townhouse Parasol Pack
+2633684	all	2670214*1*0;2670215*1*0;2670216*1*0	Expanded Townhouse Flowerbed Pack
+2633785	all	2670096*1*0;2670099*1*0;2670105*1*0	Townhouse Playful Exteriors Pack
+2633786	all	2670111*1*0;2670107*1*0	Townhouse Tropical Decor Pack
+2633787	all	2670112*1*0;2670108*1*0	Townhouse Ocean Decor Pack
+2634087	all	2670050*1*0;2670066*1*0;2670072*1*0	Halloween Manor Pumpkin Patch Pack
+2634088	all	2670060*1*0;2670063*1*0	Halloween Manor Modest Appearance Pack
+2634089	all	2670052*1*0;2670068*1*0	Halloween Manor Burgundy Neon Pack
+2634090	all	2670051*1*0;2670067*1*0;2670058*1*0	Halloween Manor Dark Night Pack
+2634091	all	2670061*1*0;2670064*1*0;2670056*1*0	Halloween Manor Antique Appearance Pack
+2634092	all	2670053*1*0;2670069*1*0	Halloween Manor Violet Neon Pack
+2634093	all	2670054*1*0;2670070*1*0;2670057*1*0	Halloween Manor Arcadia Neon Pack
+2634210	all	2670135*1*0;2670120*1*0;2670126*1*0	Maplemas Santa Claus Hut Set
+2634213	all	2670136*1*0;2670121*1*0;2670127*1*0	Maplemas Gingerbread Man Hut Set
+2634340	all	2670073*1*0;2670075*1*0;2670076*1*0	Expanded Eastern-Style Home Tiled Roof Pack
+2634341	all	2670085*1*0;2670086*1*0;2670087*1*0	Expanded Eastern-Style Home Wallpaper Pack
+2634342	all	2670078*1*0;2670079*1*0	Expanded Eastern-Style Home Flooring Pack
+2633784	all	2670095*1*0;2670098*1*0;2670104*1*0	Townhouse Warm Exteriors Pack
+2634101	all	4001832*2*0	Spell Trace x2 Coupon
+2634102	all	4001832*5*0	Spell Trace x5 Coupon
+2634148	all	4310297*1*0	Troupe Coin x1 Coupon
+2634149	all	4310297*1*0	Troupe Coin x1 Coupon
+2635286	all	5538564*1*0	Neinheart Chat Emoticon Coupon (Angry)
+2635287	all	5538565*1*0	Neinheart Chat Emoticon Coupon (Welcome to Ereve)
+2635288	all	5538566*1*0	Neinheart Chat Emoticon Coupon (Doubt)
+2635289	all	5538567*1*0	Neinheart Chat Emoticon Coupon (Meditation Time)
+2635290	all	5538568*1*0	Neinheart Chat Emoticon Coupon (Did I Fall Asleep)
+2635291	all	5538569*1*0	Neinheart Chat Emoticon Coupon (No-No)
+2635239	all	1115262*1*0	MapleStory Fest 2022 Chat Ring Coupon
+2635240	all	1115363*1*0	MapleStory Fest 2022 Label Ring Coupon
+2635241	all	1006109*1*0	MapleStory Fest 2022 Hat Coupon
+2635242	all	1053914*1*0	MapleStory Fest 2022 Outfit Coupon
+2635168	all	1006097*1*0	Evening Orchid Hoodie Coupon
+2635169	all	1053904*1*0	Evening Orchid Coupon
+2635452	all	1115339*1*0	Maple Academy Label Ring (B)
+2635453	all	1115238*1*0	Maple Academy Chat Ring (B) Coupon
+2635454	all	1006142*1*0	Star of Ereve Coupon
+2635455	all	1053937*1*0	Cygnus Dress Coupon
+2635456	all	1073713*1*0	Cygnus Sandals Coupon
+2634821	all	1006050*1*0	Dunas Hat Coupon
+2634822	all	1103481*1*0	Dunas Cape Coupon
+2635609	all	5153015*1*7	Skin Coupon Voucher
+2635372	all	1115265*1*0	Black Bunny Chat Ring Coupon
+2635373	all	1115366*1*0	Black Bunny Label Ring Coupon
+2636184	all	5000930*1*0	Oberon Pet Coupon
+2636185	all	5000931*1*0	Titania Pet Coupon
+2636186	all	5000932*1*0	Petite Pico Pet Coupon
+2636187	all	5002079*1*0	Victory Pet Coupon
+2636188	all	5002080*1*0	Glory Pet Coupon
+2636189	all	5002081*1*0	Lil Pony Pet Coupon
+2636190	all	5002197*1*0	Dusk Pet Coupon
+2636191	all	5002198*1*0	Dawn Pet Coupon
+2636192	all	5002199*1*0	Lil Glowy Pet Coupon
+2636057	all	5538637*1*0	Desert Rabbit Chat Emoticon (We're A Perfect Pair)
+2636058	all	5538638*1*0	Desert Rabbit Chat Emoticon (What?)
+2636059	all	5538639*1*0	Desert Rabbit Chat Emoticon (Go Go)
+2636060	all	5538640*1*0	Desert Rabbit Chat Emoticon (I'm Bored)
+2636061	all	5538641*1*0	Desert Rabbit Chat Emoticon (I'm So Sad)
+2636062	all	5538642*1*0	Desert Rabbit Chat Emoticon (Relaxed)
+2636264	all	2434006*1*0;2049700*1*0	Burning World Step Up Lv. 140 Mission Achievement Box
+2636265	all	2630654*1*0;2049740*1*0	Burning World Step Up Lv. 220 Mission Achievement Box
+2635851	all	5062800*1*3	Miracle Circulator Coupon
+2635986	all	1662201*1*0;1672086*1*0	Terryroid Coupon
+2636034	all	2702006*1*0;2702003*1*0;2702007*1*0;2432970*1*0	Shiny Prestige Box
+2636143	all	2434917*1*10	Pollo and Fritto Entry Ticket x1 Coupon
+2636144	all	2049009*1*0	Pure Clean Slate Scroll 10% x1 Coupon
+2636224	all	2710055*1*7	Karma Bright Cube Coupon
+2635178	all	2670050*1*0;2670051*1*0	Expanded Halloween Manor Metal Roof Pack
+2635179	all	2670052*1*0;2670053*1*0;2670054*1*0	Expanded Halloween Manor Neon Party Roof Pack
+2635180	all	2670056*1*0;2670057*1*0	Expanded Halloween Manor Roof Decoration Pack
+2635181	all	2670072*1*0;2670058*1*0	Expanded Halloween Manor Flooring Pack
+2635182	all	2670060*1*0;2670061*1*0	Expanded Halloween Manor Exterior Wall Pack
+2635183	all	2670063*1*0;2670064*1*0	Expanded Halloween Manor Wall Pack
+2635184	all	2670066*1*0;2670067*1*0	Expanded Halloween Manor Window Pack
+2635185	all	2670068*1*0;2670069*1*0;2670070*1*0	Expanded Halloween Manor Neon Window Pack
+2635186	all	2670251*1*0;2670252*1*0;2670253*1*0	Expanded Halloween Manor Spooky Roof Pack
+2636537	all	5538646*1*0	Count Pink Bean Chat Emoticon (Toast)
+2636538	all	5538647*1*0	Count Pink Bean Chat Emoticon (Busy)
+2636539	all	5538648*1*0	Count Pink Bean Chat Emoticon (What?)
+2636540	all	5538649*1*0	Count Pink Bean Chat Emoticon (Speak Up)
+2636541	all	5538650*1*0	Count Pink Bean Chat Emoticon (Full)
+2635013	all	1006058*1*0;1053881*1*0	Night Troupe Pirate Outfit Coupon
+2635014	all	1006059*1*0;1053882*1*0	Nautilus Pirate Outfit Coupon
+2635030	all	1006067*1*0;1053888*1*0	Night Troupe Pirate Outfit (7 Days) Coupon
+2635031	all	1006068*1*0;1053889*1*0	Nautilus Pirate Outfit (7 Days) Coupon
+2635277	all	2049796*100*3	Karma Unique Potential Scroll 100% x100 Coupon
+2635377	all	4310297*1*0	Troupe Coin x1 Coupon
+2635378	all	4310297*1*0	Troupe Coin x1 Coupon
+2636688	all	4009546*1*0	Sol Erda x1 Coupon
+2636768	all	1054074*1*0	MapleStory Fest 2023 Outfit Coupon
+2636769	all	1006364*1*0	MapleStory Fest 2023 Hat Coupon
+2636959	all	5062505*20*0	Bonus Glowing Cube x20 Coupon
+2636960	all	5062505*1*0	Bonus Glowing Cube x1 Coupon
+2634364	all	1001137*1*0	Dusky Clue Queen Wig (F) Coupon
+2634365	all	1000115*1*0	Dusky Puzzle King Wig (M) Coupon
+2635390	all	2670114*1*0;2670123*1*0;2670129*1*0	Expanded Green Gable Roof With Snow Pack
+2635391	all	2670116*1*0;2670131*1*0	Expanded Maplemas Cracker Hut Pack
+2635392	all	2670115*1*0;2670124*1*0;2670130*1*0	Expanded Orange Gable Roof With Snow Pack
+2635393	all	2670135*1*0;2670120*1*0;2670126*1*0	Expanded Maplemas Santa Claus Hut Pack
+2635394	all	2670117*1*0;2670132*1*0	Expanded Maplemas Choco Hut Pack
+2635395	all	2670118*1*0;2670133*1*0	Expanded Maplemas Biscuit Hut Pack
+2635396	all	2670136*1*0;2670121*1*0;2670127*1*0	Expanded Maplemas Gingerbread Man Hut Pack
+2635397	all	2670284*1*0;2670287*1*0	Expanded Maplemas Pine Tree Hut Pack
+2635398	all	2670285*1*0;2670288*1*0	Expanded Maplemas Fir Hut Pack
+2635399	all	2670286*1*0;2670289*1*0	Expanded Maplemas Birch Hut Pack
+2637024	all	1114311*1*0;1114311*1*0	Heroic Tenebris Expedition Ring (Complete) Coupon
+2637049	all	1114322*1*0;1114322*1*0	Heroic Awake Ring (Lv. 4) Coupon
+2637255	all	1703330*1*0	Elite Knight Weapon Coupon
+2636716	all	3700741*1*0	Axis Order Title Coupon
+2637335	all	5782000*1*0	Premium Coloring Prism Coupon
+2637350	all	5152293*1*0	Lynn Face Coupon Voucher
+2637351	all	5150225*1*0	Lynn Hair Coupon Voucher
+2637352	all	5153025*1*0	Lynn Skin Coupon Voucher
+2637145	all	1115511*1*0;1115409*1*0	Lynn Label/Chat Ring Coupon
+2637197	all	1001165*1*0;1051826*1*0;1073854*1*0;1703463*1*0	Lynn Outfit & Weapon Set Box
+2637199	all	1662211*1*0;1672086*1*0	Baby Lynn Android & Heart Coupon
+2637198	all	2637162*1*0;3019176*1*0	Great Tree Gift Box
+2637201	all	5002447*1*0;1803049*1*0	Lil Gaia Pet Package
+2637207	all	4009546*1*0	Sol Erda x1 Coupon
+2637624	all	4009546*1*0	Sol Erda x1 Coupon
+2637625	all	4009546*2*0	Sol Erda x2 Coupon
+2637626	all	4009546*3*0	Sol Erda x3 Coupon
+2637627	all	4009546*4*0	Sol Erda x4 Coupon
+2637613	all	4009547*10*0	Sol Erda Fragment x10 Coupon
+2637614	all	4009547*20*0	Sol Erda Fragment x20 Coupon
+2637615	all	4009547*40*0	Sol Erda Fragment x40 Coupon
+2637616	all	4009547*60*0	Sol Erda Fragment x60 Coupon
+2637643	all	1115385*1*0	Mayple Label Ring Coupon
+2637693	all	3700747*1*0;3700748*1*0	Angelic Buster Comeback Title Coupon
+2637747	all	2637052*1*0	Dreamer Background Coupon
+2637748	all	2637052*1*0	Dreamer Background Coupon
+2637801	all	5000930*1*0	Oberon Pet Coupon
+2637802	all	5000931*1*0	Titania Pet Coupon
+2637803	all	5000932*1*0	Petite Pico Pet Coupon
+2637804	all	5002079*1*0	Victory Pet Coupon
+2637805	all	5002080*1*0	Glory Pet Coupon
+2637806	all	5002081*1*0	Lil Pony Pet Coupon
+2637807	all	5002197*1*0	Dusk Pet Coupon
+2637808	all	5002198*1*0	Dawn Pet Coupon
+2637809	all	5002199*1*0	Lil Glowy Pet Coupon
+2637810	all	5002356*1*0	Toth Pet Coupon
+2637811	all	5002357*1*0	Vella Pet Coupon
+2637812	all	5002358*1*0	Lil Death Pet Coupon
+2637813	all	5002561*1*0	Mazurka Pet Coupon
+2637814	all	5002562*1*0	Cantabile Pet Coupon
+2637815	all	5002563*1*0	Lil Time Pet Coupon
+2637817	all	5150231*1*0	Inkwell's Hair Selector Coupon Voucher
+2637816	all	5152298*1*0	Dr. Lim's Face Selector Coupon Voucher
+2637887	all	1703512*1*0	Mapleboysslers Coupon
+2634441	all	2432946*1*3	Mix Dye Coupon Voucher
+2634443	all	5062800*1*3	Miracle Circulator Coupon
+2634522	all	4310323*1*0	Eternal Stone x1 Coupon
+2634523	all	4310323*1*0	Eternal Stone x1 Coupon
+2637929	all	5062028*1*0	Glowing Cube Coupon
+2637930	all	5062029*1*0	Bright Cube Coupon
+2637931	all	5062505*1*0	Bonus Glowing Cube Coupon
+2637932	all	5062503*1*0	Bonus Bright Cube Coupon
+2637888	all	1703513*1*0	Maple Punk Maracas Coupon
+2636627	all	1662236*1*0;1672086*1*0	Wealthy DOGDOGroid Coupon
+2638093	all	1115537*1*0;1115435*1*0	Nao Label/Chat Ring Coupon
+2638197	all	2855000*1*0;4009547*1*0	New Rock Spirit's Golden Giveaway Special Box
+2638198	all	2439279*1*0;4037202*1*0;4009546*1*0	New Rock Spirit's Golden Giveaway Box
+2638249	all	5150236*1*0	Golden Giveaway Hair Selector Coupon Voucher
+2638250	all	5152403*1*0	Golden Giveaway Face Selector Coupon Voucher
+2638057	all	5538717*1*0	Apprentice Witch Hallowkitty Chat Emoticon (No Tricks, Just Treats!)
+2638061	all	5538721*1*0	Apprentice Witch Hallowkitty Chat Emoticon (Couldn't Scare Less)
+2638440	all	2350000*1*0	Character Slot Expansion Coupon Voucher
+2638436	choose	1022338*1*0;1006519*1*0;1082810*1*0;1073924*1*0;1054176*1*0;1703512*1*0	Maple Boys - Dr. Lim Edition Selection Box
+2638437	choose	1022339*1*0;1006520*1*0;1082811*1*0;1073925*1*0;1054177*1*0;1703512*1*0	Maple Boys - Inkwell Edition Selection Box
+2638438	choose	1082812*1*0;1073926*1*0;1054178*1*0;1006521*1*0;1703513*1*0	Maple Punk - Dr. Lim Edition Selection Box
+2638439	choose	1082813*1*0;1073927*1*0;1054179*1*0;1006522*1*0;1703513*1*0	Maple Punk - Inkwell Edition Selection Box
+2638592	all	1202316*1*0	Chains of Resentment (90 Days) Coupon
+2638593	all	1202316*1*0	Chains of Resentment (30 Days) Coupon
+2638612	random	2591163*1*0;2591418*1*0;2591619*1*0;2591676*1*0	Inspector's Magnificent Soul Box
+2638614	all	2638620*1*0;2638630*1*0;4037202*1*0;2000005*1*0;2638608*1*0;4037073*1*0;4310368*1*0;4310369*1*0	Lv. 1 Inspector Box
+2638615	all	2638620*1*0;2638630*1*0;4037202*1*0;2000005*1*0;2638608*1*0;4037073*1*0;4310368*1*0;4310369*1*0;2638612*1*0	Lv. 2 Inspector Box
+2638616	all	2638620*1*0;2638630*1*0;4037202*1*0;2000005*1*0;2638608*1*0;4037073*1*0;4310368*1*0;4310369*1*0;2638612*1*0	Lv. 3 Inspector Box
+2638629	all	2024084*1*0	50% Bonus EXP Coupon Voucher
+2638723	all	4310369*1*0	Gold Inspector Coin x1 Coupon
+2638724	all	4310368*1*0	Silver Inspector Coin x1 Coupon
+2636770	all	1006367*1*0	Ludibrium Bunny Hat Coupon
+2636771	all	1006368*1*0	Bunny Spiegelmann Hat Coupon
+2636772	all	1042453*1*0	Ludibrium Bunny T-shirt Coupon
+2636773	all	1042454*1*0	Bunny Spiegelmann T-shirt Coupon
+2636774	all	1042455*1*0	Pink Teddy T-shirt Coupon
+2636775	all	1042456*1*0	Panda Teddy T-shirt Coupon
+2636776	all	1042457*1*0	Robo T-shirt Coupon
+2638819	all	1115516*1*0	Soft Plush Label Ring Coupon
+2638820	all	1115414*1*0	Soft Plush Chat Ring Coupon
+2638821	all	1006524*1*0	Blurry Dream Coupon
+2638822	all	1054180*1*0	Dream Advent Coupon
+2638823	all	1054181*1*0	Dream Blessing Coupon
+2638824	all	1073928*1*0	Bunbun Slippers Coupon
+2638825	all	1703514*1*0	Cotton Candy Dreams Coupon
+2638826	all	1103722*1*0	My World's Unicorn Coupon
+2638827	all	1005061*1*0	Crispy Fried Hat Coupon
+2638828	all	1006574*1*0	Over-Fried Hat Coupon
+2638829	all	1006575*1*0	Unfried Hat Coupon
+2638830	all	1053511*1*0	Crispy Fried Outfit Coupon
+2638831	all	1054209*1*0	Over-Fried Outfit Coupon
+2638832	all	1054210*1*0	Unfried Outfit Coupon
+2638833	all	1004093*1*0	Yellow Knitted Beanie Coupon
+2638834	all	1002559*1*0	Nordic Knitted Beanie Coupon
+2638835	all	1102874*1*0	Lumin Wings Coupon
+2638815	all	1115440*1*0	Labyrinth Master Chat Ring Coupon
+2638813	all	1000119*1*0	Night Aren (M) Coupon
+2638814	all	1001144*1*0	Night Amelie (F) Coupon
+2638645	all	1703572*1*0	Inspector Weapon Coupon
+2638847	all	1012846*1*0	Slime Face Accessory Coupon
+2638957	all	1005880*1*0	New Ride Snow Coupon
+2638369	all	1103618*1*0	Dream Voyage Cape Coupon
+2638372	all	1703396*1*0	Dream Voyage Weapon Coupon
+2638864	all	5538756*1*0	Tomboy Kaling Chat Emoticon Coupon (I Surrender!)
+2638865	all	5538757*1*0	Tomboy Kaling Chat Emoticon Coupon (Gather the Four Perils)
+2638866	all	5538758*1*0	Tomboy Kaling Chat Emoticon Coupon (Scatter, My Mesos!)
+2638867	all	5538759*1*0	Tomboy Kaling Chat Emoticon Coupon (Bankrupt?!)
+2638868	all	5538760*1*0	Tomboy Kaling Chat Emoticon Coupon (Burn Out...)
+2638869	all	5538761*1*0	Tomboy Kaling Chat Emoticon Coupon (Don't Feel Like It)
+2639178	all	1714000*1*0	Grand Sacred Symbol: Tallahart Coupon
+2639223	all	4310389*1*0	Profession Credit x1 Coupon
+2638194	all	1662228*1*0;1672086*1*90	Inosukeroid Coupon
+2638263	all	1662225*1*0;1672086*1*90	Tanjiroroid Coupon
+2638264	all	1662227*1*0;1672086*1*90	Zenitsuroid Coupon
+2638265	all	1662229*1*0;1672086*1*90	Shinoburoid Coupon
+2638266	all	1662230*1*0;1672086*1*90	Giyuroid Coupon
+2638267	all	1662231*1*0;1672086*1*90	Kanaoroid Coupon
+2638268	all	1662232*1*0;1672086*1*90	Kyojuroroid Coupon
+2638269	all	1662233*1*0;1672086*1*90	Tengenroid Coupon
+2638270	all	1662234*1*0;1672086*1*90	Muzanroid Coupon
+2638212	all	1006569*1*0	Sakonji Mask Coupon
+2638277	all	1006570*1*0	Sabito Mask Coupon
+2638278	all	1006631*1*0	Kotetsu Mask Coupon
+2639344	all	2691001*1*0	Herb Selector Pouch
+2639346	all	4023023*1*0;4023024*1*0	Essence Selector Pouch
+2639353	all	2632793*1*0;4037202*1*0;2637337*1*0	New Rock Spirit's Golden Giveaway Box
+2632954	all	5002222*1*0;1802796*1*0	Lindaer Pet Package
+2632961	all	1403028*1*0*1*17*Unique	AbsoLab Martial Brace Box
+2638095	all	5150235*1*0	Xuanshan Hair Coupon Voucher
+2638096	all	5152402*1*0	Mighty Mo Xuan Face Coupon Voucher
+2638097	all	5153029*1*0	Mo Xuan Skin Coupon Voucher
+2639358	all	1054409*1*0	Lord Balrog Soccer Uniform Coupon
+2639359	all	1074126*1*0	Lord Balrog Soccer Cleats Coupon
+2639360	all	1006790*1*0	Pet Food Merchant Doofus's Hat Coupon
+2639361	all	1006791*1*0	Item Creator Francois's Wig Coupon
+2639362	all	1006792*1*0	Pet Master Cloy's Wig Coupon
+2639363	all	1006793*1*0	Alex's Wig Coupon
+2639364	all	1054410*1*0	Kerning Tower Pop Star Outfit Coupon
+2639388	choose	1054417*1*0;1054418*1*0	Victoria Soccer Uniform Selector Coupon
+2639389	all	1115710*1*0;1115607*1*0	Victoria Soccer Label/Chat Ring Coupon
+2639406	all	1006807*1*0	Kyrin Mask Coupon
+2639410	all	1006808*1*0	Pirate King Hat Coupon
+2639416	all	1662249*1*0;1672086*1*0	Valerieroid Coupon
+2639365	all	1703639*1*0	Mushking Empire Head Security Officer's Sword Coupon
+2639366	all	1662247*1*0;1672086*1*0	Piaroid Coupon
+2639370	all	1662248*1*0;1672086*1*0	Wingroid Coupon
+2639368	all	1006794*1*0	Relic Excavation Association Shawn Hat Coupon
+2639371	all	1006795*1*0;1054412*1*0;1074127*1*0;1082845*1*0	Jane's Outfit Set Coupon
+2639372	all	1006796*1*0;1054413*1*0;1074128*1*0;1082846*1*0	Mike's Outfit Set Coupon
+2639375	choose	5010359*1*0;5010360*1*0;5010361*1*0	Secret Garden Owl Effect Selector Coupon
+2639376	all	1006799*1*0;1103859*1*0;1054416*1*0;1074131*1*0	JM From tha Streetz Set Coupon
+2639377	choose	1115707*1*0;1115604*1*0;1115708*1*0;1115605*1*0;1115709*1*0;1115606*1*0	Victoria Community Ring Selector Coupon
+2639640	all	5010370*1*0	Morning Starlight Effect Coupon
+2639648	all	1115728*1*0;1115625*1*0	Morning Star Banquet Label/Chat Ring Coupon
+2639750	all	5533159*1*0	Explorer High Fashion Box Coupon
+2639751	all	5533160*1*0	Explorer Mass Fashion Box Coupon
+2639752	all	1000142*1*0	Black Hushy Wig (M) Coupon
+2639753	all	1000143*1*0	Black Red Carpet Wig (M) Coupon
+2639754	all	1000144*1*0	Black Flow Wig (M) Coupon
+2639755	all	1000145*1*0	Black Jerome Wig (M) Coupon
+2639756	all	1000146*1*0	Black Mint Wig (M) Coupon
+2639757	all	1000147*1*0	Black Recover Wig (M) Coupon
+2639758	all	1001168*1*0	Black School Girl Pigtails Wig (F) Coupon
+2639759	all	1001169*1*0	Black Spoon of Clear Sky Wig (F) Coupon
+2639760	all	1001170*1*0	Black Elfine Ponytail Wig (F) Coupon
+2639761	all	1001171*1*0	Black Lyrha Wig (F) Coupon
+2639762	all	1001172*1*0	Black Daze Wig (F) Coupon
+2639763	all	1001173*1*0	Black Plop Wig (F) Coupon
+2639764	all	1010010*1*0	White-Eyed Calm Lucid Face Accessory (M) Coupon
+2639765	all	1010011*1*0	White-Eyed Sullen Face Accessory (M) Coupon
+2639766	all	1010012*1*0	White-Eyed Cartoon Face Accessory (M) Coupon
+2639767	all	1010013*1*0	White-Eyed Mute Face Accessory (M) Coupon
+2639768	all	1010014*1*0	White-Eyed Constantly Curious Face Accessory (M) Coupon
+2639769	all	1010015*1*0	White-Eyed Dear Face Accessory (M) Coupon
+2639770	all	1010016*1*0	White-Eyed Lucid Face Accessory (M) Coupon
+2639772	all	1011012*1*0	White-Eyed Calm Lucid Face Accessory (F) Coupon
+2639773	all	1011013*1*0	White-Eyed Not-So-Chucklehead Face Accessory (F) Coupon
+2639774	all	1011014*1*0	White-Eyed Existentially Tired Face Accessory (F) Coupon
+2639775	all	1011015*1*0	White-Eyed Sullen Face Accessory (F) Coupon
+2639776	all	1011016*1*0	White-Eyed Dear Face Accessory (F) Coupon
+2639777	all	1011014*1*0	White-Eyed Existentially Tired Face Accessory (F) Coupon
+2639723	all	1662264*1*0;1672074*1*0	Plentyroid Coupon
+2639781	all	5157056*1*0	Blair Salon Galaxy Hair Coupon (M) Voucher
+2639782	all	5157057*1*0	Blair Salon Dark Galaxy Hair Coupon (M) Voucher
+2639783	all	5157058*1*0	Blair Salon Stellar Hair Coupon (F) Voucher
+2639784	all	5157059*1*0	Blair Salon Dark Stellar Hair Coupon (F) Voucher
+2639224	all	5782002*1*90	Regular Coloring Prism (90 Days) Coupon
+2639225	all	5782001*1*90	Prism Color Restore (90 Days) Coupon
+2639842	all	5782002*1*0;5782001*1*0	Coloring Prism Set
+2639831	all	1703665*1*0	Asteria's Wisdom Coupon
+2639832	all	1115730*1*0;1115627*1*0	Oort Rings Coupon
+2639836	all	3019603*1*0	Friend of the Constellations Chair Coupon
+2639850	all	2439178*1*0	Sia Astelle Growth Support Box
+2639851	all	2430447*1*0	Sia Astelle Lv. 30 Gift
+2639852	all	2433444*1*0	Sia Astelle Lv. 100 Gift
+2639853	all	2439379*1*0	Sia Astelle Lv. 150 Gift
+2639854	all	2450163*2*0;2437750*100*0;2432970*50*0	Sia Astelle Lv. 200 Gift
+2639855	all	2435719*30*0;2437750*100*0;4037073*1000*0	Sia Astelle Lv. 210 Gift
+2639856	all	2637922*1*0;2437750*100*0;4037073*1300*0	Sia Astelle Lv. 220 Gift
+2639857	all	2437750*100*0;2435719*30*0	Sia Astelle Lv. 225 Gift
+2639858	all	2637167*1*0;2437750*100*0;4037073*3000*0	Sia Astelle Lv. 230 Gift
+2639859	all	2437750*100*0;2435719*30*0	Sia Astelle Lv. 235 Gift
+2639860	all	2437750*100*0;4037073*5000*0;2639991*1*0	Sia Astelle Lv. 240 Gift
+2639861	all	2439279*3*0;2437750*100*0	Sia Astelle Lv. 245 Gift
+2639862	all	2437750*200*0;4037073*9999*0	Sia Astelle Lv. 250 Gift
+2639863	all	2439279*3*0;2437750*100*0	Sia Astelle Lv. 255 Gift
+2639864	all	4009547*40*0;2633616*30*0	Sia Astelle Lv. 260 Gift
+2639866	all	2430909*1*0	Sia Astelle Special Lv. 30 Gift
+2639867	all	2637998*1*0;2450163*3*0	Sia Astelle Special Lv. 100 Gift
+2639868	all	2637168*10*0	Sia Astelle Special Lv. 150 Gift
+2639875	all	4037073*19998*0;2437750*200*0;2639721*1*0	Sia Astelle Special Lv. 240 Gift
+2639876	all	2439279*6*0;2437750*200*0	Sia Astelle Special Lv. 245 Gift
+2639877	all	4037073*29997*0;2437750*300*0	Sia Astelle Special Lv. 250 Gift
+2639879	all	2639732*1*0;4009547*100*0;2644103*1*0	Sia Astelle Special Lv. 260 Gift
+2639881	all	2639830*1*0;2439279*5*0	Sia Astelle Login Perk Box 2
+2639882	all	4009547*50*0;2439279*10*0	Sia Astelle Login Perk Box 3
+2639883	all	2639836*1*0	Sia Astelle Login Perk Box 4
+2639918	all	5150040*1*0	Royal Hair Coupon Voucher
+2639919	all	5152053*1*0	Royal Face Coupon Voucher
+2639921	all	3994583*1*0	Hair Color Coupon (REG) Voucher
+2632459	all	4000814*6000*0	6,000-Maple-Point Coupon
+2638572	all	4310297*1*0	Troupe Coin x1 Coupon
+2638573	all	4310297*1*0	Troupe Coin x1 Coupon
+2639956	all	1074002*1*0	Weekend Hangout Sneakers Coupon
+2639957	all	1054260*1*0	Weekend Hangout Hoodie Coupon
+2639958	all	1006630*1*0	Weekend Hangout Headset Coupon
+2639959	all	1103765*1*0	Weekend Hangout Snack Coupon
+2639993	all	5157054*1*0	Nightlife Angelo Hair Coupon Voucher
+2639994	all	5157055*1*0	Nightlife Angela Hair Coupon Voucher
+2830199	random	2591264*1*0;2591418*1*0;2591619*1*0;2591676*1*0	Inspector's Magnificent Soul Box
+2830201	all	1182307*1*0	Shackles of Resentment (30 Days) Coupon
+2830204	all	2638620*1*0;2638630*1*0;4037202*1*0;4037073*1*0;4310368*1*0;4310369*1*0	Lv. 1 Inspector Box
+2830205	all	2638620*1*0;2638630*1*0;4037202*1*0;4037073*1*0;4310368*1*0;4310369*1*0;2638612*1*0	Lv. 2 Inspector Box
+2830206	all	2638620*1*0;2638630*1*0;4037202*1*0;2539005*1*0;4037073*1*0;4310368*1*0;4310369*1*0;2638612*1*0	Lv. 3 Inspector Box
+2830207	all	2638620*1*0;2638630*1*0;4037202*1*0;2539005*2*0;4037073*1*0;4310368*1*0;4310369*1*0;2638612*1*0;4009546*1*0	Lv. 4 Inspector Box
+2830208	all	2638620*1*0;2638630*1*0;4037202*1*0;2539005*3*0;4037073*1*0;4310368*1*0;4310369*1*0;2638612*1*0;4009546*1*0	Lv. 5 Inspector Box
+2830209	all	2638620*1*0;2638630*1*0;4037202*1*0;2539005*5*0;4037073*1*0;4310368*1*0;4310369*1*0;2638612*1*0;4009546*1*0	Lv. 6 Inspector Box
+2830210	all	1182307*1*0	Shackles of Resentment (90 Days) Coupon
+2830379	all	1115649*1*0	Maple Con LA 2025 Chat Ring Coupon
+2830380	all	1115752*1*0	Maple Con LA 2025 Label Ring Coupon
+2830002	all	1143467*1*0	Assemble Medal Coupon
+2830006	all	1143468*1*0	Maple Peacekeepers Medal Coupon
+2830217	all	1703713*1*0	Lumiere Heritage Coupon
+2830218	all	1082876*1*0	Lumiere Chronometer Coupon
+2830219	all	2635380*1*0	Safe Ticket x1 Coupon
+2830220	all	2635380*1*0	Safe Ticket x1 Coupon
+2830221	all	2635380*1*0	Safe Ticket x1 Coupon
+2830231	choose	1115633*1*0;1115634*1*0;1115635*1*0;1115636*1*0;1115637*1*0;1115638*1*0;1115639*1*0;1115640*1*0;1115641*1*0;1115642*1*0;1115643*1*0;1115644*1*0;1115645*1*0;1115646*1*0;1115647*1*0;1115736*1*0;1115737*1*0;1115738*1*0;1115739*1*0;1115740*1*0;1115741*1*0;1115742*1*0;1115743*1*0;1115744*1*0;1115745*1*0;1115746*1*0;1115747*1*0;1115748*1*0;1115749*1*0;1115750*1*0	Permanent Royal Wonder 11th - 15th Chat/Label Ring Selector Coupon
+2830234	all	5782003*1*0	Coloring Prism Pro Coupon
+2830564	all	1690203*1*0	AbsoLab Weapon Box
+2830566	all	1690204*1*0	Arcane Umbra Weapon Box
+2830568	all	1690203*1*0	AbsoLab Weapon Box
+2830570	all	1690204*1*0	Arcane Umbra Weapon Box
+2830850	all	3700832*1*0	Every Precious Thing Title Coupon
+2830863	all	5503000*1*0	Freestyle Coupon Voucher
+2830869	all	1112996*1*0	Last Standing Effect Ring Coupon
+2830439	all	3700823*1*0	Enduring Will Title Coupon
+2830370	all	1006913*1*0	Adversary's Head Decoration Coupon
+2830620	all	2000005*50*0;2435719*3*0;2638500*100*0	Twenteena's Heartfelt Gift 
+2831110	all	2672321*1*0;2672320*1*0	Twenteena's First Gift
+2831111	all	2830936*1*0;2672319*1*0	Twenteena's Second Gift
+2831112	all	2830938*1*0;2672318*1*0	Twenteena's Third Gift
+2831127	random	1012757*1*0;1032330*1*0;1122443*1*0;1113316*1*0	Resonant Dawn Accessory Box
+2831128	all	2730011*10*14	Karma Bonus Bright Cube x10 Coupon
+2831129	all	2710054*10*14	Karma Bright Cube x10 Coupon
+2831130	all	2730011*7*14	Karma Bonus Bright Cube x7 Coupon
+2831132	all	2710054*7*14	Karma Bright Cube x7 Coupon
+2831136	all	2710042*2*14	Karma Solid Cube x2 Coupon
+2831137	all	2710044*2*14	Karma Hard Cube x2 Coupon
+2831138	all	2710042*1*14	Karma Solid Cube x1 Coupon
+2831139	all	2710044*1*14	Karma Hard Cube x1 Coupon
+2831142	all	4009547*10*0	Sol Erda Fragment x10 Coupon
+2831143	all	4009547*5*0	Sol Erda Fragment x5 Coupon
+2831145	all	4009547*1*0	Sol Erda Fragment x1 Coupon
+2831146	all	2638392*1*14	Dense Sol Erda Energy x1 Coupon
+2831147	all	2637469*1*14	Sol Erda Energy x1 Coupon
+2831148	all	2637468*3*14	Faint Sol Erda Energy x3 Coupon
+2831149	all	2637468*1*14	Faint Sol Erda Energy x1 Coupon
+2831151	all	2630402*3*14	Experience Nodestone x3 Coupon
+2831152	all	2630402*1*14	Experience Nodestone x1 Coupon
+2831153	all	2435719*10*14	Nodestone x10 Coupon
+2831154	all	2435719*5*14	Nodestone x5 Coupon
+2831155	all	2435719*1*14	Nodestone x1 Coupon
+2831157	all	2048766*3*14	Karma Black Rebirth Flame x3 Coupon
+2831158	all	2048758*3*14	Karma Eternal Rebirth Flame x3 Coupon
+2831159	all	2048759*5*14	Karma Powerful Rebirth Flame x5 coupon
+2831160	all	2433808*5*5	Special Medal of Honor x5 Coupon
+2831161	all	2433808*1*5	Special Medal of Honor x1 Coupon
+2830338	random	1012632*1*0;1022278*1*0;1132308*1*0;2633926*1*0;1113306*1*0;1032316*1*0;1122430*1*0	Chaos Pitched Accessory Box
+2831074	all	4037449*1*0	Dawn Star Core Coupon
+2831075	all	4037450*1*0	Pitched Star Core Coupon
+2831073	all	4037448*1*0	Star Core Coupon
+2831076	all	4001955*2*0	Dawn Whisper Crystal Coupon
+2831077	all	4001956*1*0	Pitched Whisper Crystal Coupon
+2831172	all	2048766*30*14	Karma Black Rebirth Flame x30 Coupon
+2831171	all	2048766*20*14	Karma Black Rebirth Flame x20 Coupon
+2831249	all	5220028*1*14	Roro's Familiar Booster Pack Coupon
+2831248	all	4001877*1*0	Damaged Black Heart Coupon
+2831290	all	2539005*20*0	Inspector's Grindstone Coupon
+5680076	all	2290058*1*0	Illusion Step 20 Mastery Book Coupon
+5680077	all	2290809*1*0	Shadow Shifter 20 Mastery Book Coupon
+5680078	all	2290024*1*0	Arcane Aim 20 Mastery Book Coupon
+5680079	all	2290026*1*0	Big Bang 20 Mastery Book Coupon
+5680080	all	2290812*1*0	Infinity 20 Mastery Book Coupon
+5680081	all	2290813*1*0	Rush 20 Mastery Book Coupon
+5680082	all	2290814*1*0	Taint 20 Mastery Book Coupon
+5680083	all	2290412*1*0	Claw Expert 20 Mastery Book Coupon
+5680084	all	2290416*1*0	Quad Star 20 Mastery Book Coupon
+5680085	all	2290418*1*0	Dark Harmony 20 Mastery Book Coupon
+5680086	all	2290420*1*0	Frailty Curse 20 Mastery Book Coupon
+5680088	all	2290204*1*0	Aura of the Evil Eye 20 Mastery Book Coupon
+5680089	all	2290204*1*0	Hex of the Evil Eye 20 Mastery Book Coupon
+5680090	all	2290292*1*0	Dark Impale 20 Mastery Book Coupon
+5680091	all	2290608*1*0	Dragon Strike 20 Mastery Book Coupon
+5680092	all	2290619*1*0	Speed Infusion 20 Mastery Book Coupon
+5680093	all	2290620*1*0	Time Leap 20 Mastery Book Coupon
+5680094	all	2290427*1*0	Typhoon Crush 20 Mastery Book Coupon
+5680095	all	2290430*1*0	Buccaneer Blast 20 Mastery Book Coupon
+5680096	all	2290432*1*0	Crossbones 20 Mastery Book Coupon
+5680097	all	2290434*1*0	Octopunch 20 Mastery Book Coupon
+5680098	all	2290830*1*0	Bow Expert 20 Mastery Book Coupon
+5680099	all	2290831*1*0	Hurricane 20 Mastery Book Coupon
+5680101	all	2290034*1*0	Advanced Blessing 20 Mastery Book Coupon
+5680102	all	2290834*1*0	Genesis 20 Mastery Book Coupon
+5680103	all	2290835*1*0	Angel Ray 20 Mastery Book Coupon
+5680105	all	2290837*1*0	Boomerang Step 20 Mastery Book Coupon
+5680106	all	2290838*1*0	Assassinate 20 Mastery Book Coupon
+5680107	all	2290839*1*0	Smokescreen 20 Mastery Book Coupon
+5680108	all	2290424*1*0	Dagger Expert 20 Mastery Book Coupon
+5680109	all	2290426*1*0	Shadower Instinct 20 Mastery Book Coupon
+5680110	all	2290842*1*0	Piercing Arrow 20 Mastery Book Coupon
+5680111	all	2290072*1*0	Spirit Link: Frostprey 20 Mastery Book Coupon
+5680112	all	2290844*1*0	Snipe 20 Mastery Book Coupon
+5680113	all	2290845*1*0	Chain Lightning 20 Mastery Book Coupon
+5680114	all	2290042*1*0	Glacier Chain 20 Mastery Book Coupon
+5680115	all	2290847*1*0	Elquines 20 Mastery Book Coupon
+5680116	all	2290848*1*0	Blizzard 20 Mastery Book Coupon
+5680117	all	2290849*1*0	Paralyze 20 Mastery Book Coupon
+5680118	all	2290036*1*0	Mist Eruption 20 Mastery Book Coupon
+5680119	all	2290851*1*0	Ifrit 20 Mastery Book Coupon
+5680120	all	2290852*1*0	Meteor Shower 20 Mastery Book Coupon
+5680121	all	2290853*1*0	Monster Magnet 20 Mastery Book Coupon
+5680122	all	2290627*1*0	Rapid Fire 20 Mastery Book Coupon
+5680123	all	2290436*1*0	Majestic Presence 20 Mastery Book Coupon
+5680124	all	2290438*1*0	Jolly Roger 20 Mastery Book Coupon
+5680125	all	2290439*1*0	Eight-Legs Easton 20 Mastery Book Coupon
+5680126	all	2290441*1*0	Brain Scrambler 20 Mastery Book Coupon
+5680127	all	2290445*1*0	Parrotargetting 20 Mastery Book Coupon
+5680128	all	2290860*1*0	Achilles 20 Mastery Book Coupon
+5680129	all	2290861*1*0	Blast 20 Mastery Book Coupon
+5680130	all	2291031*1*0	Guardian 20 Mastery Book Coupon
+5680132	all	2290864*1*0	Heaven's Hammer 20 Mastery Book Coupon
+5680133	all	2290865*1*0	Advanced Combo Attack 20 Mastery Book Coupon
+5680134	all	2290866*1*0	Enrage 20 Mastery Book Coupon
+5680135	all	2290599*1*0	Raging Blow 20 Mastery Book Coupon
+5680148	all	4000814*5000*0	5,000-Maple-Point Coupon
+5680149	all	4000814*10000*0	10,000-Maple-Point Coupon
+5680150	all	4000814*30000*0	30,000-Maple-Point Coupon
+5680151	all	4000814*1000*0	1,000-Maple-Point Coupon
+5680193	all	mp*50000*0	50,000-Maple-Point Coupon
+5680194	all	mp*100000*0	100,000-Maple-Point Coupon
+5680335	all	mp*1000000*0	1-Million-Maple-Point Coupon
+5680385	all	3015297*1*0	Life Changer Hongbu Chair Coupon
+5680387	all	2028048*1*0	Pure Clean Slate Scroll 100% Coupon
+5680397	all	4000814*200000*0	200,000-Maple-Point Coupon
+5680398	all	mp*500000*0	500,000-Maple-Point Coupon
+5680409	all	4000814*3000*0	3,000-Maple-Point Coupon
+5680410	all	4000814*5000*0	5,000-Maple-Point Coupon
+5680411	all	4000814*7000*0	7,000-Maple-Point Coupon
+5680412	all	4000814*10000*0	10,000-Maple-Point Coupon
+5680413	all	4000814*15000*0	15,000-Maple-Point Coupon
+5680414	all	4000814*20000*0	20,000-Maple-Point Coupon
+5680415	all	4000814*25000*0	25,000-Maple-Point Coupon
+5680419	all	5044006*1*1;5450012*1*1	Premium PC Cafe 30 Minute Login Reward Box
+5680421	all	5062009*1*0;2450064*1*0	Premium PC Cafe 180 Minute Login Reward Box
+5680432	all	2023065*1*0	Star Box Coupon
+5680435	all	5000602*1*0;1802564*1*0	Iron Rabbit Pet Package
+5680440	all	4000814*30000*0	30,000-Maple-Point Coupon
+5680441	all	4000814*300000*0	300,000-Maple-Point Coupon
+5680443	all	2432946*1*0	Mix Dye Coupon Voucher
+5680452	all	4000814*5000*0	5,000-Maple-Point Coupon
+5680453	all	4000814*10000*0	10,000-Maple-Point Coupon
+5680454	all	4000814*20000*0	20,000-Maple-Point Coupon
+5680455	all	4000814*30000*0	30,000-Maple-Point Coupon
+5680465	all	1662111*1*0;1672083*1*30	Lucidroid Coupon
+5680525	all	mp*50000*0	50,000-Maple-Point Coupon
+5680577	all	4000814*10000*0	10,000-Maple-Point Coupon
+5680578	all	4000814*5000*0	5,000-Maple-Point Coupon
+5680751	all	mp*100000*0	100,000-Maple-Point Coupon
+5680753	all	4310272*1*0;4000886*1000*0	Glory Coin x1000 Coupon
+5680812	all	2890011*1*0	Simper Face Coupon Voucher
+5681002	all	1143297*1*0	[BLACKPINK] BLACK Title Coupon
+5681003	all	1143298*1*0	[BLACKPINK] PINK Title Coupon
+5681017	all	4000814*11000*0	11,000-Maple-Point Coupon
+5681018	all	4000814*33000*0	33,000-Maple-Point Coupon
+5681019	all	4000814*55000*0	55,000-Maple-Point Coupon
+5681020	all	4000814*110000*0	110000-Maple-Point Coupon
+5681109	all	3700273*1*0	Hero Title Coupon
+5681266	all	2434775*1*0;2434779*1*0;2434776*1*0;2434777*1*0;2434778*1*0;2434780*1*0	6 Expertise Boost Potions Coupon
+5680608	all	1712001*1*0	Arcane Symbol: Vanishing Journey Coupon
+5680609	all	1712002*1*0	Arcane Symbol: Chu Chu Island Coupon
+5680610	all	1712003*1*0	Arcane Symbol: Lachelein Coupon
+5681081	all	1005491*1*0	Transparent Hat Coupon
+5681082	all	1102039*1*0	Transparent Cape Coupon
+5681084	all	1005491*1*0	Transparent Hat Coupon
+5681085	all	1102039*1*0	Transparent Cape Coupon
+5681155	all	1202316*1*0	Chains of Resentment (30 Days) Coupon
+5681213	all	3015081*1*0	Igloo Chair Coupon
+5681214	all	3010113*1*0	Soul Teddy Chair Coupon
+5681215	all	2630585*1*0	Permanent Surfin' Safari Mount Coupon Voucher
+5681252	all	mp*100000*0	100,000-Maple-Point Coupon
+2434961	all	1115016*1*0	Slumbering Dragon Chat Ring Coupon
+2434962	all	1115103*1*0	Slumbering Dragon Label Ring Coupon
+2436128	all	1142546*1*0;1032167*1*0;1032075*1*0;3015664*1*0	Kerning Tower Grand Opening Party Favor
+2434929	all	4001832*1*0	Trifling Exploration Box
+2436803	all	meso*200000000*0	Inkwell Coin
+2470002	all	4001832*12000*0	Golden Hammer 50%
+2470004	all	4001832*4800*0	Golden Hammer 20%
+2470009	all	4001832*12000*0	Golden Hammer 50%
+2470013	all	4001832*12000*0	Golden Hammer 50%
+2470018	all	4001832*16800*0	Golden Hammer 70%
+2470000	all	4001832*24000*0	Golden Hammer
+2470003	all	4001832*24000*0	Golden Hammer 100%
+2470005	all	4001832*4800*0	Golden Hammer 20%
+2470007	all	4001832*24000*0	Golden Hammer 100%
+2470010	all	4001832*24000*0	Golden Hammer 100%
+2470011	all	4001832*24000*0	Golden Hammer 100%
+2470012	all	4001832*12000*0	Golden Hammer
+2470016	all	4001832*24000*0	Golden Hammer 100%
+2470019	all	4001832*12000*0	Golden Hammer 50%
+2470021	all	4001832*24000*0	Golden Hammer 100%
+2435648	all	2470003*2*0	Golden Hammer 100% Double Pack
+2438593	all	2438860*1*0	Round 'n' Round Damage Skin (30 Days)
+2438595	all	2438861*1*0	Garden Damage Skin (30 Days)
+2438597	all	2438862*1*0	Cake Icing Damage Skin (30 Days)
+2438662	all	2438865*1*0	Mustache Damage Skin (30 Days)
+2438719	all	2438869*1*0	High Noon Damage Skin (30 Days)
+2630306	all	2633312*1*0	Rock Spirit Damage Skin (30 Days)
+2631425	all	2631423*1*0	Showa Town Damage Skin (30 Days)
+2631428	all	2631426*1*0	Ninja Castle Damage Skin (30 Days)
+2632823	choose	1114307*1*0;1114316*1*0;1114318*1*0	1-of-3 Event Ring Selector Coupon
+2432083	all	2711005*3*0	Master Craftsman's Cube Coupon
+2432409	all	2290162*1*0	Magic Guard Mastery Book Coupon
+2432410	all	2290163*1*0	Magic Booster Mastery Book Coupon
+2432411	all	2290164*1*0	Critical Magic Mastery Book Coupon
+2434009	all	5000452*1*0	Chroma Bean Pet Coupon
+2630504	all	1012689*1*0	Hollow Memories Face Accessory Coupon
+2632540	all	1012729*1*0	Labyrinth Memory Face Accessory Coupon
+2634739	all	1012729*1*0	Labyrinth Memory Face Accessory Coupon
+2633796	all	1012747*1*0	Encountered Fate Face Accessory Coupon
+2635879	all	1012747*1*0	Encountered Fate Face Accessory Coupon
+2634344	all	1012758*1*0	Puffed-Up Cheeks Snow Squirrel Face Accessory Coupon
+2634721	all	1012762*1*0	Dreamy Rose Face Accessory Coupon
+2635654	all	1012777*1*0	Dawn Echo Face Accessory Coupon
+2636871	all	1012817*1*0	Sweet Marchen Face Accessory Coupon
+2638101	choose	2890023*1*0;2891023*1*0	Master Seraphim Face Coupon Voucher
+2430606	all	2431790*1*0	Andy's Mastery Book
+2439239	all	5000575*1*0	Lil Phantom Pet Coupon
+2439240	all	5000574*1*0	Lil Aran Pet Coupon
+2439241	all	5000573*1*0	Lil Evan Pet Coupon
+2439243	all	5000576*1*0	Lil Luminous Pet Coupon
+2439244	all	5000577*1*0	Lil Mercedes Pet Coupon
+2439245	all	5000578*1*0	Lil Shade Pet Coupon
+2437084	all	5000641*1*0	Ebony Lucid Pet Coupon
+2439252	all	5000762*1*0	Forest Dori Pet Coupon
+2439253	all	5000763*1*0	Forest Dari Pet Coupon
+2439254	all	5000764*1*0	Forest Finca Pet Coupon
+2634825	all	5002387*1*0	Lil Deneb Pet Coupon
+2634826	all	5002388*1*0	Lil Bootis Pet Coupon
+2634827	all	5002389*1*0	Lil Alphard Pet Coupon
+2635624	all	3700727*1*0	<Ruminating Will> Title Coupon
+2635625	all	3700728*1*0	<Blooming Hatred> Title Coupon
+2637036	all	3700748*1*0	<Shining Idol> Title Coupon
+2639991	all	3700808*1*0	Infinite Starlight Title Coupon
+2635630	all	1115376*1*0	Khali Label Ring Coupon
+2635631	all	1115274*1*0	Khali Chat Ring Coupon
+2637167	all	1114327*1*0	Abyss Hunter Ring Coupon
+2633356	all	1005809*1*0	Goo Hat Coupon
+2633358	all	3018710*1*0	Goo Chair Coupon
+2633360	all	1005810*1*0	Slime Goo Hat Coupon
+2633361	all	1053724*1*0	Goo Hoodie Coupon
+2633362	all	1703096*1*0	Goo Cushion Coupon
+2633363	all	1662173*1*0	Gooroid Coupon
+2639721	all	1662262*1*0	Algolroid Coupon
+2631112	all	1073392*1*0	Arabian Shoes Coupon
+2434769	all	5040004*1*7	Hyper Teleport Rock (7 Days) Coupon
+2470001	all	4001832*12000*0	Golden Hammer 50%
+2435814	all	meso*20000000*0;2049702*1*0;2001582*300*0	Plus Gift Box <Stage 1>
+2435815	all	1004574*1*0;4001832*1500*0	Plus Gift Box <Stage 2>
+2435816	all	meso*30000000*0;4001832*1500*0;2049702*1*0;2710034*5*0	Plus Gift Box <Stage 3>
+2435817	all	1113227*1*0;4001832*2000*0	Plus Gift Box <Stage 4>
+2435818	all	meso*50000000*0;4001832*2500*0;2049702*1*0;2710035*5*0	Plus Gift Box <Stage 5>
+2435819	all	2048724*5*0;4001832*2000*0	Plus Gift Box <Stage 6>
+2435820	all	meso*100000000*0;4001832*4000*0;2049702*1*0;2048723*5*0	Plus Gift Box <Stage 7>
+2435821	all	meso*200000000*0;4001832*5000*0;1142991*1*0;2710035*5*0	Plus Gift Box <Stage 8>
+2048200	all	2000019*20*0	Basic Bonus Potential Stamp
+2048201	all	2000019*40*0	Intermediate Bonus Potential Stamp
+2048202	all	2000019*60*0	Advanced Bonus Potential Stamp
+2048203	all	2000019*100*0	Special Bonus Potential Stamp
+2048204	all	2000019*60*0	Superior Bonus Potential Stamp
+2048207	all	2000019*60*0	Advanced Bonus Potential Stamp
+2048208	all	2000019*70*0	Superior Bonus Potential Stamp
+2048209	all	2000019*60*0	Startling Bonus Potential Stamp
+2048210	all	2000019*60*0	Advanced Bonus Potential Stamp
+2048211	all	2000019*10*0	January Bonus Potential Stamp
+2048212	all	2000019*100*0	Perfect Bonus Potential Stamp
+2048213	all	2000019*100*0	Special Bonus Potential Stamp
+2048214	all	2000019*70*0	Superior Bonus Potential Stamp
+2048215	all	2000019*60*0	Advanced Bonus Potential Stamp
+2048216	all	2000019*40*0	Intermediate Bonus Potential Stamp
+2048217	all	2000019*20*0	Basic Bonus Potential Stamp
+2048219	all	2000019*50*0	Maple Saint Weapon Bonus Potential Stamp
+2048221	all	2000019*50*0	11th Anniversary Weapon Bonus Potential Stamp
+2048225	all	2000019*100*0	Perfect Bonus Potential Stamp
+2048226	all	2000019*80*0	Gold Bonus Potential Stamp
+2048229	all	2000019*100*0	Special Potential Stamp
+2048300	all	2000019*60*0	Silver Bonus Potential Stamp
+2048301	all	2000019*80*0	Gold Bonus Potential Stamp
+2048302	all	2000019*80*0	Gold Bonus Potential Stamp
+2048303	all	2000019*60*0	Silver Bonus Potential Stamp
+2048304	all	2000019*100*0	Perfect Bonus Potential Stamp
+2049500	all	2000019*80*0	Gold Potential Stamp
+2049501	all	2000019*50*0	Silver Potential Stamp
+2049502	all	2000019*60*0	8th Anniversary Potential Stamp
+2049505	all	2000019*80*0	Gold Potential Stamp
+2049506	all	2000019*100*0	Perfect Potential Stamp
+2049507	all	2000019*80*0	Gold Potential Stamp
+2049508	all	2000019*50*0	Heatwave Potential Stamp
+2049509	all	2000019*80*0	Gold Potential Stamp
+2049510	all	2000019*50*0	Silver Potential Stamp
+2049511	all	2000019*50*0	Silver Potential Stamp
+2049512	all	2000019*100*0	Perfect Potential Stamp
+2049513	all	2000019*60*0	Carlton's Mustache Awakening Stamp
+2049514	all	2000019*50*0	Maple Saint Weapon Awakening Stamp
+2049515	all	2000019*50*0	11th Anniversary Weapon Potential Stamp
+2049520	all	2000019*80*0	Gold Potential Stamp
+2048205	all	2000019*10*0	Advanced Bonus Potential Stamp
+2048206	all	2000019*20*0	Superior Bonus Potential Stamp
+2048330	all	2000019*100*0	Perfect Bonus Potential Stamp
+2049517	all	2000019*80*0	Gold Potential Stamp
+2049518	all	2000019*100*0	Perfect Potential Stamp
+2028407	random	1113098*1*0*1.05634*1;1113098*1*0*0.8662*2;1113098*1*0*0.19014*3;1113329*1*0*1.05634*1;1113329*1*0*0.8662*2;1113329*1*0*0.19014*3;1113113*1*0*1.40845*1;1113113*1*0*1.15493*2;1113113*1*0*0.25352*3;1113115*1*0*1.40845*1;1113115*1*0*1.15493*2;1113115*1*0*0.25352*3;1113116*1*0*1.40845*1;1113116*1*0*1.15493*2;1113116*1*0*0.25352*3;1113114*1*0*1.40845*1;1113114*1*0*1.15493*2;1113114*1*0*0.25352*3;1113099*1*0*1.40845*1;1113099*1*0*1.15493*2;1113099*1*0*0.25352*3;1113122*1*0*1.40845*1;1113122*1*0*1.15493*2;1113122*1*0*0.25352*3;1113108*1*0*1.40845*1;1113108*1*0*1.15493*2;1113108*1*0*0.25352*3;1113104*1*0*1.40845*1;1113104*1*0*1.15493*2;1113104*1*0*0.25352*3;1113125*1*0*1.40845*1;1113125*1*0*1.15493*2;1113125*1*0*0.25352*3;1113121*1*0*1.76056*1;1113121*1*0*1.44366*2;1113121*1*0*0.3169*3;1113118*1*0*1.76056*1;1113118*1*0*1.44366*2;1113118*1*0*0.3169*3;1113109*1*0*1.76056*1;1113109*1*0*1.44366*2;1113109*1*0*0.3169*3;1113110*1*0*1.76056*1;1113110*1*0*1.44366*2;1113110*1*0*0.3169*3;1113111*1*0*1.76056*1;1113111*1*0*1.44366*2;1113111*1*0*0.3169*3;1113112*1*0*1.76056*1;1113112*1*0*1.44366*2;1113112*1*0*0.3169*3;1113101*1*0*1.76056*1;1113101*1*0*1.44366*2;1113101*1*0*0.3169*3;1113105*1*0*1.76056*1;1113105*1*0*1.44366*2;1113105*1*0*0.3169*3;1113100*1*0*1.76056*1;1113100*1*0*1.44366*2;1113100*1*0*0.3169*3;1113103*1*0*1.76056*1;1113103*1*0*1.44366*2;1113103*1*0*0.3169*3;1113127*1*0*1.76056*1;1113127*1*0*1.44366*2;1113127*1*0*0.3169*3;1113119*1*0*1.76056*1;1113119*1*0*1.44366*2;1113119*1*0*0.3169*3;1113102*1*0*1.76056*1;1113102*1*0*1.44366*2;1113102*1*0*0.3169*3;1113123*1*0*1.76056*1;1113123*1*0*1.44366*2;1113123*1*0*0.3169*3;1113124*1*0*1.76056*1;1113124*1*0*1.44366*2;1113124*1*0*0.3169*3;1113106*1*0*1.76056*1;1113106*1*0*1.44366*2;1113106*1*0*0.3169*3;1113107*1*0*1.76056*1;1113107*1*0*1.44366*2;1113107*1*0*0.3169*3;1113126*1*0*1.76056*1;1113126*1*0*1.44366*2;1113126*1*0*0.3169*3;1113117*1*0*1.76056*1;1113117*1*0*1.44366*2;1113117*1*0*0.3169*3;1113120*1*0*1.76056*1;1113120*1*0*1.44366*2;1113120*1*0*0.3169*3	Green Jade Boss Ring Box
+2028408	random	1113098*1*0*2.76923*1;1113098*1*0*2.07692*2;1113098*1*0*1.38462*3;1113098*1*0*0.69231*4;1113329*1*0*2.76923*1;1113329*1*0*2.07692*2;1113329*1*0*1.38462*3;1113329*1*0*0.69231*4;1113113*1*0*2.46154*1;1113113*1*0*1.84615*2;1113113*1*0*1.23077*3;1113113*1*0*0.61538*4;1113115*1*0*2.46154*1;1113115*1*0*1.84615*2;1113115*1*0*1.23077*3;1113115*1*0*0.61538*4;1113116*1*0*2.46154*1;1113116*1*0*1.84615*2;1113116*1*0*1.23077*3;1113116*1*0*0.61538*4;1113114*1*0*2.46154*1;1113114*1*0*1.84615*2;1113114*1*0*1.23077*3;1113114*1*0*0.61538*4;1113099*1*0*2.46154*1;1113099*1*0*1.84615*2;1113099*1*0*1.23077*3;1113099*1*0*0.61538*4;1113122*1*0*2.46154*1;1113122*1*0*1.84615*2;1113122*1*0*1.23077*3;1113122*1*0*0.61538*4;1113108*1*0*2.46154*1;1113108*1*0*1.84615*2;1113108*1*0*1.23077*3;1113108*1*0*0.61538*4;1113104*1*0*2.46154*1;1113104*1*0*1.84615*2;1113104*1*0*1.23077*3;1113104*1*0*0.61538*4;1113125*1*0*2.46154*1;1113125*1*0*1.84615*2;1113125*1*0*1.23077*3;1113125*1*0*0.61538*4;1113121*1*0*0.61538*1;1113121*1*0*0.46154*2;1113121*1*0*0.30769*3;1113121*1*0*0.15385*4;1113118*1*0*0.61538*1;1113118*1*0*0.46154*2;1113118*1*0*0.30769*3;1113118*1*0*0.15385*4;1113109*1*0*0.61538*1;1113109*1*0*0.46154*2;1113109*1*0*0.30769*3;1113109*1*0*0.15385*4;1113110*1*0*0.61538*1;1113110*1*0*0.46154*2;1113110*1*0*0.30769*3;1113110*1*0*0.15385*4;1113111*1*0*0.61538*1;1113111*1*0*0.46154*2;1113111*1*0*0.30769*3;1113111*1*0*0.15385*4;1113112*1*0*0.61538*1;1113112*1*0*0.46154*2;1113112*1*0*0.30769*3;1113112*1*0*0.15385*4;1113101*1*0*0.61538*1;1113101*1*0*0.46154*2;1113101*1*0*0.30769*3;1113101*1*0*0.15385*4;1113105*1*0*0.61538*1;1113105*1*0*0.46154*2;1113105*1*0*0.30769*3;1113105*1*0*0.15385*4;1113100*1*0*0.61538*1;1113100*1*0*0.46154*2;1113100*1*0*0.30769*3;1113100*1*0*0.15385*4;1113103*1*0*0.61538*1;1113103*1*0*0.46154*2;1113103*1*0*0.30769*3;1113103*1*0*0.15385*4;1113127*1*0*0.61538*1;1113127*1*0*0.46154*2;1113127*1*0*0.30769*3;1113127*1*0*0.15385*4;1113119*1*0*0.61538*1;1113119*1*0*0.46154*2;1113119*1*0*0.30769*3;1113119*1*0*0.15385*4;1113102*1*0*0.61538*1;1113102*1*0*0.46154*2;1113102*1*0*0.30769*3;1113102*1*0*0.15385*4;1113123*1*0*0.61538*1;1113123*1*0*0.46154*2;1113123*1*0*0.30769*3;1113123*1*0*0.15385*4;1113124*1*0*0.61538*1;1113124*1*0*0.46154*2;1113124*1*0*0.30769*3;1113124*1*0*0.15385*4;1113106*1*0*0.61538*1;1113106*1*0*0.46154*2;1113106*1*0*0.30769*3;1113106*1*0*0.15385*4;1113107*1*0*0.61538*1;1113107*1*0*0.46154*2;1113107*1*0*0.30769*3;1113107*1*0*0.15385*4;1113126*1*0*0.61538*1;1113126*1*0*0.46154*2;1113126*1*0*0.30769*3;1113126*1*0*0.15385*4;1113117*1*0*0.61538*1;1113117*1*0*0.46154*2;1113117*1*0*0.30769*3;1113117*1*0*0.15385*4;1113120*1*0*0.61538*1;1113120*1*0*0.46154*2;1113120*1*0*0.30769*3;1113120*1*0*0.15385*4	Red Jade Boss Ring Box
+2028409	random	1113098*1*0*3.125*1;1113098*1*0*3.125*2;1113098*1*0*3.75*3;1113098*1*0*2.5*4;1113329*1*0*3.125*1;1113329*1*0*3.125*2;1113329*1*0*3.75*3;1113329*1*0*2.5*4;1113113*1*0*2.08333*1;1113113*1*0*2.08333*2;1113113*1*0*2.5*3;1113113*1*0*1.66667*4;1113115*1*0*2.08333*1;1113115*1*0*2.08333*2;1113115*1*0*2.5*3;1113115*1*0*1.66667*4;1113116*1*0*2.08333*1;1113116*1*0*2.08333*2;1113116*1*0*2.5*3;1113116*1*0*1.66667*4;1113114*1*0*2.08333*1;1113114*1*0*2.08333*2;1113114*1*0*2.5*3;1113114*1*0*1.66667*4;1113099*1*0*2.08333*1;1113099*1*0*2.08333*2;1113099*1*0*2.5*3;1113099*1*0*1.66667*4;1113122*1*0*2.08333*1;1113122*1*0*2.08333*2;1113122*1*0*2.5*3;1113122*1*0*1.66667*4;1113108*1*0*2.08333*1;1113108*1*0*2.08333*2;1113108*1*0*2.5*3;1113108*1*0*1.66667*4;1113104*1*0*2.08333*1;1113104*1*0*2.08333*2;1113104*1*0*2.5*3;1113104*1*0*1.66667*4;1113125*1*0*2.08333*1;1113125*1*0*2.08333*2;1113125*1*0*2.5*3;1113125*1*0*1.66667*4	Black Jade Boss Ring Box
+2028410	random	1113098*1*0*9.28571*3;1113098*1*0*5*4;1113329*1*0*9.28571*3;1113329*1*0*5*4;1113113*1*0*5.15873*3;1113113*1*0*2.77778*4;1113115*1*0*5.15873*3;1113115*1*0*2.77778*4;1113116*1*0*5.15873*3;1113116*1*0*2.77778*4;1113114*1*0*5.15873*3;1113114*1*0*2.77778*4;1113099*1*0*5.15873*3;1113099*1*0*2.77778*4;1113122*1*0*5.15873*3;1113122*1*0*2.77778*4;1113108*1*0*5.15873*3;1113108*1*0*2.77778*4;1113104*1*0*5.15873*3;1113104*1*0*2.77778*4;1113125*1*0*5.15873*3;1113125*1*0*2.77778*4	White Jade Boss Ring Box
+2028430	random	1113098*1*0*4.35484*3;1113098*1*0*10.1613*4;1113329*1*0*4.35484*3;1113329*1*0*10.1613*4;1113113*1*0*2.41936*3;1113113*1*0*5.64516*4;1113115*1*0*2.41936*3;1113115*1*0*5.64516*4;1113116*1*0*2.41936*3;1113116*1*0*5.64516*4;1113114*1*0*2.41936*3;1113114*1*0*5.64516*4;1113122*1*0*2.41936*3;1113122*1*0*5.64516*4;1113108*1*0*2.41936*3;1113108*1*0*5.64516*4;1113104*1*0*2.41936*3;1113104*1*0*5.64516*4;2539001*1*0*14.51613	Life Boss Ring Box

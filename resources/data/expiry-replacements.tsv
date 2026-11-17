@@ -1,0 +1,116 @@
+# Timed items that turn into another item when their time is up (Item.wz info/replace: itemid, msg, period in
+# minutes for the new item), every replace entry of the v232 Item.wz. msg is shown as written (empty: none).
+item	becomes	periodMinutes	msg
+2022657	2022658	1440	The worn out Guitar Case will become an Expensive Guitar Case.
+2022658	2022659	1440	The Expensive Guitar Case will become a Legendary Guitar Case.
+2434835	2434836	1440	The iceberg melted, and you got the fortune inside.
+3994138	3994139	0	You acquired the Maha Charm when the Ice Crystals melted.
+3994179	3994180	0	You've acquired the Cassandra's PC Cafe King-sized Star.
+3994184	3994185	60	Cassandra's Strange Potion has turned into a slushy.
+3994186	3994187	0	The Mini Dragon hatched from its egg.
+3994192	3994193	0	The Dark Feather begins to glow as it turns white.
+3994200	3994199	0	
+3994201	3994199	0	
+3994202	3994199	0	
+3994203	3994199	0	
+3994204	3994199	0	
+3994205	3994199	0	
+3994206	3994199	0	
+3994207	3994199	0	
+3994208	3994199	0	
+3994224	3994225	0	Congrats! You have gained upgrade potion for playing an hour!
+3994243	3994244	0	The trace of the bunny is now clear. Let's take it to Gaga.
+3994246	3994247	0	Your Four-leaf Clover has turned green. This must be your lucky year.
+3994263	3994264	180	The Sunshine Doll shines and turns into a Shining Sunshine Doll. 
+3994288	3994291	180	Motion capture complete. The device has shut down.  
+3994309	3994312	180	Motion capture complete. The device has shut down.  
+3994330	3994333	180	Motion capture complete. The device has shut down.  
+3994367	3994368	0	The Legendary Maple Syrup has been aged to perfection.
+3994373	3994374	0	The Carbon Dioxide Detector has completed its measurements.
+3994380	3994381	0	The Igloo has returned to it's original shape by receiving the cold energy of Alaska.
+3994382	3994383	0	The Noise Recorder has stopped after recording for 30 minutes.
+3994393	3994394	0	The Magic Powder absorbed all the moisture, drying up the festival fireworks. 
+3994398	3994399	0	The Love Detector completed its job and shut down.
+3994412	3994413	0	It's been 30 minutes. You seal the bottle.
+3994414	3994415	0	The Rainbow Timer's time is up.
+3994426	1132116	0	It has changed to Evolving Belt.
+3994427	2430501	0	It has changed to an item which could be upgraded to Evolving Belt.
+3994433	3994434	0	The sports drink is frozen solid.
+3994436	3994437	0	The young mugworts grow bigger every day.
+3994455	3994456	0	Congrats! You have gained upgrade potion for playing an hour!
+3994467	3994468	0	
+3994478	3994479	0	Congrats! You have gained upgrade potion for playing an hour!
+3994490	3994491	0	The radiant dragon crystal begins to shine with wishes.
+3994492	3994493	0	The radiant dragon crystal begins to shine with wishes.
+3994494	3994495	0	The radiant dragon crystal begins to shine with wishes.
+3994496	3994497	0	The radiant dragon crystal begins to shine with wishes.
+3994498	3994499	0	The radiant dragon crystal begins to shine with wishes.
+3994501	3994502	0	The lovely Valentine's Day Chocolate is complete.
+3994509	3994510	0	The Dating Luck Crystal Ball is starting to shine.
+3994534	3994535	0	魔法竹叶变成了美味粽子
+3994572	3994573	0	The Gourd is now completely filled with Tempest Wind.
+3994574	3994575	0	The Gourd is now completely filled with Tempest Lightning.
+3994619	3994620	0	Grin's ring absorbed the power and became Grin's Awesome Ring!
+3994621	3994622	0	Give it to Cassandra to receive reward and help the world!
+3994636	3994637	0	The sports drink is frozen solid.
+3994646	3994647	0	Flask full of [Other Ether]. Take this to the Cassandra.
+3994648	3994649	0	The photo of the moon looks much better.
+3994665	3994666	0	The Nova Bottle is now completely filled with Soul.
+3994668	3994669	0	The Four-Leaf Clover is super lucky now.
+3994670	3994671	0	The Rosey Marble transformed into a Heartshaker Marble.
+3994673	3994674	0	The Red Autumn Maple Leaf is ready. Quick, stick it in the book to protect it!
+3994685	3994686	0	The Clonesicle has freakishly increased in mass to become a Double Popsicle.
+3994724	3994725	0	This new pair of shoes was hand-stained, but the color is fading a little.
+3994727	3994728	0	The Dark Feather begins to glow as it turns white.
+3994801	3994802	0	You took the time to bake a yummy Gingerbread Man.
+3994852	3994853	0	Time has passed, and pop! The Mileage Bag has opened. 
+3994909	3994910	0	You've spent enough time with the ring to open the pouch.
+3994917	3994918	0	Filled with the power of Sengoku.
+3994932	3994933	0	Isis's Bottle is filled with Resurrection Elixir of Isis.
+3994934	3994935	0	The Gourd is now completely filled with Hot Summer Wind.
+3994959	3994960	0	Halloween chocolate is melted.
+3994980	3994981	0	look at my Christmas Stocking! Rudolph came out of it!
+3994982	3994983	0	It has changed to Grass Dew.
+3994988	3994989	0	You have kept the Mysterious Rose Seedling for 30 minutes and it became a Fully-Bloomed Rose.
+3994992	3994993	0	The Dull Flame Orb transformed into a Shining Flame Orb.
+3996018	3996019	0	A Power Condenser filled with potent power. 
+3996022	3996023	0	The ice melted and turned it into a key to a treasure box.
+3996024	3996025	0	You've been logged in for 3 hours! Open and check Pink Bean's Secret Diary!
+3996033	3996034	0	You've been logged in for 30 minutes! Talk to Lyn to get your reward!
+3996035	3996036	0	You've been logged in for 60 minutes! Talk to Lyn to get your reward!
+3996055	3996056	0	The glass bottle glows with warm, positive energy.
+3996057	3996058	0	It has changed to Grass Dew.
+3996059	3996060	0	It has changed to Grass Dew.
+3996069	3996070	0	접속 유지 달성! 왼쪽 알림이를 통해 린과 대화하자.
+3996071	3996072	0	맛있는 고기가 완성됐어요! 핑크빈 산타에게 가져다 주고 도장을 받으세요!
+3996105	3996113	0	The crumpled flier has straightened out.
+3996112	3996120	0	The Rainbow Timer's time is up.
+3996114	3996115	0	The invitation letter is ready to open.
+3996116	3996117	0	The invitation letter is ready to open.
+3996118	3996119	0	The invitation letter is ready to open.
+3996123	3996124	30	아이스 네펜데스의 씨앗이 자라서 모종이 되었습니다.
+3996125	3996126	0	The Frozen Rocket Cookie Basket is filled with cookies that alleviate fatigue. Go talk to Captain Ovo.
+3996127	3996128	0	A battery with a built-in solar collector. It's fully charged.
+3996133	3996134	0	Time has passed, and pop! The Rainbow Box has opened. 
+3996148	3996149	0	The refreshing taste of a Groovy Smoothie has made you pawsitively chipper! Let's pay a visit to Beowoof.
+3996150	3996151	0	The battery is fully charged. See Dr. Kim for your next assignment.
+3996161	3996162	0	간절한 마음이 가득차올랐습니다! 아이아이에게 전해주고 보상을 받으세요!
+3996163	3996164	0	The refreshing taste of a Groovy Smoothie has made you pawsitively chipper! Let's pay a visit to Beowoof.
+3996165	3996166	30	The glacier fragment melted to reveal nature's determination.
+3996167	3996168	10	The Small Cloud has puffed up! Give it to Cloudie to receive rewards!
+3996169	3996170	0	Many sounds were recorded to complete the sheet music.
+3996195	3996196	0	The meat inside the pot has been cooked to perfection.
+3996201	3996202	0	The ice has completely melted, and you've earned the Awakening Coin.
+3996203	3996204	0	The star energy has been completely liberated. Take it to So Gong.
+3996205	3996206	0	The empty bottle has filled up with moonlight energy.
+4001333	4001334	0	The flower bud opened and a yellow flower bloomed.
+4032430	4032431	30	The Photo of the Moon has gotten clearer over time.
+4032431	4032432	30	The Photo of the Moon is getting much more clear.
+4032432	4032433	0	The Photo of the Moon is fully developed.
+4032606	4032607	0	The face of Hodori has appeared!
+4032608	4032609	0	The face of Hogul has appeared!
+4032610	4032611	0	The face of Growlie has appeared!
+4032612	4032613	0	The face of Tiger Actually has appeared!
+4032735	4032736	0	The OSSS Timer is indicating that 60 minutes have passed.
+4034883	4034884	0	A Crystal Bottle filled with warm sunlight.
+4036497	4036498	0	

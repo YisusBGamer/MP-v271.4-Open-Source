@@ -1,0 +1,75 @@
+# Zero's combo skills: Alpha (Lapis) or Beta (Lazuli), the combo stage's first skill (empty: none),
+# tile = 1 for the shockwave tiles (a side, but left out of the side's skill list). Rows keep the side lists' order.
+skill	side	stage	tile	name
+101001100	beta	101001100		Rising Slash
+101000100	beta	101001100		Air Raid
+101000101	beta	101001100		Air Riot
+101000102	beta	101001100		Air Riot
+101101100	beta	101101100		Flash Cut
+101100100	beta	101101100		Throwing Weapon
+101100101	beta	101101100		Advanced Throwing Weapon
+101111100	beta	101111100		Spin Driver
+101110101	beta	101111100		Wheel Wind
+101110102	beta	101111100		Advanced Wheel Wind
+101110104	beta	101111100		Advanced Wheel Wind
+101121100	beta	101121100		Giga Crash
+101120100	beta	101121100		Falling Star
+101120101	beta	101121100		Falling Star
+101120102	beta	101121100		Groundbreaker
+101120103	beta	101121100		Groundbreaker
+101120104	beta	101121100		Mega Groundbreaker
+101141000	beta	101121100		HEXA Giga Crash
+101141001	beta	101121100		HEXA Falling Star
+101141002	beta	101121100		HEXA Falling Star
+101141003	beta	101121100		HEXA Groundbreaker
+101141004	beta	101121100		HEXA Groundbreaker
+101141005	beta	101121100		HEXA Groundbreaker
+101141014	beta	101111100		HEXA Spin Driver
+101141015	beta	101111100		HEXA Wheel Wind
+101141016	beta	101111100		HEXA Wheel Wind
+101141021	beta	101101100		HEXA Flash Cut
+101141022	beta	101101100		HEXA Throwing Weapon
+101141026	beta	101001100		HEXA Rising Slash
+101141027	beta	101001100		HEXA Air Raid
+101141028	beta	101001100		HEXA Air Raid
+101001200	alpha	101001200		Moon Strike
+101000200	alpha	101001200		Piercing Thrust
+101000201	alpha	101001200		Shadow Strike
+101000202	alpha	101001200		Shadow Strike
+101101200	alpha	101101200		Flash Assault
+101100200	alpha	101101200		Blade Ring
+101100201	alpha	101101200		Advanced Blade Ring
+101100202	alpha	101101200		Advanced Blade Ring
+101110200	alpha	101111200		Grand Rolling Cross
+101110201	alpha	101111200		Grand Rolling Cross
+101111200	alpha	101111200		Rolling Cross
+101110202	alpha	101111200		Rolling Assault
+101110203	alpha	101111200		Advanced Rolling Assault
+101110204	alpha	101111200		Advanced Rolling Assault
+101120200	alpha	101121200		Wind Cutter
+101120201	alpha	101121200		Wind Striker
+101120202	alpha	101121200		Storm Break
+101120203	alpha	101121200		Storm Break
+101120204	alpha	101121200		Advanced Storm Break
+101120206	alpha	101121200		Severe Storm Break
+101121101	alpha	101121200		Hurricane Wind
+101121200	alpha	101121200		Wind Cutter
+101141006	alpha	101121200		HEXA Wind Cutter
+101141007	alpha	101121200		HEXA Wind Cutter
+101141008	alpha	101121200		HEXA Wind Striker
+101141009	alpha	101121200		HEXA Storm Break
+101141010	alpha	101121200		HEXA Storm Break
+101141011	alpha	101121200		HEXA Storm Break
+101141017	alpha	101111200		HEXA Rolling Cross
+101141018	alpha	101111200		HEXA Rolling Cross
+101141019	alpha	101111200		HEXA Rolling Assault
+101141020	alpha	101111200		HEXA Rolling Assault
+101141023	alpha	101101200		HEXA Flash Assault
+101141024	alpha	101101200		HEXA Blade Ring
+101141025	alpha	101101200		HEXA Blade Ring
+101141029	alpha	101001200		HEXA Moon Strike
+101141030	alpha	101001200		HEXA Piercing Thrust
+101141031	alpha	101001200		HEXA Shadow Strike
+101141032	alpha	101001200		HEXA Shadow Strike
+101120105	beta		1	Mega Groundbreaker
+101120205	alpha	101121200	1	Severe Storm Break

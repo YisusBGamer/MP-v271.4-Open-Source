@@ -1,0 +1,6 @@
+# Field script enter_308090002
+# onUserEnter: 308090002
+# Map.wz names this hook but carries no dialogue, spawn or condition for it:
+# there is nothing to port and no script to copy.
+# Without this file the server answers "Map not implemented, please report to developer."
+# Documented no-op.

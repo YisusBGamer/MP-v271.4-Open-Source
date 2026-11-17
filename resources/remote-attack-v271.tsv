@@ -1,0 +1,441 @@
+# v271 remote attack layout (client reader 0x145699030), measured per skill with all-zero fields.
+# shootPassive <skill>: REMOTE_SHOOT_ATTACK carries the passive hyper slv (+ id when > 0) after the skill id.
+# extra <skill> <bytes>: the skill-specific block after the hit list is this many bytes (sent as zeros).
+# extra 16: the skill type 7 branch reads two 8-byte values.
+# repeatIndex <skill>: GMS counts the packets of one cast in the int after the summoned id.
+repeatIndex	161141004
+repeatIndex	400021134
+shootPassive	1120017
+shootPassive	1121008
+shootPassive	1141000
+shootPassive	1141001
+shootPassive	1211018
+shootPassive	1221009
+shootPassive	1221011
+shootPassive	1221021
+shootPassive	1241000
+shootPassive	1241003
+shootPassive	1241007
+shootPassive	1241010
+shootPassive	2121006
+shootPassive	2141000
+shootPassive	2141001
+shootPassive	2141002
+shootPassive	2221006
+shootPassive	2241000
+shootPassive	2241001
+shootPassive	3011004
+shootPassive	3121015
+shootPassive	3121020
+shootPassive	3141000
+shootPassive	3141001
+shootPassive	3141002
+shootPassive	3141003
+shootPassive	3201011
+shootPassive	3211017
+shootPassive	3221007
+shootPassive	3221019
+shootPassive	3221023
+shootPassive	3221024
+shootPassive	3221025
+shootPassive	3221026
+shootPassive	3221027
+shootPassive	3241000
+shootPassive	3241001
+shootPassive	3241002
+shootPassive	3241003
+shootPassive	3241004
+shootPassive	3241005
+shootPassive	3241006
+shootPassive	3241007
+shootPassive	3241008
+shootPassive	3241009
+shootPassive	3241010
+shootPassive	3241011
+shootPassive	3300002
+shootPassive	3301004
+shootPassive	3311003
+shootPassive	3311013
+shootPassive	3321003
+shootPassive	3321005
+shootPassive	3321007
+shootPassive	3341001
+shootPassive	3341004
+shootPassive	3341009
+shootPassive	4121013
+shootPassive	4141000
+shootPassive	4141001
+shootPassive	4221017
+shootPassive	4241011
+shootPassive	4331011
+shootPassive	4341009
+shootPassive	4361000
+shootPassive	5121007
+shootPassive	5121016
+shootPassive	5141000
+shootPassive	5141002
+shootPassive	5141003
+shootPassive	5141015
+shootPassive	5221016
+shootPassive	5241005
+shootPassive	5241006
+shootPassive	5321000
+shootPassive	5321004
+shootPassive	5321012
+shootPassive	5341000
+shootPassive	5341001
+shootPassive	5341009
+shootPassive	12000026
+shootPassive	12100028
+shootPassive	12110028
+shootPassive	12110030
+shootPassive	12120010
+shootPassive	12120011
+shootPassive	12120017
+shootPassive	12120019
+shootPassive	12120020
+shootPassive	12121025
+shootPassive	12141000
+shootPassive	12141001
+shootPassive	12141002
+shootPassive	12141003
+shootPassive	12141004
+shootPassive	12141005
+shootPassive	12141008
+shootPassive	12141009
+shootPassive	13121016
+shootPassive	13141004
+shootPassive	14121002
+shootPassive	15111022
+shootPassive	15120003
+shootPassive	15121002
+shootPassive	15141003
+shootPassive	15141004
+shootPassive	15141006
+shootPassive	21101004
+shootPassive	21111032
+shootPassive	21111033
+shootPassive	21121016
+shootPassive	21121017
+shootPassive	21121022
+shootPassive	21141000
+shootPassive	21141001
+shootPassive	21141002
+shootPassive	22140023
+shootPassive	22201004
+shootPassive	25121005
+shootPassive	25141000
+shootPassive	31121001
+shootPassive	31141000
+shootPassive	31141001
+shootPassive	35121016
+shootPassive	35141001
+shootPassive	36121013
+shootPassive	36141005
+shootPassive	37111001
+shootPassive	37121000
+shootPassive	37141010
+shootPassive	37141011
+shootPassive	51121009
+shootPassive	51121017
+shootPassive	51141000
+shootPassive	51141001
+shootPassive	61121100
+shootPassive	61121201
+shootPassive	61141000
+shootPassive	61141001
+shootPassive	65121101
+shootPassive	65141000
+shootPassive	152001001
+shootPassive	152110004
+shootPassive	152120001
+shootPassive	152121004
+shootPassive	152121005
+shootPassive	152121006
+shootPassive	152141000
+shootPassive	152141002
+shootPassive	152141004
+shootPassive	152141005
+shootPassive	152141012
+shootPassive	152141013
+shootPassive	152141014
+shootPassive	154001000
+shootPassive	154101000
+shootPassive	154101001
+shootPassive	154101002
+shootPassive	154111002
+shootPassive	154121000
+shootPassive	154141000
+shootPassive	154141001
+shootPassive	154141002
+shootPassive	172001000
+shootPassive	172101000
+shootPassive	172111000
+shootPassive	172111007
+shootPassive	172121000
+shootPassive	172141000
+shootPassive	172141002
+shootPassive	181001000
+shootPassive	181101003
+shootPassive	181111002
+shootPassive	181121000
+shootPassive	181141000
+shootPassive	181141001
+shootPassive	182001000
+shootPassive	182101000
+shootPassive	182111000
+shootPassive	182111010
+shootPassive	182121014
+shootPassive	182121015
+shootPassive	182141000
+shootPassive	182141003
+shootPassive	400010070
+shootPassive	400011079
+shootPassive	400011080
+shootPassive	400011081
+shootPassive	400011082
+shootPassive	400041044
+shootPassive	400041087
+shootPassive	400041088
+shootPassive	400051043
+extra	1111016	0
+extra	1141003	0
+extra	1141004	0
+extra	1221020	8
+extra	1241006	8
+extra	1241502	8
+extra	1321025	0
+extra	1341009	0
+extra	2241005	4
+extra	2341000	5
+extra	3001004	0
+extra	3211017	0
+extra	3221023	0
+extra	3221024	0
+extra	3241006	0
+extra	3241007	0
+extra	3241008	0
+extra	3241009	0
+extra	3241010	8
+extra	3241011	8
+extra	3301004	0
+extra	3301008	0
+extra	3311011	0
+extra	3311013	0
+extra	3321005	0
+extra	3321039	0
+extra	3341001	0
+extra	3341014	0
+extra	4101013	0
+extra	4101014	0
+extra	4141000	0
+extra	4141001	0
+extra	4141501	0
+extra	5121007	9
+extra	5121025	8
+extra	5141000	9
+extra	5141002	9
+extra	5141006	8
+extra	5141503	8
+extra	5211021	0
+extra	5221005	8
+extra	5241000	16
+extra	5241005	16
+extra	5241014	0
+extra	5241019	8
+extra	5241501	8
+extra	5311014	8
+extra	5311015	8
+extra	5341000	0
+extra	5341003	8
+extra	5341004	8
+extra	11141005	9
+extra	11141007	8
+extra	12120023	0
+extra	12121054	0
+extra	12141006	8
+extra	13111020	0
+extra	14111036	8
+extra	14141000	16
+extra	14141001	16
+extra	14141002	16
+extra	14141003	16
+extra	14141011	8
+extra	21121005	8
+extra	21141017	8
+extra	22170093	1
+extra	22201501	8
+extra	23121011	0
+extra	27141000	4
+extra	31141006	0
+extra	31141007	0
+extra	31240014	8
+extra	33001000	0
+extra	33101000	0
+extra	33101001	0
+extra	33111000	0
+extra	33111007	0
+extra	33121003	0
+extra	33121004	8
+extra	33121043	8
+extra	33141002	0
+extra	33141007	8
+extra	33141008	8
+extra	35111007	16
+extra	35121016	16
+extra	35121019	12
+extra	35141001	16
+extra	35141002	12
+extra	35141010	8
+extra	36141000	4
+extra	36141001	4
+extra	36141008	8
+extra	37111006	0
+extra	37120055	8
+extra	37120056	8
+extra	37120057	8
+extra	37120058	8
+extra	42141000	10
+extra	51121009	0
+extra	51141014	0
+extra	63001100	0
+extra	63101004	0
+extra	63101100	0
+extra	63111003	0
+extra	63111103	0
+extra	63111105	8
+extra	63111106	12
+extra	63141009	0
+extra	63141018	0
+extra	63141020	8
+extra	63141107	0
+extra	63141118	0
+extra	63141120	8
+extra	63141121	12
+extra	63141501	1
+extra	63141505	1
+extra	64111012	0
+extra	64121012	8
+extra	64141003	8
+extra	64141020	8
+extra	64141029	0
+extra	80001762	12
+extra	80001913	0
+extra	80002208	0
+extra	80002212	8
+extra	80002463	8
+extra	80002691	0
+extra	80002832	0
+extra	80002834	0
+extra	80003075	4
+extra	80003084	8
+extra	80003356	0
+extra	80003357	0
+extra	80003358	0
+extra	80003359	0
+extra	80003381	0
+extra	80003382	0
+extra	80003383	0
+extra	80003384	0
+extra	80003385	0
+extra	80003387	0
+extra	80003533	0
+extra	80003574	0
+extra	80003583	0
+extra	80003956	0
+extra	80004212	0
+extra	80004238	0
+extra	80011562	0
+extra	80012123	0
+extra	101141028	8
+extra	101141032	8
+extra	112110003	0
+extra	112111016	0
+extra	112111018	0
+extra	135001008	0
+extra	142100001	8
+extra	142111002	8
+extra	142111003	8
+extra	142121002	0
+extra	142140001	8
+extra	142141002	0
+extra	142141004	8
+extra	142141005	8
+extra	151101001	0
+extra	151101003	0
+extra	151101004	0
+extra	151141010	0
+extra	152001002	0
+extra	152120003	0
+extra	152121004	0
+extra	152141004	8
+extra	152141005	8
+extra	152141006	8
+extra	152141014	0
+extra	154121001	0
+extra	154141009	0
+extra	155101104	0
+extra	155101204	0
+extra	155141018	8
+extra	155141033	8
+extra	161121005	0
+extra	161121014	0
+extra	161141006	0
+extra	161141009	0
+extra	161141013	0
+extra	162101009	8
+extra	162121007	8
+extra	162121017	8
+extra	162141007	8
+extra	162141016	8
+extra	164121043	8
+extra	181121009	9
+extra	181121010	9
+extra	182101003	0
+extra	182141006	0
+extra	182141007	8
+extra	400001068	0
+extra	400011004	0
+extra	400011081	0
+extra	400011082	0
+extra	400011099	8
+extra	400011101	8
+extra	400011145	8
+extra	400011146	8
+extra	400021004	0
+extra	400021028	0
+extra	400021029	0
+extra	400021047	0
+extra	400021062	8
+extra	400021070	0
+extra	400021077	0
+extra	400021141	8
+extra	400021162	0
+extra	400031025	0
+extra	400031035	0
+extra	400031048	0
+extra	400031058	0
+extra	400031063	0
+extra	400031071	8
+extra	400041017	0
+extra	400041018	0
+extra	400041020	0
+extra	400041034	0
+extra	400041043	0
+extra	400041059	0
+extra	400041060	0
+extra	400041077	0
+extra	400041080	8
+extra	400041082	8
+extra	400041083	8
+extra	400041092	16
+extra	400041094	8
+extra	400051003	0
+extra	400051008	0
+extra	400051016	0
+extra	400051042	0
+extra	400051075	9
+extra	500001082	0
+extra	500001134	8
+extra	500001135	8
+extra	500061030	9

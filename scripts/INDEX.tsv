@@ -1,0 +1,16 @@
+type	id	filename	purpose	notes
+field	enter	enter_<mapid>.py	on first user enter / map enter
+field	clear	clear_<mapid>.py	clear conditions for map
+field	named	<name>.py	scene / boss / direction script (e.g. dublTuto21, check_q20833, inDragonEgg, summon_ARCflyingmob)
+npc	id	<npcid>.py	NPC script by id (e.g. 9130088 Tokugawa, 1106004 mihail_potionBox, 1096003 monkey)
+npc	named	<name>.py	named NPC (nineHeart, jobPath, menu, stuck, holySton, talk_vasilituto)
+quest	start	q<questid>s.py	quest start script
+quest	end	q<questid>e.py	quest end script
+quest	done	done_<questid>.py	quest completion marker
+quest	named	<name>.py	named quest script
+item	consume	consume_<itemid>.py	item consume script (e.g. consume_2430458 Bunny Mount Coupon)
+item	named	<name>.py	named item script
+portal	mapdir	<mapid>_<dir>.py	portal script by map + direction
+portal	named	<name>.py	named portal (timeSeal00-04 Luminous, in00, out00)
+reactor	id	<reactorid>action.py	reactor click script
+reactor	named	<name>.py	named reactor (mihailItem00 Mihile eggs, tameItem00)

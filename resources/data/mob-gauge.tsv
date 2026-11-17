@@ -1,0 +1,16 @@
+# Boss gauge length some mobs send in their init (0 or missing: no gauge).
+mob	gauge	note
+8880000	60	Magnus (Hard)
+8880002	60	Magnus (Normal)
+8880010	60	Magnus (Easy)
+8881100	225	Lotus (Normal, phase 1)
+8881101	225	Lotus (Normal, phase 2)
+8881102	300	Lotus (Normal, phase 3)
+8881150	4755	Lotus (Hard, phase 1)
+8881151	4755	Lotus (Hard, phase 2)
+8881152	6340	Lotus (Hard, phase 3)
+8881200	258714	Lotus (Extreme, phase 1)
+8881300	225	Lotus specter
+8880181	200	Nightmare Golem
+8880187	200	Nightmare Golem
+8881000	1250	Ursus

@@ -1,0 +1,18 @@
+# Halloween Kaleido-Spinner prizes (HalloweenEvent.spin): one prize by weight from the tier rolled.
+tier	item	count	weight	note
+modest	2000004	5	30	Elixir
+modest	2000005	2	25	Power Elixir
+modest	4001832	30	30	Spell Trace
+modest	3010279	1	5	Halloween Pumpkin Chair
+modest	2022336	1	10	Secret Box
+great	4001832	150	30	Spell Trace
+great	2000005	10	20	Power Elixir
+great	2433178	1	15	Halloween Damage Skin
+great	3015341	1	12	Black Cat Camper
+great	3015448	1	12	Ghost Story Chair
+great	3015339	1	11	Ghost Ship Chair
+ultra	1032259	1	20	Halloween Earrings
+ultra	1113218	1	20	Halloween Ring
+ultra	1122330	1	20	Halloween Pendant
+ultra	1152193	1	20	Halloween Epaulette
+ultra	2634146	1	20	Permanent Halloween Jack-O-Lantern Mount Coupon

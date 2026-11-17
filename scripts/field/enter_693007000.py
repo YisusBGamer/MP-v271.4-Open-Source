@@ -1,0 +1,157 @@
+# Erel's Office (693007000), Erel Light's start, as GMS: the story choice first. Played: Lv. 10 at once with the
+# 1st job (ErelLight.handleLevelUp), Spear of Lugh and the Keir, the council scene, then the story (693007101).
+# Skipped: the Helia story completes with its items and the character lands in Katanos (StorySkipModule goes on
+# to Lv. 30 and the 2nd job).
+STORY_QUESTS = list(range(61696, 61726)) + [61740]  # 61740: the skip gives the 2nd job itself
+KATANOS = 693007001
+FIRST_SCENE = 693007101
+FIRST_JOB_LEVEL = 10
+SPEAR_OF_LUGH = 181001000
+KEIR = 1352880
+STARDUST_GRAM = 1433000
+SHINING_GRAM = 1433001  # the story gives it at the end of 61697
+PENTES_GUARDIAN = 1143540
+RETURN_TO_HELIA = 180011000  # given at the end of 61724
+
+
+def first_job():
+    if chr.getLevel() < FIRST_JOB_LEVEL:
+        sm.addLevel(FIRST_JOB_LEVEL - chr.getLevel())
+    sm.giveSkill(SPEAR_OF_LUGH, 1, 20)
+    if not sm.isEquipped(KEIR) and not sm.hasItem(KEIR):
+        sm.giveAndEquip(KEIR)
+
+
+def council():
+    sm.lockInGameUI(True, False)
+    sm.setStandAloneMode(True)
+    sm.setSpeakerType(3)
+    sm.setSpeakerID(0)
+    sm.changeBGM('GL_Erel.img/VeilOfJustice', 0, 0)
+    sm.sendDelay(2000)
+    first_job()
+    sm.teleportInField(-1370, 1070)
+    npc0 = sm.spawnNpcGetObjectId(9201755, -1260, 1070, False)
+    sm.showNpcSpecialActionByObjectId(npc0, 'summon', 0)
+    npc1 = sm.spawnNpcGetObjectId(9201762, -1100, 1070, False)
+    sm.showNpcSpecialActionByObjectId(npc1, 'summon', 0)
+    npc2 = sm.spawnNpcGetObjectId(9201762, -1040, 1070, False)
+    sm.showNpcSpecialActionByObjectId(npc2, 'summon', 0)
+    npc3 = sm.spawnNpcGetObjectId(9201762, -980, 1070, False)
+    sm.showNpcSpecialActionByObjectId(npc3, 'summon', 0)
+    npc4 = sm.spawnNpcGetObjectId(9201762, -920, 1070, False)
+    sm.showNpcSpecialActionByObjectId(npc4, 'summon', 0)
+    npc5 = sm.spawnNpcGetObjectId(9201762, -860, 1070, False)
+    sm.showNpcSpecialActionByObjectId(npc5, 'summon', 0)
+    sm.zoomCameraNoResponse(0, 1200, 0, -840, 800)
+    sm.sendDelay(1200)
+    sm.blind(1, 255, 0, 0)
+    sm.sendDelay(1200)
+    sm.blind(0, 0, 0, 1000)
+    sm.sendDelay(1400)
+    sm.zoomCameraNoResponse(0, 1200, 3000, -1300, 1060)
+    sm.sendDelay(4000)
+    sm.showFadeTransition(1500, 0, 1000)
+    sm.zoomCameraNoResponse(0, 2000, 0, -1300, 1070)
+    sm.removeOverlapScreen(1000)
+    sm.sendDelay(2000)
+    sm.setParam(37)
+    sm.setColor(1)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201755)
+    sm.sendNext("#face0#...All right, next agenda item. We're getting increasing reports of monster sightings along the barrier.")
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/2', 100)
+    sm.sendSay("#face0#We've sent additional scouts to check the area, but found no indication of anything out of the ordinary.")
+    sm.setParam(45)
+    sm.setInnerOverrideSpeakerTemplateID(9201711)
+    sm.sendSay('#face5#...')
+    sm.setParam(37)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/3', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201755)
+    sm.sendSay("#face0#With your permission, we'd like to extend the patrol area to the outskirts of the town. What say you, Captain?")
+    sm.sendDelay(200)
+    sm.showEffect('Effect/OnUserEff.img/emotionBalloon/noSpeak', 0, 0, 0)
+    sm.sendDelay(2000)
+    sm.setParam(45)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/4', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201711)
+    sm.sendNext("#face1#I'm all for it. Our highest priority should be the peace of mind of our people.")
+    sm.setParam(37)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/5', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201755)
+    sm.sendSay('#face0#Understood. That leaves us just one last item item on the agenda.')
+    sm.sendDelay(100)
+    sm.showEffect('Effect/OnUserEff.img/emotion/whatl', 0, 0, 0)
+    sm.sendDelay(1500)
+    sm.setParam(45)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/6', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201711)
+    sm.sendNext("#face6#There's more?")
+    sm.setParam(37)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/7', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201755)
+    sm.sendSay('#face0#Congratulations on your promotion, Erel!')
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/8', 100)
+    sm.sendSay('#face0#I believe a speech is in order!')
+    sm.showNpcSpecialActionByObjectId(npc1, 'special1', -1)
+    sm.showNpcSpecialActionByObjectId(npc2, 'special1', -1)
+    sm.showNpcSpecialActionByObjectId(npc3, 'special1', -1)
+    sm.showNpcSpecialActionByObjectId(npc4, 'special1', -1)
+    sm.sendDelay(3000)
+    sm.speechBalloon(False, 0, 0, 'Wow!', 3000, 1, 0, 0, 6, 4, 9201762, 0)
+    sm.setParam(45)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/9', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201711)
+    sm.sendNext("#face4#Ahaha... I should have known you'd put me on the spot...")
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/10', 100)
+    sm.sendSay('#face0#All I want is to keep the people of Pente safe, and I will work alongside all of you tirelessly to do just that. Thank you.')
+    sm.sendDelay(2000)
+    sm.speechBalloon(False, 0, 0, 'Yes!!', 2000, 1, 0, 0, 6, 4, 9201762, 0)
+    sm.showEffect('Effect/OnUserEff.img/emotion/oh', 0, 0, 0, 0, npc0, False, 0)
+    sm.setParam(37)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/11', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201755)
+    sm.sendNext('#face0#By the way, Erel... I mean, Captain... You do know about the leadership meeting in Katanos today, right?')
+    sm.sendDelay(1000)
+    sm.showEffect('Effect/OnUserEff.img/emotionBalloon/exclamation', 0, 0, -20, 0, npc0, False, 0)
+    sm.sendDelay(2000)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/12', 100)
+    sm.sendNext("#face0#That includes you now, and you're going to be late if you don't get going!")
+    sm.showEffect('Effect/OnUserEff.img/emotion/oh', 0, 0, 0)
+    sm.setParam(45)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/13', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201711)
+    sm.sendSay("#face6#Ah, yikes! I'd better hurry.")
+    sm.setParam(37)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/14', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201755)
+    sm.sendSay("#face0#We'll come with you to Katanos. Just say the word.")
+    sm.setParam(45)
+    sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/15', 100)
+    sm.setInnerOverrideSpeakerTemplateID(9201711)
+    sm.sendSay('#face1#Thank you. In that case, the word is given!')
+    sm.sendDelay(1000)
+    sm.blind(1, 255, 0, 500)
+    sm.sendDelay(500)
+    sm.lockInGameUI(False)
+    sm.setStandAloneMode(False)
+
+
+sm.setSpeakerID(2007)
+sm.removeEscapeButton()
+if sm.askTutorialSkip(KATANOS):
+    first_job()
+    for quest in STORY_QUESTS:
+        if not sm.hasQuestCompleted(quest):
+            sm.completeQuestNoRewards(quest)
+    if not sm.isEquipped(SHINING_GRAM) and not sm.hasItem(SHINING_GRAM):
+        sm.giveAndEquip(SHINING_GRAM)
+    if not sm.isEquipped(PENTES_GUARDIAN) and not sm.hasItem(PENTES_GUARDIAN):
+        sm.giveItem(PENTES_GUARDIAN)
+    sm.giveSkill(RETURN_TO_HELIA, 1, 1)
+    sm.warp(KATANOS)
+else:
+    sm.setQRValue(61722, 'sister=0', True)
+    council()
+    sm.warp(FIRST_SCENE, 0)
+sm.dispose()

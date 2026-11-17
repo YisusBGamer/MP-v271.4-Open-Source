@@ -1,0 +1,12 @@
+# Esfera Guardian (EsferaGuardianInstanceHelper): gate monsters and their spawn points
+mob	x	y	note
+9833975	5534	-33	Small Dimensional Gate
+9833975	3825	-753	Small Dimensional Gate
+9833975	2835	-993	Small Dimensional Gate
+9833975	4635	-273	Small Dimensional Gate
+9833976	4455	-933	Medium Dimensional Gate
+9833976	5175	-573	Medium Dimensional Gate
+9833976	3555	-153	Medium Dimensional Gate
+9833976	3465	-933	Medium Dimensional Gate
+9833977	4275	-513	Large Dimensional Gate
+9833977	5445	-993	Large Dimensional Gate

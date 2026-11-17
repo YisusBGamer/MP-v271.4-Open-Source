@@ -1,0 +1,18 @@
+# Gollux's maps, for the mini map (ScriptManagerImpl.showGolluxMiniMap).
+map	part
+863010100	Road to Gollux
+863010200	Lower Right leg
+863010210	Upper Right Leg
+863010220	Lower Left Leg
+863010230	Upper Left Leg
+863010240	Abdomen
+863010300	Lower Left Torso
+863010310	Upper Left Torso
+863010320	Upper Right Arm
+863010330	Right Shoulder
+863010400	Lower Right Torso
+863010410	Upper Right Torso
+863010420	Upper Left Arm
+863010430	Left Shoulder
+863010500	Heart
+863010600	Head

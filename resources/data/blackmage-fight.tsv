@@ -1,0 +1,94 @@
+# The Black Mage fight per mode (hard / extreme) and phase (1-4), as GMS Hard runs phases 1-2; phases 3-4 and the
+# Extreme timings follow the same field skills at estimated rates (no GMS run past phase 2 yet).
+# Times in ms from the phase's start (its boss appearing); period 0 = once.
+#   holder      the mob whose HP counts (HP from BossConstants.BLACK_MAGE_HP), at x y
+#   linked      a mob whose hits go to the holder; it dies with it
+#   ref         a mob the phase's field skills take their attacks from (Skill.wz FieldSkill.img mobattackref)
+#   skill       field skill id / level; the actor plays action (MOB_FORCED_ACTION) as the skill goes off
+#   attack      the actor uses attack <level> (MOB_FORCE_ATTACK)
+#   wave        mob id at each of xs (y), with a notice lead ms before
+#   timer       the big-pattern clock: level = the countdown sent (BLACK_MAGE_FIELD_TIMER 2), first/period = when it
+#               runs out; then arg 1 also sends type 3, the actor's forced action and the notice
+#   timerskill  field skill id / level, first ms after each time the timer runs out
+#   walls       Shrieking Wall pair id (left) / actor (right): spawned first ms after each timerskill, one step in each
+#               time (xs left, xs2 right)
+#   trigger     field skill id / level checked on the server first ms after the timer (BMTrigger2: the one whose
+#               action the actor played), arg = the actor's action
+#   marks       light / dark marks (BlackMageDebuff) every period
+#   notice      the text at first (ms = how long it shows); popup = the boss tip box at entry; clear = when the
+#               holder falls
+mode	phase	kind	id	level	x	y	first	period	action	actor	arg	lead	ms	xs	xs2	text
+hard	1	holder	8880505		0	85
+hard	1	linked	8880500		-350	85
+hard	1	linked	8880501		350	85
+hard	1	ref	8880512		5	85
+hard	1	skill	100007	2			12000	11000
+hard	1	skill	100007	1			32000	33000
+hard	1	skill	100015	1			28600	52000
+hard	1	timer		40000			40400	41500					3000			A Shrieking Wall shoots upward to block the surrounding area.
+hard	1	timerskill	100008	1			1200
+hard	1	walls	8880507		0	84	2260			8880508				-2172,-1998,-1824,-1650,-1476,-1302,-1128,-954,-780,-606	2171,1998,1824,1650,1476,1302,1128,954,780,606
+hard	1	wave	8880506			85	62300	60000				1170	3000	-1600,-1000,-400,400,1000,1600		Crimson lightning lands a devastating blow and restricts movement.
+hard	1	popup					0						4000			Attacks here will place a Curse of Creation or a Curse of Destruction on us. If we get hit by both at once, we'll #binstantly lose a life#k, so be careful!
+hard	1	notice					2000						8000			To fight the Black Mage, take down the Knights of Creation and Destruction guarding him.
+hard	1	clear											3000			The Knights of Creation and Destruction fell and the path to the Black Mage has opened.
+hard	2	holder	8880502		0	88
+hard	2	ref	8880516		-5	88
+hard	2	ref	8880512		5	88
+hard	2	skill	100007	2			0	9500	3	8880502
+hard	2	skill	100007	1			27700	28000	3	8880502
+hard	2	skill	100012	1			37800	60000	5	8880502		1220	3000			The Black Mage's piercing gaze chases his enemies mercilessly.
+hard	2	attack	8880516	0			15160	18500		8880516
+hard	2	timer		70000			71700	71700	2	8880502	1		3000			The Black Mage's crimson lightning fractures into destructive columns that blanket the area. Find cover.
+hard	2	trigger	100017	1			0		2	8880502	2
+hard	2	popup					0						4000			Attacks here will place a Curse of Creation or a Curse of Destruction on us. If we get hit by both at once, we'll #binstantly lose a life#k, so be careful!
+hard	2	notice					400						8000			We stand before the Black Mage at last. We must fight him with everything we've got.
+hard	3	holder	8880503		375	88
+hard	3	ref	8880512		5	88
+hard	3	skill	100011	1			6000	14000	3	8880503
+hard	3	skill	100011	2			20000	28000
+hard	3	skill	100013	1			12000	25000
+hard	4	holder	8880519		375	88
+hard	4	linked	8880504		375	88
+hard	4	ref	8880512		5	88
+hard	4	skill	100014	1			8000	14000	0	8880504
+hard	4	skill	100016	1			15000	21000	1	8880504
+hard	4	skill	100013	1			25000	30000
+hard	4	marks					1000	30000
+extreme	1	holder	8880535		0	85
+extreme	1	linked	8880530		-350	85
+extreme	1	linked	8880531		350	85
+extreme	1	ref	8880542		5	85
+extreme	1	skill	100007	5			12000	11000
+extreme	1	skill	100007	4			32000	33000
+extreme	1	skill	100015	3			28600	52000
+extreme	1	timer		40000			40400	41500					3000			A Shrieking Wall shoots upward to block the surrounding area.
+extreme	1	timerskill	100008	2			1200
+extreme	1	walls	8880537		0	84	2260			8880538				-2172,-1998,-1824,-1650,-1476,-1302,-1128,-954,-780,-606	2171,1998,1824,1650,1476,1302,1128,954,780,606
+extreme	1	wave	8880536			85	62300	60000				1170	3000	-1600,-1000,-400,400,1000,1600		Crimson lightning lands a devastating blow and restricts movement.
+extreme	1	popup					0						4000			Attacks here will place a Curse of Creation or a Curse of Destruction on us. If we get hit by both at once, we'll #binstantly lose a life#k, so be careful!
+extreme	1	notice					2000						8000			To fight the Black Mage, take down the Knights of Creation and Destruction guarding him.
+extreme	1	clear											3000			The Knights of Creation and Destruction fell and the path to the Black Mage has opened.
+extreme	2	holder	8880532		0	88
+extreme	2	ref	8880546		-5	88
+extreme	2	ref	8880542		5	88
+extreme	2	skill	100007	5			0	9500	3	8880532
+extreme	2	skill	100007	4			27700	28000	3	8880532
+extreme	2	skill	100012	3			37800	60000	5	8880532		1220	3000			The Black Mage's piercing gaze chases his enemies mercilessly.
+extreme	2	attack	8880546	0			15160	18500		8880546
+extreme	2	timer		70000			71700	71700	2	8880532	1		3000			The Black Mage's crimson lightning fractures into destructive columns that blanket the area. Find cover.
+extreme	2	trigger	100017	3			0		2	8880532	2
+extreme	2	popup					0						4000			Attacks here will place a Curse of Creation or a Curse of Destruction on us. If we get hit by both at once, we'll #binstantly lose a life#k, so be careful!
+extreme	2	notice					400						8000			We stand before the Black Mage at last. We must fight him with everything we've got.
+extreme	3	holder	8880533		375	88
+extreme	3	ref	8880542		5	88
+extreme	3	skill	100011	4			6000	14000	3	8880533
+extreme	3	skill	100011	5			20000	28000
+extreme	3	skill	100013	3			12000	25000
+extreme	4	holder	8880549		375	88
+extreme	4	linked	8880534		375	88
+extreme	4	ref	8880542		5	88
+extreme	4	skill	100014	3			8000	14000	0	8880534
+extreme	4	skill	100016	2			15000	21000	1	8880534
+extreme	4	skill	100013	3			25000	30000
+extreme	4	marks					1000	30000

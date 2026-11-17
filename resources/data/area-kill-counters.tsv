@@ -1,0 +1,3 @@
+# Quest counters that stand for "monsters in an area" (QuestManagerHandler): Quest.wz asks for kills of a stand-in mob that never spawns; every monster killed in the field range counts
+mob	first_field	last_field	note
+8630038	241000200	241000299	Kritias anti-magic points (Kingdom Road, the village outskirts; 32498)

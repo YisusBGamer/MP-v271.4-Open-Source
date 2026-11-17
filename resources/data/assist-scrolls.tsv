@@ -1,0 +1,40 @@
+# Assist scrolls (ItemHandlerModule.applyAssistScroll): the EquipAttributes each puts on an equip; lite = equips up to level 105 only, superiorOnly = Superior items only, reset = Innocence (resets scroll stats); cash = used from the Cash tab
+item	attributes	lite	superiorOnly	reset	cash	note
+2530000	LuckyDay					Lucky Day Scroll
+2530001	LuckyDay					Happy-Go-Lucky Scroll
+2530002	LuckyDay					Lucky Day Scroll
+2530003	LuckyDay					Pet Lucky Day Scroll
+2530004	LuckyDay					Lucky Day Scroll
+2530006	LuckyDay					Pet Lucky Day Scroll
+5063000	LuckyDay				y	Luck's Key
+5068000	LuckyDay				y	Pet Lucky Day Scroll
+5063100	LuckyDay,ProtectionScroll				y	Lucky Shielding Ward
+2531000	ProtectionScroll					Shielding Ward
+2531001	ProtectionScroll					Shielding Ward
+2531004	ProtectionScroll					Protection Scroll
+2531005	ProtectionScroll					Shielding Ward
+2531006	ProtectionScroll					Maple Saint Weapon Shielding Ward
+2531007	ProtectionScroll					Protection Scroll
+5064000	ProtectionScroll				y	Shielding Ward
+5064004	ProtectionScroll				y	[MS Discount] Shielding Ward
+5064002	ProtectionScroll	y			y	Shielding Ward Lite
+5064003	ProtectionScroll		y		y	Superior Shielding Ward
+2532000	UpgradeCountProtection					Shield Scroll
+2532001	UpgradeCountProtection					Pet Shield Scroll
+2532002	UpgradeCountProtection					Shield Scroll
+2532003	UpgradeCountProtection					Safety Scroll
+2532004	UpgradeCountProtection					Pet Safety Scroll
+2532005	UpgradeCountProtection					Shield Scroll
+5064100	UpgradeCountProtection				y	Shield Scroll
+5068100	UpgradeCountProtection				y	Pet Shield Scroll
+5064101	UpgradeCountProtection	y			y	Shield Scroll Lite
+2533000	ScrollProtection					Guardian Scroll
+2533001	ScrollProtection					Pet Guardian Scroll
+5064300	ScrollProtection				y	Guardian Scroll
+5068200	ScrollProtection				y	Pet Guardian Scroll
+5064301	ScrollProtection	y			y	Guardian Scroll Lite
+5064400	ReturnScroll				y	Return Scroll
+2539010	ReturnScroll					Pet Equipment Return Scroll
+2539011	ReturnScroll					Return Scroll
+5064200				y	y	Perfect Innocence Scroll
+5064201		y		y	y	Innocence Scroll Lite

@@ -1,0 +1,124 @@
+# Job advancement gear sold once per character in @shop (JobAdvanceGearModule): class (EquipDropFilter class name), item, lowest first per class
+class	item	note
+DEMON_SLAYER	1099000	Force Shield of Patience
+DEMON_SLAYER	1099002	Force Shield of Will
+DEMON_SLAYER	1099003	Force Shield of Authority
+DEMON_SLAYER	1099004	Force Shield of Extremes
+DEMON_AVENGER	1099006	Force Shield of Patience
+DEMON_AVENGER	1099007	Force Shield of Will
+DEMON_AVENGER	1099008	Force Shield of Authority
+DEMON_AVENGER	1099009	Force Shield of Extremes
+MIHILE	1098000	Soul Shield of Protection
+MIHILE	1098001	Soul Shield of Pride
+MIHILE	1098002	Soul Shield of Courage
+MIHILE	1098003	Soul Shield of Justice
+KAISER	1352500	Nova's Essence
+KAISER	1352501	Nova Guardian Essence
+KAISER	1352502	Nova Justice Essence
+KAISER	1352503	Nova Truth Essence
+ANGELIC_BUSTER	1352601	Pink Soul Ring
+ANGELIC_BUSTER	1352602	Purple Soul Ring
+ANGELIC_BUSTER	1352603	Blue Soul Ring
+ANGELIC_BUSTER	1352604	Green Soul Ring
+XENON	1353001	Dual Core Controller
+XENON	1353002	Quad Core Controller
+XENON	1353003	Hexa Core Controller
+XENON	1353004	Octa Core Controller
+JETT	1352300	Core Fragment
+JETT	1352301	Core Fragment
+JETT	1352302	Core Fragment
+JETT	1352303	Jett's Core
+JETT	1492140	Gaussfield Mark 2
+JETT	1492141	Gaussfield Mark 3
+KINESIS	1353200	Pawn Chess Piece
+KINESIS	1353201	Knight Chess Piece
+KINESIS	1353202	Rook Chess Piece
+KINESIS	1353203	Queen Chess Piece
+BLASTER	1353400	Rudimentary Charges
+BLASTER	1353401	Standard Charges
+BLASTER	1353402	High Powered Charges
+BLASTER	1353403	Masterwork Charges
+ARAN	1442081	Tru's Mithril Polearm
+HAYATO	1352800	White Tiger Blade
+HAYATO	1352802	Lake Monster Blade
+HAYATO	1352803	Fire Phoenix Blade
+KHALI	1354030	Plain Hex Seeker
+KHALI	1354031	Bright Hex Seeker
+KHALI	1354032	Brilliant Hex Seeker
+KHALI	1354033	Infinite Hex Seeker
+LYNN	1352810	Tsavorite Leaf
+LYNN	1352811	Peridot Leaf
+LYNN	1352812	Moonstone Leaf
+LYNN	1352813	Golden Pearl Leaf
+MO_XUAN	1352860	Worn Brace Band
+MO_XUAN	1352861	Disciple's Brace Band
+MO_XUAN	1352862	Warrior's Brace Band
+MO_XUAN	1352863	Boundless Brace Band
+SIA_ASTELLE	1352870	Zodiac Compass
+SIA_ASTELLE	1352871	Twilight Compass
+SIA_ASTELLE	1352872	Ecliptic Compass
+SIA_ASTELLE	1352873	Oort Compass
+EREL_LIGHT	1352880	Keir
+EREL_LIGHT	1352881	Light Keir
+EREL_LIGHT	1352882	Cardinal Keir
+EREL_LIGHT	1352883	Imper Keir
+ADELE	1354000	Trace Bladebinder
+ADELE	1354001	Embark Bladebinder
+ADELE	1354002	Regular Bladebinder
+ADELE	1354003	Noble Bladebinder
+KAIN	1354010	D Basic Weapon Belt
+KAIN	1354011	D30A Weapon Belt
+KAIN	1354012	D60 Advanced Weapon Belt
+KAIN	1354013	D100 Custom Weapon Belt
+LARA	1354020	Simple Four-Jade Ornament
+LARA	1354021	Subtle Four-Jade Ornament
+LARA	1354022	Flashy Four-Jade Ornament
+LARA	1354023	Radiant Four-Jade Ornament
+REN	1354040	Green Imugi Gem
+REN	1354041	Cerulean Imugi Gem
+REN	1354042	Crimson Imugi Gem
+REN	1354043	Violet Imugi Gem
+ILLIUM	1353500	Basic Lucent Wings
+ILLIUM	1353501	Core Lucent Wings
+ILLIUM	1353502	Holy Lucent Wings
+ILLIUM	1353503	Glory Lucent Wings
+ARK	1353600	Initial Path
+ARK	1353601	Secondary Path
+ARK	1353602	Advanced Path
+ARK	1353603	Ultimate Path
+HO_YOUNG	1353800	Mano Fan Tassel
+HO_YOUNG	1353801	Lapis Lazuli Fan Tassel
+HO_YOUNG	1353802	Corundum Fan Tassel
+HO_YOUNG	1353803	Moonstone Fan Tassel
+CADENA	1353300	Transmitter Type-D
+CADENA	1353301	Transmitter Type-C
+CADENA	1353302	Transmitter Type-B
+CADENA	1353303	Transmitter Type-A
+PATHFINDER	1353700	Potential Relic
+PATHFINDER	1353701	Awakened Relic
+PATHFINDER	1353702	Trine Relic
+PATHFINDER	1353703	Perfect Relic
+KANNA	1354300	Talisman
+KANNA	1354301	Spirit Talisman
+KANNA	1354302	Soul-melting Talisman
+KANNA	1354303	Shikigami Talisman
+MERCEDES	1352000	Magic Arrows
+MERCEDES	1352001	Sharp Magic Arrows
+MERCEDES	1352002	Eternal Magic Arrows
+MERCEDES	1352003	Infinite Magic Arrows
+PHANTOM	1352100	Carte Magique
+PHANTOM	1352101	Carte Fantasmatique
+PHANTOM	1352102	Carte Magnifique
+PHANTOM	1352103	Carte Finale
+SHADE	1353100	Blue Fox Marble
+SHADE	1353101	Green Fox Marble
+SHADE	1353102	Red Fox Marble
+SHADE	1353103	Golden Fox Marble
+LUMINOUS	1352400	Light Orb
+LUMINOUS	1352401	Shining Orb
+LUMINOUS	1352402	Twinkling Orb
+LUMINOUS	1352403	Karma Orb
+MECHANIC	1352700	Magnum
+MECHANIC	1352701	Split Magnum
+MECHANIC	1352702	Vital Magnum
+MECHANIC	1352703	Eternal Magnum

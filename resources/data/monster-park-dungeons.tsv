@@ -1,0 +1,33 @@
+# Monster Park dungeons by gate (1 regular, 2 Arcane River, 3 Grandis): GMS v265 list (the reference UI list;
+# Morass and later levels from maplestorywiki). quest = the symbol line that unlocks it (0 = none),
+# mark = the map mark the window shows.
+gate	name	minLevel	maxLevel	quest	map	mark
+1	Auto Security Area	105	114	0	953020000	Magatia
+1	Mossy Tree Forest	115	124	0	953030000	EilnForest
+1	Secret Pirate Hideout	125	134	0	953060000	WhiteHerb
+1	Otherworld Battleground	135	144	0	953070000	helisium
+1	Dangerously Isolated Forest	140	149	0	953080000	Leafre
+1	Clandestine Ruins	150	159	0	953090000	GoldTempleTH
+1	Ruined City	160	169	0	954000000	neoCity
+1	Forest of Dead Trees	170	179	0	954010000	ElNathDungeon
+1	Nest of a Dead Dragon	180	189	0	954030000	Leafre
+1	Knight Stronghold	190	199	0	954050000	destructionTown
+2	Spirit Valley	200	209	0	954060000	destructionPerion
+2	Vanishing Journey	200	209	34120	954070000	Road of Vanishing
+2	Chu Chu Island	210	219	34218	954080000	ChewChew
+2	Lachelein, the Dreaming City	220	229	34331	954090000	Lacheln
+2	The Mysterious Forest of Arcana	230	239	34478	954100000	Arcana
+2	Morass, the Swamp of Memory	235	245	34269	954101000	Morass
+2	Esfera, the Origin Sea	240	250	37871	954102000	esfera
+2	Sellas, Where the Stars Rest	245	250	37921	954103000	Sellas
+2	Moonbridge	250	255	35632	954104000	moonBridge
+2	Labyrinth of Suffering	255	260	36772	954105000	TheLabyrinthOfSuffering
+2	Limina	260	265	35815	954106000	Limen
+3	Cernium (Advanced)	260	265	39921	954107000	Cernium
+3	Arcus (Advanced)	265	270	38120	954108000	Arcs
+3	Odium (Advanced)	270	275	38319	954109000	odium
+# v271 maps 954110000-954113500; quest = the area's symbol line (SymbolInfo addLine), mark = its town's
+3	Shangri-La (Advanced)	275	280	38404	954110000	dowonkyung
+3	Arteria (Advanced)	280	285	38653	954111000	arteria
+3	Carcion (Advanced)	285	290	38702	954112000	carcion
+3	Tallahart (Advanced)	290	295	36996	954113000	tallahart

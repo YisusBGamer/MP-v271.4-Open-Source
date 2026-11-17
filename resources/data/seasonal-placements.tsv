@@ -1,0 +1,133 @@
+# NPCs that stand somewhere while their event is on (event empty: all year). Event keys are the
+# SeasonalEvents / HolidayEvents event names. Major towns: Henesys, Ellinia, Perion, Kerning City, Lith Harbor,
+# Orbis, El Nath, Ludibrium, Mu Lung.
+event	map	npc	x	y	flip	note
+# Halloween: Spin Man (the Haunted Mansion's host) in the towns
+halloween	100000000	2120025	1050	334		Spin Man
+halloween	101000000	2120025	-100	-58		Spin Man
+halloween	102000000	2120025	450	1665		Spin Man
+halloween	103000000	2120025	120	66		Spin Man
+halloween	104000000	2120025	1240	647		Spin Man
+halloween	200000000	2120025	1150	143		Spin Man
+halloween	211000000	2120025	-520	94		Spin Man
+halloween	220000000	2120025	-320	102		Spin Man
+halloween	250000000	2120025	-1400	51		Spin Man
+# the Gloomy Mask is hidden in the map data (only scripts showed it)
+halloween	922900700	2121024	-362	-138		
+# Christmas: Rooney (to Happyville, the story) and the Paperboy (the story's first news) in the towns
+christmas	100000000	1022101	1050	334		Rooney
+christmas	101000000	1022101	-100	-58		Rooney
+christmas	102000000	1022101	450	1665		Rooney
+christmas	103000000	1022101	120	66		Rooney
+christmas	104000000	1022101	1240	647		Rooney
+christmas	200000000	1022101	1150	143		Rooney
+christmas	211000000	1022101	-520	94		Rooney
+christmas	220000000	1022101	-320	102		Rooney
+christmas	250000000	1022101	-1400	51		Rooney
+christmas	100000000	9250052	940	334	y	Paperboy
+christmas	101000000	9250052	-200	-58	y	Paperboy
+christmas	102000000	9250052	340	1665	y	Paperboy
+christmas	103000000	9250052	20	66	y	Paperboy
+christmas	104000000	9250052	1140	647	y	Paperboy
+christmas	200000000	9250052	1050	143	y	Paperboy
+christmas	211000000	9250052	-420	94	y	Paperboy
+christmas	220000000	9250052	-420	102	y	Paperboy
+christmas	250000000	9250052	-1300	51	y	Paperboy
+# holiday events (HolidayEvents): Cassandra (Winter Preparations, Spring Flower Festival) and Cody
+# (Valentine's Day, Thanksgiving) in the towns; the Ace of Hearts in Ludibrium; Gaga and Mad Bunny in
+# Henesys at Easter; Jr. Officer Medin (Winter Preparations) in Omega Sector
+winter	100000000	9201256	1050	334		Cassandra
+winter	101000000	9201256	-100	-58		Cassandra
+winter	102000000	9201256	450	1665		Cassandra
+winter	103000000	9201256	120	66		Cassandra
+winter	104000000	9201256	1240	647		Cassandra
+winter	200000000	9201256	1150	143		Cassandra
+winter	211000000	9201256	-520	94		Cassandra
+winter	220000000	9201256	-320	102		Cassandra
+winter	250000000	9201256	-1400	51		Cassandra
+spring	100000000	9201256	1050	334		Cassandra
+spring	101000000	9201256	-100	-58		Cassandra
+spring	102000000	9201256	450	1665		Cassandra
+spring	103000000	9201256	120	66		Cassandra
+spring	104000000	9201256	1240	647		Cassandra
+spring	200000000	9201256	1150	143		Cassandra
+spring	211000000	9201256	-520	94		Cassandra
+spring	220000000	9201256	-320	102		Cassandra
+spring	250000000	9201256	-1400	51		Cassandra
+valentine	100000000	9200000	940	334	y	Cody
+valentine	101000000	9200000	-200	-58	y	Cody
+valentine	102000000	9200000	340	1665	y	Cody
+valentine	103000000	9200000	20	66	y	Cody
+valentine	104000000	9200000	1140	647	y	Cody
+valentine	200000000	9200000	1050	143	y	Cody
+valentine	211000000	9200000	-420	94	y	Cody
+valentine	220000000	9200000	-420	102	y	Cody
+valentine	250000000	9200000	-1300	51	y	Cody
+thanksgiving	100000000	9200000	940	334	y	Cody
+thanksgiving	101000000	9200000	-200	-58	y	Cody
+thanksgiving	102000000	9200000	340	1665	y	Cody
+thanksgiving	103000000	9200000	20	66	y	Cody
+thanksgiving	104000000	9200000	1140	647	y	Cody
+thanksgiving	200000000	9200000	1050	143	y	Cody
+thanksgiving	211000000	9200000	-420	94	y	Cody
+thanksgiving	220000000	9200000	-420	102	y	Cody
+thanksgiving	250000000	9200000	-1300	51	y	Cody
+valentine	220000000	2041017	-200	102		Ace Of Hearts
+easter	100000000	9000021	1050	334		Gaga
+easter	100000000	9200001	940	334	y	Mad Bunny
+winter	221000000	2050009	1750	158		Medin
+# the Moon Festival's host
+moon	100000000	9001104	1050	334		Smartie Moon Bunny
+moon	101000000	9001104	-100	-58		Smartie Moon Bunny
+moon	102000000	9001104	450	1665		Smartie Moon Bunny
+moon	103000000	9001104	120	66		Smartie Moon Bunny
+moon	104000000	9001104	1240	647		Smartie Moon Bunny
+moon	200000000	9001104	1150	143		Smartie Moon Bunny
+moon	211000000	9001104	-520	94		Smartie Moon Bunny
+moon	220000000	9001104	-320	102		Smartie Moon Bunny
+moon	250000000	9001104	-1400	51		Smartie Moon Bunny
+# the Lunar New Year (Cassandra's Game of Yut and soup; Kid Draco in Henesys)
+lunarnewyear	100000000	9201256	1050	334		Cassandra
+lunarnewyear	101000000	9201256	-100	-58		Cassandra
+lunarnewyear	102000000	9201256	450	1665		Cassandra
+lunarnewyear	103000000	9201256	120	66		Cassandra
+lunarnewyear	104000000	9201256	1240	647		Cassandra
+lunarnewyear	200000000	9201256	1150	143		Cassandra
+lunarnewyear	211000000	9201256	-520	94		Cassandra
+lunarnewyear	220000000	9201256	-320	102		Cassandra
+lunarnewyear	250000000	9201256	-1400	51		Cassandra
+lunarnewyear	100000000	9010043	1385	334		Kid Draco
+# the Maple Music Festival (DJ JM takes players to the Campgrounds)
+mmf	100000000	9400137	940	334	y	Dj Jm Town
+mmf	101000000	9400137	-200	-58	y	Dj Jm Town
+mmf	102000000	9400137	340	1665	y	Dj Jm Town
+mmf	103000000	9400137	20	66	y	Dj Jm Town
+mmf	104000000	9400137	1140	647	y	Dj Jm Town
+mmf	200000000	9400137	1050	143	y	Dj Jm Town
+mmf	211000000	9400137	-420	94	y	Dj Jm Town
+mmf	220000000	9400137	-420	102	y	Dj Jm Town
+mmf	250000000	9400137	-1300	51	y	Dj Jm Town
+# Secret Agent (all year): Agent E recruits in the towns; the agents work from the M-Forcer Operations HQ
+	100000000	9000036	1210	334		Agent E
+	101000000	9000036	60	-58		Agent E
+	102000000	9000036	600	1665	y	Agent E
+	103000000	9000036	-140	66		Agent E
+	104000000	9000036	1300	647	y	Agent E
+	200000000	9000036	1250	143	y	Agent E
+	211000000	9000036	-600	94		Agent E
+	220000000	9000036	-220	102	y	Agent E
+	250000000	9000036	-1500	51		Agent E
+	922100000	9000036	1100	188	y	Agent E
+	922100000	9000032	900	188		Agent W
+	922100000	9000034	780	188		Agent O
+	922100000	9000033	520	188		Agent C
+	922100000	9000037	400	188		Agent Meow
+	922100000	9000038	300	188	y	Agent Kitty
+	922100000	9000035	1350	188	y	Agent P
+# story NPCs that GMS only placed through scenes: Chumji at Goblin Hill (Korean Folk Town, 30429)
+	224000132	2074141	300	386		
+# The Afterlands: the Old Man in Henesys (all year), the Solar Pulley in the Land of Warriors, and the
+# prologue's Suspicious Sorcerer in Henesys while Halloween is on
+	100000000	9400200	3480	124	y	Old Man
+	867113200	9400232	209	93		Solar Pulley
+halloween	100000000	9400300	5280	454		Suspicious Sorcerer

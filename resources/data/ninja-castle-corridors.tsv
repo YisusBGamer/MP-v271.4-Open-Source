@@ -1,0 +1,7 @@
+# Ninja Castle PQ (NinjaCastleInstanceHelper): each corridor's own Map.wz monsters
+corridor	mobs	note
+0	9400400	Sakura Genin
+1	9400400,9400404	Sakura Genin / Sakura Ashigaru
+2	9400401	Sakura Chunin
+3	9400401,9400406	Sakura Chunin / Sakura Kunoichi
+4	9400400,9400401,9400402,9400406	Sakura Genin / Sakura Chunin / Sakura Jonin / Sakura Kunoichi

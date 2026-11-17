@@ -1,0 +1,688 @@
+# v271 local buff stats (TEMPORARY_STAT_SET/RESET 163/164): server name, v271 mask index, position in the
+# client's generic value order (empty = no generic value), join (exact name / alias = same v265 index, other
+# client name). Generated from the v271 client's named stat table; stats not listed are never sent.
+IndiePAD	0		exact	IndiePAD
+IndieMAD	1		exact	IndieMAD
+IndieDEF	2		alias	IndiePDD
+IndieMHP	3		exact	IndieMHP
+IndieMHPR	4		exact	IndieMHPR
+IndieMMP	5		exact	IndieMMP
+IndieMMPR	6		exact	IndieMMPR
+IndieACC	7		exact	IndieACC
+IndieEVA	8		exact	IndieEVA
+IndieJump	9		exact	IndieJump
+IndieSpeed	10		exact	IndieSpeed
+IndieAllStat	11		exact	IndieAllStat
+IndieAllStatR	12		alias	IndieStatRBasic
+IndieDodgeCriticalTime	13		exact	IndieDodgeCriticalTime
+IndieEXP	14		exact	IndieEXP
+IndieBooster	15		exact	IndieBooster
+IndieFixedDamageR	16		exact	IndieFixedDamageR
+PyramidStunBuff	17		exact	PyramidStunBuff
+PyramidFrozenBuff	18		exact	PyramidFrozenBuff
+PyramidFireBuff	19		exact	PyramidFireBuff
+PyramidBonusDamageBuff	20		exact	PyramidBonusDamageBuff
+IndieRelaxEXP	21		exact	IndieRelaxEXP
+IndieSTR	22		exact	IndieSTR
+IndieDEX	23		exact	IndieDEX
+IndieINT	24		exact	IndieINT
+IndieLUK	25		exact	IndieLUK
+IndieDamR	26		exact	IndieDamR
+IndieScriptBuff	27		exact	IndieScriptBuff
+IndieMDF	28		exact	IndieMDF
+IndieAsrR	29		exact	IndieAsrR
+IndieTerR	30		exact	IndieTerR
+IndieCr	31		exact	IndieCr
+IndiePDDR	32		exact	IndiePDDR
+IndieCrDmg	33		alias	IndieCD
+IndieBDR	35		exact	IndieBDR
+IndieStatR	36		exact	IndieStatR
+IndieStance	37		exact	IndieStance
+IndieIgnoreMobpdpR	38		exact	IndieIgnoreMobpdpR
+IndieEmpty	39		exact	IndieEmpty
+IndiePADR	40		exact	IndiePADR
+IndieMADR	41		exact	IndieMADR
+IndieEVAR	42		exact	IndieEVAR
+IndieDrainHP	43		exact	IndieDrainHP
+IndiePMdR	44		exact	IndiePMdR
+IndieForceJump	45		exact	IndieForceJump
+IndieForceSpeed	46		exact	IndieForceSpeed
+IndieQrPointTerm	47		exact	IndieQrPointTerm
+IndieLoopEffect	84		exact	IndieLoopEffect
+IndiePeriodicalSkillActivation	85		exact	IndiePeriodicalSkillActivation
+IndieBuffIcon	48		exact	IndieBuffIcon
+IndieCooltimeReduce	49		exact	IndieCooltimeReduce
+IndieNotDamaged	50		exact	IndieNotDamaged
+IndieKeyDownTime	51		alias	IndieKeydown
+IndieDamReduceR	52		exact	IndieDamReduceR
+IndieCrystalCharge	53		alias	IndieSpecificSkill
+IndieNegativeEVAR	54		alias	IndieEVARReduceR
+IndieHitDamage	55		alias	IndieHitDamR
+IndieNoKnockBack	56		alias	IndieApplySuperStance
+IndieGrandCross	57		alias	IndieFlyAcc
+IndieHitDamageInclHPR	58		alias	IndieAllHitDamR
+IndieArcaneForce	59		alias	IndieArc
+IndieAuthentic	60		alias	IndieAut
+IndiePowerGuard	61		exact	IndiePowerGuard
+IndieDropPer	62		exact	IndieDropPer
+IndieMesoAmountRate	63		exact	IndieMesoAmountRate
+IndieFloating	64		alias	IndieCheckTimeByClient
+IndieDotHealHP	65		exact	IndieDotHealHP
+IndieInvincibleBelief	66		alias	IndieDotHealMP
+IndieUnk212_63	67		alias	IndieNormalDamReduceR
+IndieInfiniteMDF	68		alias	IndieIgnorePCounter
+IndieProtectiveShield	69		alias	IndieBarrier
+IndieUNK218_2	70		alias	IndieStarForce
+IndieNBDR	71		exact	IndieNBDR
+IndieAntiMagicShell	74		exact	IndieAntiMagicShell
+IndiePartyDrop	82		alias	IndieWaterSmashBuff
+IndieUnk63	83		alias	IndieCharColor
+PAD	300	16	exact	PAD
+DEF	301	17	alias	PDD
+MAD	302	18	exact	MAD
+ACC	303	19	exact	ACC
+EVA	304	20	exact	EVA
+Craft	305	22	exact	Craft
+Speed	306	23	exact	Speed
+Jump	307	24	exact	Jump
+DarkSight	308	30	exact	DarkSight
+Booster	309	31	exact	Booster
+PowerGuard	310	32	exact	PowerGuard
+MaxHP	311	33	exact	MaxHP
+MaxMP	312	34	exact	MaxMP
+Invincible	313	35	exact	Invincible
+SoulArrow	314	36	exact	SoulArrow
+Stun	315	37	exact	Stun
+Poison	316	40	exact	Poison
+Seal	317	41	exact	Seal
+Darkness	318	42	exact	Darkness
+ComboCounter	319	43	exact	ComboCounter
+HammerOfTheRighteous	320	44	alias	BlessedHammer
+BigHammerOfTheRighteous	321	45	alias	BlessedHammerActive
+WeaponCharge	322	46	exact	WeaponCharge
+HolySymbol	323	48	exact	HolySymbol
+MesoUp	324	49	exact	MesoUp
+ShadowPartner	325	50	exact	ShadowPartner
+PickPocket	326	51	exact	PickPocket
+MesoGuard	327	52	alias	BloodyExplosion
+Thaw	328	53	exact	Thaw
+Weakness	329	54	exact	Weakness
+Curse	330	56	exact	Curse
+Slow	331	57	exact	Slow
+Morph	332	63	exact	Morph
+Regen	333	65	exact	Regen
+BasicStatUp	334	66	exact	BasicStatUp
+Stance	335	67	exact	Stance
+SharpEyes	336	68	exact	SharpEyes
+ManaReflection	337	69	exact	ManaReflection
+Attract	338	70	exact	Attract
+NoBulletConsume	339	79	exact	NoBulletConsume
+AdvancedBless	341	83	exact	AdvancedBless
+IllusionStep	342	84	exact	IllusionStep
+Blind	343	85	exact	Blind
+BanMap	344	86	exact	BanMap
+MaxLevelBuff	345	87	exact	MaxLevelBuff
+MesoUpByItem	346	91	exact	MesoUpByItem
+Ghost	349	64	exact	Ghost
+Barrier	350	88	exact	Barrier
+ReverseInput	351	90	exact	ReverseInput
+ItemUpByItem	352	94	exact	ItemUpByItem
+RespectPImmune	353	95	exact	RespectPImmune
+RespectMImmune	354	96	exact	RespectMImmune
+DefenseAtt	355	97	exact	DefenseAtt
+DefenseState	356	98	exact	DefenseState
+DojangBerserk	357	99	exact	DojangBerserk
+DojangInvincible	358	100	exact	DojangInvincible
+DojangShield	359	89	exact	DojangShield
+SoulMasterFinal	360	101	exact	SoulMasterFinal
+WindBreakerFinal	361	102	exact	WindBreakerFinal
+ElementalReset	364	105	exact	ElementalReset
+HideAttack	365	106	exact	HideAttack
+EventRate	366	107	exact	EventRate
+ComboAbilityBuff	367	108	exact	ComboAbilityBuff
+ComboDrain	368	109	exact	ComboDrain
+RepeatEffect	369	111	exact	RepeatEffect
+ExpBuffRate	370	112	exact	ExpBuffRate
+StopPortion	371	113	exact	StopPortion
+StopMotion	372	114	exact	StopMotion
+Fear	373	115	exact	Fear
+HiddenPieceOn	374	222	exact	HiddenPieceOn
+MagicShield	375	116	exact	MagicShield
+MagicResistance	376	117	exact	MagicResistance
+SoulStone	377	118	exact	SoulStone
+Flying	378	119	exact	Flying
+Frozen	379	123	exact	Frozen
+Enrage	381	126	exact	Enrage
+DrawBack	382	136	exact	DrawBack
+NotDamaged	384	127	exact	NotDamaged
+FinalCut	385	128	exact	FinalCut
+HowlingAttackDamage	386	129	exact	HowlingAttackDamage
+BeastFormDamageUp	387	130	alias	BeastForm
+Dance	388	131	exact	Dance
+EMHP	389	25	exact	EMHP
+EMMP	390	26	exact	EMMP
+EPAD	391	27	exact	EPAD
+EMAD	392	28	exact	EMAD
+EPDD	393	29	exact	EPDD
+Cyclone	394	426	alias	RidingExpireInfoSave
+RadiantOrb	395	438	alias	NextSpecificSkillDamageUp
+Mechanic	399	134	exact	Mechanic
+BeastFormMaxHP	400	137	exact	BeastFormMaxHP
+Dice	401	138	exact	Dice
+BlessingArmor	402	139	exact	BlessingArmor
+DamR	403	141	exact	DamR
+TeleportMasteryOn	404	142	exact	TeleportMasteryOn
+CombatOrders	405	143	exact	CombatOrders
+Beholder	406	144	exact	Beholder
+DispelItemOption	407	145	exact	DispelItemOption
+Inflation	408	147	exact	Inflation
+OnixDivineProtection	409	148	exact	OnixDivineProtection
+Web	410	125	exact	Web
+Bless	411	149	exact	Bless
+DisOrder	413	61	exact	DisOrder
+Thread	414	62	exact	Thread
+Team	415	60	exact	Team
+Explosion	416	150	exact	Explosion
+BuffLimit	417	59	exact	BuffLimit
+STR	418	12	exact	STR
+INT	419	13	exact	INT
+DEX	420	14	exact	DEX
+LUK	421	15	exact	LUK
+DispelItemOptionByField	422	146	exact	DispelItemOptionByField
+DarkTornado	423	151	exact	DarkTornado
+PVPDamage	424	154	exact	PVPDamage
+PvPScoreBonus	425	156	exact	PvPScoreBonus
+PvPInvincible	426	157	exact	PvPInvincible
+PvPRaceEffect	427	158	exact	PvPRaceEffect
+WeaknessMdamage	428	55	exact	WeaknessMdamage
+Frozen2	429	124	exact	Frozen2
+PVPDamageSkill	430	155	exact	PVPDamageSkill
+AmplifyDamage	431	161	exact	AmplifyDamage
+Shock	432	39	exact	Shock
+InfinityForce	433	160	exact	InfinityForce
+IncMaxHP	434	152	exact	IncMaxHP
+IncMaxMP	435	153	exact	IncMaxMP
+HolyMagicShell	436	159	exact	HolyMagicShell
+KeyDownTimeIgnore	437	162	exact	KeyDownTimeIgnore
+ArcaneAim	438	215	exact	ArcaneAim
+MasterMagicOn	439	163	exact	MasterMagicOn
+AsrR	440	164	exact	AsrR
+TerR	441	166	exact	TerR
+DamAbsorbShield	442	167	exact	DamAbsorbShield
+DevilishPower	443	257	exact	DevilishPower
+Roulette	445	168	exact	Roulette
+SpiritLink	447	171	exact	SpiritLink
+AsrRByItem	448	165	exact	AsrRByItem
+Event	449	170	exact	Event
+CriticalBuff	450	172	exact	CriticalBuff
+DropRate	451	173	exact	DropRate
+PlusExpRate	452	174	exact	PlusExpRate
+ItemInvincible	453	175	exact	ItemInvincible
+ItemCritical	455	176	exact	ItemCritical
+Event2	457	178	exact	Event2
+DDR	459	180	exact	DDR
+VampiricTouch	458	179	exact	VampiricTouch
+IncTerR	460	181	exact	IncTerR
+IncAsrR	461	182	exact	IncAsrR
+DeathMark	462	183	exact	DeathMark
+UsefulAdvancedBless	463	185	exact	UsefulAdvancedBless
+Lapidification	464	186	exact	Lapidification
+VenomSnake	465	189	exact	VenomSnake
+CarnivalAttack	466	190	exact	CarnivalAttack
+CarnivalDefence	467	191	exact	CarnivalDefence
+CarnivalExp	468	192	exact	CarnivalExp
+SlowAttack	469	193	exact	SlowAttack
+PyramidEffect	470	194	exact	PyramidEffect
+HollowPointBullet	471	195	exact	HollowPointBullet
+KeyDownMoving	472	196	exact	KeyDownMoving
+IgnoreTargetDEF	473	198	exact	IgnoreTargetDEF
+ReviveOnce	476	202	exact	ReviveOnce
+Invisible	477	201	exact	Invisible
+EnrageCr	478	204	exact	EnrageCr
+EnrageCrDamMin	479	205	exact	EnrageCrDamMin
+Judgement	480	207	exact	Judgement
+DojangLuckyBonus	481	208	exact	DojangLuckyBonus
+PainMark	482	184	exact	PainMark
+Magnet	483	71	exact	Magnet
+MagnetArea	484	72	exact	MagnetArea
+GuidedArrow	485	73	exact	GuidedArrow
+VampDeath	498	187	exact	VampDeath
+BlessingArmorIncPAD	499	140	exact	BlessingArmorIncPAD
+KeyDownAreaMoving	500	197	exact	KeyDownAreaMoving
+Larkness	501	210	exact	Larkness
+StackBuff	503	80	exact	StackBuff
+AntiMagicShell	504	203	exact	AntiMagicShell
+LifeTidal	505	206	exact	LifeTidal
+HitCriDamR	506	209	exact	HitCriDamR
+SmashStack	507	212	exact	SmashStack
+PartyBarrier	508	110	exact	PartyBarrier
+ReshuffleSwitch	509	213	exact	ReshuffleSwitch
+SpecialAction	510	214	exact	SpecialAction
+VampDeathSummon	511	188	exact	VampDeathSummon
+StopForceAtomInfo	512	216	exact	StopForceAtomInfo
+SoulGazeCriDamR	513	217	exact	SoulGazeCriDamR
+SoulRageCount	514	218	exact	SoulRageCount
+PowerTransferGauge	515	219	exact	PowerTransferGauge
+AffinitySlug	516	220	exact	AffinitySlug
+Trinity	517	81	exact	Trinity
+IncMaxDamage	518	736	exact	IncMaxDamage
+BossShield	519	223	exact	BossShield
+MobZoneState	520	224	exact	MobZoneState
+GiveMeHeal	521	225	exact	GiveMeHeal
+TouchMe	522	226	exact	TouchMe
+Contagion	523	227	exact	Contagion
+IgnoreAllCounter	525	228	exact	IgnoreAllCounter
+IgnorePImmune	526	229	exact	IgnorePImmune
+IgnoreAllImmune	527	230	exact	IgnoreAllImmune
+FinalJudgement	529	232	exact	FinalJudgement
+FireAura	530	233	exact	FireAura
+VengeanceOfAngel	531	234	exact	VengeanceOfAngel
+HeavensDoor	532	235	exact	HeavensDoor
+Preparation	533	236	exact	Preparation
+BullsEye	534	237	exact	BullsEye
+IncEffectHPPotion	535	238	exact	IncEffectHPPotion
+IncEffectMPPotion	536	239	exact	IncEffectMPPotion
+BleedingToxin	537	243	exact	BleedingToxin
+IgnoreMobDamR	538	244	exact	IgnoreMobDamR
+Asura	539	245	exact	Asura
+Stimulate	540	246	exact	Stimulate
+ReturnTeleport	541	247	exact	ReturnTeleport
+DropRIncrease	542	249	exact	DropRIncrease
+IgnoreMobpdpR	543	250	exact	IgnoreMobpdpR
+BdR	544	251	exact	BdR
+CapDebuff	545	248	exact	CapDebuff
+Exceed	546	252	exact	Exceed
+DiabolikRecovery	547	253	exact	DiabolikRecovery
+FinalAttackProp	549	255	exact	FinalAttackProp
+ExceedOverload	550	256	exact	ExceedOverload
+OverloadCount	551	258	exact	OverloadCount
+BuckShot	552	259	exact	BuckShot
+FireBomb	553	260	exact	FireBomb
+HalfstatByDebuff	554	261	exact	HalfstatByDebuff
+SurplusSupply	555	262	exact	SurplusSupply
+SetBaseDamage	556	263	exact	SetBaseDamage
+EVAR	557	21	exact	EVAR
+NewFlying	558	120	exact	NewFlying
+AmaranthGenerator	559	264	exact	AmaranthGenerator
+StrikerHyperElectric	560	265	exact	StrikerHyperElectric
+EventPointAbsorb	561	266	exact	EventPointAbsorb
+EventAssemble	562	267	exact	EventAssemble
+StormBringer	563	268	exact	StormBringer
+ACCR	564	269	exact	ACCR
+DEXR	565	270	exact	DEXR
+Translucence	566	271	exact	Translucence
+PoseType	567	272	exact	PoseType
+LightOfSpirit	568	273	alias	CosmicForge
+GlimmeringTime	569	274	exact	GlimmeringTime
+TrueSight	570	277	exact	TrueSight
+SoulMP	572	240	exact	SoulMP
+FullSoulMP	573	241	exact	FullSoulMP
+SoulSkillDamageUp	574	242	exact	SoulSkillDamageUp
+ElementalCharge	575	47	exact	ElementalCharge
+Restoration	576	275	exact	Restoration
+CrossOverChain	577	278	exact	CrossOverChain
+Reincarnation	578	279	exact	Reincarnation
+DotBasedBuff	581	282	exact	DotBasedBuff
+SixthDotBasedBuff	582	283	exact	SixthDotBasedBuff
+BlessEnsenble	583	284	exact	BlessEnsenble
+ComboCostInc	584	276	exact	ComboCostInc
+NaviFlying	585	121	exact	NaviFlying
+QuiverCatridge	587	285	exact	QuiverCatridge
+ExtraQuiverCatridge	588	286	exact	ExtraQuiverCatridge
+ExtraQuiverMagic	589	287	exact	ExtraQuiverMagic
+ExtraQuiverVamp	590	288	exact	ExtraQuiverVamp
+UserControlMob	591	289	exact	UserControlMob
+ImmuneBarrier	592	290	exact	ImmuneBarrier
+CriticalGrowing	593	291	exact	CriticalGrowing
+RelicEmblem	594	292	alias	LastUseSkillAttr
+QuickDraw	595	293	exact	QuickDraw
+BowMasterConcentration	596	294	exact	BowMasterConcentration
+TimeFastABuff	598	296	exact	TimeFastABuff
+TimeFastBBuff	599	297	exact	TimeFastBBuff
+GatherDropR	601	299	exact	GatherDropR
+AimBox2D	602	300	exact	AimBox2D
+PerfectShot	603	301	alias	CursorSniping
+StatusResistance	604	302	alias	DebuffTolerance
+IncMonsterBattleCaptureRate	605	303	alias	TearsOfFairy
+DotHealHPPerSecond	606	304	exact	DotHealHPPerSecond
+DotHealMPPerSecond	607	305	exact	DotHealMPPerSecond
+SpiritGuard	608	306	exact	SpiritGuard
+PreReviveOnce	610	308	exact	PreReviveOnce
+SetBaseDamageByBuff	611	309	exact	SetBaseDamageByBuff
+LimitMP	612	310	exact	LimitMP
+ReflectDamR	613	311	exact	ReflectDamR
+ComboTempest	614	312	exact	ComboTempest
+MHPCutR	615	313	exact	MHPCutR
+MMPCutR	616	314	exact	MMPCutR
+SelfWeakness	617	315	exact	SelfWeakness
+FlareTrick	618	316	exact	FlareTrick
+Dominion	619	317	exact	Dominion
+SiphonVitality	620	318	exact	SiphonVitality
+DarknessAscension	621	319	exact	DarknessAscension
+BossWaitingLinesBuff	622	320	exact	BossWaitingLinesBuff
+DamageReduce	623	321	exact	DamageReduce
+ShadowServant	624	322	exact	ShadowServant
+ShadowIllusion	625	323	exact	ShadowIllusion
+AddAttackCount	627	324	exact	AddAttackCount
+ComplusionSlant	628	325	exact	ComplusionSlant
+SSFShootingAttack	629	326	exact	SSFShootingAttack
+DevilCry	630	327	exact	DevilCry
+ShieldAttack	631	328	exact	ShieldAttack
+DarkLighting	632	329	exact	DarkLighting
+AttackCountX	633	330	exact	AttackCountX
+BMageDeath	634	331	exact	BMageDeath
+BombTime	635	332	exact	BombTime
+NoDebuff	636	333	exact	NoDebuff
+BattlePvPMikeShield	637	351	alias	BattlePvP_Mike_Shield
+BattlePvPMikeBugle	638	352	alias	BattlePvP_Mike_Bugle
+XenonAegisSystem	639	334	exact	XenonAegisSystem
+HiddenPossession	640	335	alias	EunwolFoxSpirit
+NightWalkerBat	641	336	exact	NightWalkerBat
+WizardIgnite	642	337	exact	WizardIgnite
+FireBarrier	643	375	exact	FireBarrier
+ChangeFoxMan	644	376	exact	ChangeFoxMan
+DivineEcho	645	406	alias	PairingUser
+DemonFrenzy	646	338	alias	Frenzy
+ShadowSpear	648	340	exact	ShadowSpear
+MastemasMark	649	421	alias	MastemaGuard
+RiftOfDamnation	650	423	alias	Elysion
+QuiverBarrage	651	479	alias	QuiverFullBurst
+SwordsOfConsciousness	652	480	alias	SwordBaptism
+BattlePvPLangEProtection	661	344	alias	BattlePvP_LangE_Protection
+BattlePvPLeeMalNyunScaleUp	662	345	alias	BattlePvP_LeeMalNyun_ScaleUp
+BattlePvPRevive	663	346	alias	BattlePvP_Revive
+BattlePvPHelenaMark	658	341	alias	BattlePvP_Helena_Mark
+BattlePvPHelenaWindSpirit	660	343	alias	BattlePvP_Helena_WindSpirit
+PinkbeanAttackBuff	664	347	exact	PinkbeanAttackBuff
+PinkbeanRelax	665	353	exact	PinkbeanRelax
+PinkbeanYoYoStack	667	354	exact	PinkbeanYoYoStack
+RandAreaAttack	668	348	exact	RandAreaAttack
+NextAttackEnhance	671	356	exact	NextAttackEnhance
+AranCombotempastOption	673	358	exact	AranCombotempastOption
+ViperTimeLeap	674	359	exact	ViperTimeLeap
+RoyalGuardState	675	360	exact	RoyalGuardState
+RoyalGuardPrepare	676	361	alias	BodyRectGuardPrepare
+MichaelSoulLink	677	362	exact	MichaelSoulLink
+MichaelStanceLink	678	363	exact	MichaelStanceLink
+TriflingWhimOnOff	679	364	exact	TriflingWhimOnOff
+AddRangeOnOff	680	365	exact	AddRangeOnOff
+BladeStance	681	366	exact	BladeStance
+DebuffActiveSkillHPCon	682	367	exact	DebuffActiveSkillHPCon
+DebuffIncHP	683	368	exact	DebuffIncHP
+BowMasterMortalBlow	684	369	exact	BowMasterMortalBlow
+AngelicBursterSoulResonance	685	370	exact	AngelicBursterSoulResonance
+Fever	686	371	exact	Fever
+IgnisRore	687	372	alias	RpSiksin
+TeleportMasteryRange	688	373	exact	TeleportMasteryRange
+FixCoolTime	690	377	exact	FixCoolTime
+IncMobRateDummy	691	378	exact	IncMobRateDummy
+AdrenalinBoost	692	379	exact	AdrenalinBoost
+AranDrain	693	380	exact	AranDrain
+AranBoostEndHunt	694	381	exact	AranBoostEndHunt
+RWCylinder	695	382	exact	RWCylinder
+Unk188_460	696	383	alias	RWVulkanPunch
+RWMagnumBlow	697	384	exact	RWMagnumBlow
+RWBarrier	698	385	exact	RWBarrier
+RWBarrierHeal	699	386	exact	RWBarrierHeal
+RWMaximizeCannon	700	387	exact	RWMaximizeCannon
+RWOverHeat	703	390	exact	RWOverHeat
+RWMovingEvar	706	391	exact	RWMovingEvar
+Stigma	707	392	exact	Stigma
+HeavensDoorCooltime	708	393	alias	HeavensDoorNotTime
+SealedRuneCooltime	709	394	alias	RuneStoneNoTime
+PinPointSalvo	710	395	alias	XenonRocketRunch
+MeltDown	711	396	alias	TransformOverMan
+SparkleBurstStage	712	397	alias	EnergyBust
+LightningCascade	713	398	alias	LightningUnion
+BulletParty	714	399	exact	BulletParty
+LoadedDice	716	401	exact	LoadedDice
+Benediction	717	402	alias	BishopPray
+Unk221_497	718	403	alias	ChainArtsFury
+VoidStrike	719	404	alias	MichaelFixDamDecTime
+Unk212_504	720	405	alias	PinkbeanYoYoAddDamR
+WeaponAura	721	407	alias	Warrior_AuraWeapon
+ManaOverload	722	408	alias	Wizard_OverloadMana
+RhoAias	723	409	alias	Michael_RhoAias
+SpreadThrow	724	410	alias	NightLord_SpreadThrow
+WindEnergy	725	355	alias	HowlingGaleStack
+StackOverTimeSkill	726	411	alias	CannonShooter_BFCannonBall
+ShadowAssault	729	414	alias	Shadower_ShadowAssault
+Unk188_492	730	415	alias	CreateEventMeso
+Unk188_494	731	416	alias	MesoRanger_MesoDizerX
+Unk216_516	1095	753	alias	CoronaBuffOverlap
+BlitzShield	732	417	alias	FifthAdvWarriorShield
+SplitShot	733	418	alias	SplitArrow
+FreudBlessing	734	419	exact	FreudBlessing
+OverloadMode	735	420	exact	OverloadMode
+SpotLight	736	425	alias	FifthSpotLight
+SylvidiaFlight	737	424	alias	OutSide
+MuscleMemory	738	427	alias	WeaponVariety
+WingsOfGlory	739	422	alias	LefGloryWing
+TrickBladeMobStat	740	428	alias	Shadower_Assassination
+Overdrive	741	429	alias	ConvertAD
+EtherealForm	742	430	exact	EtherealForm
+LastResort	743	431	alias	ReadyToDie
+CurseOfCreation	746	434	alias	BlackMageCreate
+CurseOfDestruction	747	435	alias	BlackMageDestroy
+BlackMageDebuff	748	436	alias	BlackMageMonochrome
+SpecterEnergy	762	451	alias	SpecterGauge
+SpecterState	763	452	alias	SpecterMode
+BasicCast	764	453	alias	SpellBullet_Plain
+ScarletCast	765	454	alias	SpellBullet_Scarlet
+GustCast	766	455	alias	SpellBullet_Gust
+AbyssalCast	767	456	alias	SpellBullet_Abyss
+ChargeSpellAmplifier	773	462	alias	LPSpellAmplification
+InfinitySpell	774	463	alias	LPInfinitySpell
+ConversionOverdrive	775	464	alias	LPMagicCircuitFullDrive
+AbyssalRecall	768	457	alias	GreatOldAbyss
+SixthPhoenix	770	459	exact	SixthPhoenix
+HolyAdvent	771	460	exact	HolyAdvent
+WillPoison	779	468	alias	BossWill_Infection
+Unk199_546	780	469	alias	PvpApcTeam
+HolyMagicShellCooltime	782	470	alias	HolyMagicShellReUse
+TridentStrike	783	471	alias	StrikerComboStack
+ComboInstinct	784	472	alias	HeroComboInstinct
+GaleBarrier	789	477	alias	WindBreakerStormGuard
+SwordOfLight	790	481	alias	MichaelSwordOfLight
+PMdReduce	797	493	alias	DecBaseDamageDebuff
+ForbidOpPotion	798	494	alias	LimitConsumeDebuff
+ForbidEquipChange	799	495	alias	LimitEquipStatDebuff
+TanadianRuin	800	496	alias	BlackMageWeaponDestruction
+AeonianRise	801	497	alias	BlackMageWeaponCreation
+BattlePvPLangEClaw	808	504	alias	BattlePvP_LangE_LiverStack
+BattlePvPMikeProtection	809	505	alias	BattlePvP_Mike_Amor
+ProtectiveShield	810	506	alias	SiphonVitalityBarrier
+AncientGuidance	811	507	alias	PathFinderAncientGuidance
+AT_Attributes	832	528	alias	AnimaThiefTaoistType
+AT_Energy	833	529	alias	AnimaThiefTaoistGauge
+AT_Clone	834	530	alias	AnimaThiefCloneAttack
+AT_HyperClone	835	531	alias	AnimaThiefFifthCloneAttack
+AT_ButterflyDream	836	532	alias	AnimaThiefButterfly
+LW_Ether	847	543	alias	LWSwordGauge
+LW_Creation	848	544	alias	LWCreation
+LW_Dike	849	545	alias	LWDike
+LW_Restore	850	546	alias	LWRestore
+LW_Nobility	851	547	alias	LefWarriorNobility
+RuneOfPurification	852	548	alias	RunePurification
+Unk214_624	853	549	alias	RuneContagion
+DuskDarkness	854	550	alias	DebuffHallucination
+HastyAura	855	551	alias	BMageAuraYellow
+DrainingAura	856	552	alias	BMageAuraDrain
+BlueAura	857	553	alias	BMageAuraBlue
+DarkAura	858	554	alias	BMageAuraDark
+WeakeningAura	859	555	alias	BMageAuraDebuff
+AuraScythe	860	556	alias	BMageAuraUnion
+IceAura	861	557	exact	IceAura
+ParashockGuard	862	558	alias	KnightsAura
+DivineForce	864	560	alias	ZeroAuraStr
+IncarnationAura	865	561	alias	NovaArcherIncanation
+WrathOfGods	866	564	alias	AnimaThiefMetaphysicsBuff
+Revenant	867	565	alias	RevenantGauge
+RevenantDamage	868	566	alias	DeathDance
+SilhouetteMirage	869	567	alias	ShadowShield
+BlizzardTempest	870	562	alias	AranComboTempestAura
+PhotonRay	871	563	alias	XenonBursterLaser
+AbyssalLightning	872	568	alias	BMageAbyssalLightning
+LightningSpearMultistrike	873	569	alias	StrikerThunderChain
+RoyalKnights	874	570	alias	MercedesRoyalKnight
+SalamanderMischief	876	572	alias	FWSalamanderMischiefAttack
+RepeatingCrossbowCartridge	877	573	alias	RepeatinCartrige
+CrystalGate	878	574	alias	LefMageCrystalGate
+ThrowBlasting	879	575	exact	ThrowBlasting
+SageThreePathsApparition	880	576	alias	AnimaThiefIllusion
+DarknessAura	881	577	exact	DarknessAura
+MuscleMemoryFinale	882	578	alias	WeaponVarietyFinale
+EgoWeaponAlpha	883	579	alias	ZeroEgoWeaponAlpha
+RelicUnbound	884	580	alias	RelicUnboundD
+AfterImageShock	885	581	alias	RWAfterImage
+Malice	886	582	alias	NADragonGauge
+Possession	887	583	alias	NADragonEnchant
+DeathBlessing	888	584	alias	NADeathBlessing
+ThanatosDescent	889	585	alias	NAThanatosDescent
+RemainIncense	891	587	alias	NARemainIncense
+MountainSeeds	913	611	alias	AMPlanting
+Unk228_691	915	613	alias	IgnoreFrictionOnOff
+NatureFriend	916	614	alias	AMLinkSkill
+DragonVeinTrace	917	615	alias	AMEVTeleport
+StormWhim	921	619	exact	StormWhim
+Holding	586	122	exact	Holding
+SerpentStone	922	621	exact	SerpentStone
+SerpentScrew	923	622	exact	SerpentScrew
+FlameSweep	925	624	exact	FlameSweep
+Cosmos	926	625	exact	Cosmos
+SixthAngelsRay	940	640	exact	SixthAngelsRay
+TranscendentLight	947	647	exact	TranscendentLight
+SixthAssassination	948	648	exact	SixthAssassination
+SixthCovertShadowBuff	950	649	exact	SixthCovertShadowBuff
+ArtificialEvolution	951	651	exact	ArtificialEvolution
+SixthFrozenLightning	952	652	exact	SixthFrozenLightning
+SacredBastion	997	703	exact	SacredBastion
+RenPlumSwordForm3Stack	1006	717	exact	RenPlumSwordForm3Stack
+RenPlumSwordForm3Shoot	1007	718	exact	RenPlumSwordForm3Shoot
+Sublimation	1008	720	exact	Sublimation
+RenPlumSwordEx	1010	722	exact	RenPlumSwordEx
+SpiritAwakening	1011	723	exact	SpiritAwakening
+SpiritAwakeningStack	1012	724	exact	SpiritAwakeningStack
+AuthenticDarkness	1013	725	exact	AuthenticDarkness
+MukHyunDivine	213	5	exact	MukHyunDivine
+MukHyun_SEON_PUNG_GAG	215	7	exact	MukHyun_SEON_PUNG_GAG
+MukHyun_HO_SIN_GANG_GI	217	9	exact	MukHyun_HO_SIN_GANG_GI
+HeroAuraBladeStack	785	473	exact	HeroAuraBladeStack
+HeroAuraBladeAdv	786	474	exact	HeroAuraBladeAdv
+HeroSongOfBlade	787	475	exact	HeroSongOfBlade
+CrusaderPanic	934	634	exact	CrusaderPanic
+FlashSlashStack	984	689	exact	FlashSlashStack
+RobotTransition	985	690	exact	RobotTransition
+GrandCross	494	478	exact	GrandCross
+ReincarnationMission	579	280	exact	ReincarnationMission
+ReincarnationOnOff	580	281	exact	ReincarnationOnOff
+HolyWater	936	636	exact	HolyWater
+EpicDungeonGauge	937	637	exact	EpicDungeonGauge
+EpicDungeonMiddleBossBarrier	938	638	exact	EpicDungeonMiddleBossBarrier
+TriumphFeather	939	639	exact	TriumphFeather
+HolyBlood	944	644	exact	HolyBlood
+ElementFlameBuff	597	295	exact	ElementFlameBuff
+OrbitalExplosion	945	645	exact	OrbitalExplosion
+FlameOrbMultiAttack	979	680	exact	FlameOrbMultiAttack
+EnhanceInfernalBreath	1000	707	exact	EnhanceInfernalBreath
+KeyDownEnable	844	540	exact	KeyDownEnable
+LefBuffMastery	487	75	exact	LefBuffMastery
+TempSecondaryStat	488	76	exact	TempSecondaryStat
+HarmonyLink	752	441	exact	HarmonyLink
+LefFastCharge	753	442	exact	LefFastCharge
+CrystalChargeBuffIcon	755	444	exact	CrystalChargeBuffIcon
+DslayerMetamorphosis	1003	710	exact	DslayerMetamorphosis
+Nightmare	993	699	exact	Nightmare
+RapidFire	995	701	exact	RapidFire
+IceAuraZone	935	635	exact	IceAuraZone
+SixthResonate	956	656	exact	SixthResonate
+SummonChakri	955	655	exact	SummonChakri
+KhaliUltimatum	788	476	exact	KhaliUltimatum
+DeceivingBlade	961	661	exact	DeceivingBlade
+Oblivion	744	432	exact	Oblivion
+LarknessStop	954	654	exact	LarknessStop
+ElementalKnight	953	653	exact	ElementalKnight
+EnhanceQuadrupleThrow	931	631	exact	EnhanceQuadrupleThrow
+EnhanceNightLordFourSeasons	957	657	exact	EnhanceNightLordFourSeasons
+DarknessShuriken	958	658	exact	DarknessShuriken
+SixthStormArrowEx	980	683	exact	SixthStormArrowEx
+ShadowAcceleration	959	659	exact	ShadowAcceleration
+PathFinderForceCompulsion	1015	662	exact	PathFinderForceCompulsion
+ShadowBurst	960	660	exact	ShadowBurst
+SixthAssassinationDarkSight	949	650	exact	SixthAssassinationDarkSight
+StrikerChainReaction	897	593	exact	StrikerChainReaction
+PhantomDefyingFate	875	571	exact	PhantomDefyingFate
+Joker	988	693	exact	Joker
+AdrenalinActivate	905	601	exact	AdrenalinActivate
+AdrenalinMaximum	989	694	exact	AdrenalinMaximum
+LPBattleMode	776	465	exact	LPBattleMode
+HitStackDamR	749	437	exact	HitStackDamR
+FifthGoddessBless	823	519	exact	FifthGoddessBless
+PinkbeanMatryoshka	825	521	exact	PinkbeanMatryoshka
+YetiCook	495	608	exact	YetiCook
+YetiFuryGauge	907	603	exact	YetiFuryGauge
+YetiFuryMode	908	604	exact	YetiFuryMode
+YetiMushroom	909	605	exact	YetiMushroom
+YetiMyFriendPepe	910	606	exact	YetiMyFriendPepe
+Siksin	1040	740	exact	Siksin
+FlashMirage	943	643	exact	FlashMirage
+GrandFinale	941	641	exact	GrandFinale
+WarInTheShade	942	642	exact	WarInTheShade
+EnhancePiercing	927	626	exact	EnhancePiercing
+EnhanceSniping	928	628	exact	EnhanceSniping
+UltimateSniping	929	629	exact	UltimateSniping
+UltimatePiercing	930	630	exact	UltimatePiercing
+BlasterFileBunker	1018	627	exact	BlasterFileBunker
+CannonShooter_MiniCannonBall	727	412	exact	CannonShooter_MiniCannonBall
+CannonShooter_RollingCannon	728	413	exact	CannonShooter_RollingCannon
+KarmaBlade	363	104	exact	KarmaBlade
+Mortality	362	103	exact	Mortality
+SixthJavelinStack	491	687	exact	SixthJavelinStack
+SixthGloryWingJavelinStack	492	695	exact	SixthGloryWingJavelinStack
+SixthCrystalStack	493	688	exact	SixthCrystalStack
+NAAnnihilation	890	586	exact	NAAnnihilation
+NABrutalPang	892	588	exact	NABrutalPang
+NALinkSkill	896	592	exact	NALinkSkill
+MarkingStella	1077	763	exact	MarkingStella
+RabbitStack	1078	764	exact	RabbitStack
+ShineMageStarlight	1079	769	exact	ShineMageStarlight
+ShineMageAppear	1080	767	exact	ShineMageAppear
+ConstelEagle	1081	766	exact	ConstelEagle
+ShineMageWitchHat	1082	768	exact	ShineMageWitchHat
+ConstelHornedWhelk	1083	765	exact	ConstelHornedWhelk
+ShineMageTrophy	1084	770	exact	ShineMageTrophy
+ShineMageShine	1085	771	exact	ShineMageShine
+ShineMageButterfly	1086	772	exact	ShineMageButterfly
+ShineMageWolf	1087	773	exact	ShineMageWolf
+ShineMageWolfHowling	1088	774	exact	ShineMageWolfHowling
+ShineMageCapella	1089	775	exact	ShineMageCapella
+ShineMageHourglass	1090	777	exact	ShineMageHourglass
+ShineMageCircleOfSaviour	1091	776	exact	ShineMageCircleOfSaviour
+TimeBomb	412	58	exact	TimeBomb
+AbsorptionWater	914	612	manual	AMAbsorption
+AbsorptionWind	914	612	manual	AMAbsorption
+AbsorptionSun	914	612	manual	AMAbsorption
+LamourCarte	987	692	manual	LamourCarte
+KinesisTeleport	918	616	manual	KinesisTeleport
+KinesisPsychicBoard	919	617	manual	KinesisPsychicBoard
+GlacialFury	1009	721	manual	GlacialFury
+ReleaseFrenzy	647	339	manual	ReleaseFrenzy
+Jaguar	383	135	manual	Jaguar
+SwayingBranch	1025	727	manual	SwayingBranch
+PredatorsLeap	1026	728	manual	PredatorsLeap
+WHOverbite	1027	729	manual	WHOverbite
+LuminousMemorize	502	211	manual	LuminousMemorize
+Anemoi	444	620	manual	Anemoi
+MitsuhideDebuff	1068	754	exact	MitsuhideDebuff
+IndieEventForSkill	86		manual	IndieEventForSkill
+MukhyunLinkSkill	219	11	manual	MukhyunLinkSkill
+Hekate	656	730	manual	Hekate
+HekateStyx	657	731	manual	HekateStyx
+IndieCalcDamageStat	88		exact	IndieCalcDamageStat
+IndieAutoChargeStack	90		exact	IndieAutoChargeStack
+ShineWarriorEternalGuardian	1092	778	manual	ShineWarriorEternalGuardian
+ShineWarriorPathOfFionn	1093	779	manual	ShineWarriorPathOfFionn
+ShineWarriorSixthSpearOfLugh	1094	780	manual	ShineWarriorSixthSpearOfLugh
+ShineHexaTreeOfStarlight	1097	781	manual	ShineHexaTreeOfStarlight
+Sneak	398	133	manual	Sneak
+ShineRuneAttack	670	350	manual	ShineRuneAttack

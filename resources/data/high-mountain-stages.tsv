@@ -1,0 +1,19 @@
+# High Mountain (HighMountainInstanceHelper): stages per mode, their map, kind and boss (0 none)
+mode	stage	fields	kind	boss	note
+normal	1	993242000	normal	0	
+normal	2	993242200	normal	0	
+normal	3	993242400	seal	9834391	Aspect of Pestilence
+normal	4	993242600	normal	0	
+normal	5	993242800	normal	0	
+normal	6	993243000	seal	9834396	Aspect of Blasphemy
+normal	7	993243200	normal	0	
+normal	8	993243400	normal	0	
+normal	9	993243600	seal	9834401	Aspect of Dread
+normal	10	993243800	final	9834406	Tynos
+story	1	993241100	normal	0	
+story	2	993241200	seal	9834366	Judgment of Pestilence
+story	3	993241300	normal	0	
+story	4	993241400	seal	9834370	Judgment of Blasphemy
+story	5	993241500	normal	0	
+story	6	993241600	seal	9834375	Judgment of Dread
+story	7	993241700	final	9834406	Tynos

@@ -1,0 +1,17 @@
+# Symbols and their areas, in progression order (Map.wz barrierArc/barrierAut, Quest.wz daily start NPCs). slot = the BodyPart the client equips it in; alias = older ids of the same symbol; level/town/force/dailyNpc/dailyMap empty = no area step for it yet (NewPlayerModule skips the row); coupon = the untradable coupon (mob and daily quest drop) that gives this symbol
+symbol	alias	slot	name	level	town	force	dailyNpc	dailyMap	coupon	note
+1712001	1712000	AFVanishinJourney	Vanishing Journey	200	450001000	30	3003104	450001000		Arcane Symbol: Vanishing Journey
+1712002		AFChuChu	Chu Chu Island	210	450002000	100	3003152	450002000		Arcane Symbol: Chu Chu Island
+1712003		AFLachelein	Lachelein	220	450003000	190	3003209	450003100		Arcane Symbol: Lachelein
+1712004		AFArcana	Arcana	225	450005000	280	3003322	450005000		Arcane Symbol: Arcana
+1712005		AFMorass	Morass	230	450006000	400	3003432	450006130		Arcane Symbol: Morass
+1712006		AFEsfera	Esfera	235	450007000	560	3003530	450007040		Arcane Symbol: Esfera
+1713000		AUSCernium	Cernium	260	410000500	30	3004540	410000500	2636137	Sacred Symbol: Cernium
+1713001		AUSArcs	Hotel Arcus	265	410003010	70	3005016	410003000	2636138	Sacred Symbol: Arcus
+1713002		AUSThird	Odium	270	410007000	130	3005532	410007000	2636320	Sacred Symbol: Odium
+1713003		AUSFourth	Shangri-La	275	410007020	230	3006163	410007020	2636321	Sacred Symbol: Shangri-La
+1713004		AUSFifth	Arteria	280	410007520	330	3006405	410007520	2636395	Sacred Symbol: Arteria
+1713005		AUSSixth	Carcion	285	410007600	430	3006551	410007600	2636553	Sacred Symbol: Carcion
+1714000		GSSTallahart	Tallahart	290	410013600	630	3006843	410013600	2638105	Grand Sacred Symbol: Tallahart
+1714001		GSSGeardock							2831353	Grand Sacred Symbol: Geardock
+1714002		GSSThird								

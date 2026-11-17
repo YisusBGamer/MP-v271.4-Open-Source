@@ -1,0 +1,6 @@
+# Hoblin King PQ (HoblinKingInstanceHelper): monsters spawned per stage, cycling through the list, and how many
+stage	mobs	count	note
+0		0	
+1	9300276,9300277,9300278	15	Hoblin Hector / Elite Hoblin / Elite Green Hoblin
+2	9300279	18	Combat Hoblin
+3	9300280	20	Ferocious Hoblin

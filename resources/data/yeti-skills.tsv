@@ -1,0 +1,47 @@
+# Yeti skills (Yeti.giveLevelSkills; Yeti learns by level, not SP). kind unlock = fixed at level 1 from level (Skill.wz 13500 / 13001 reqLev); scaling = a hidden half (damage x = level, Yeti Power passives) kept at the character level (max 300) from level
+skill	level	kind	note
+130010111	0	unlock	Master of Organization
+130010112	0	unlock	Yeti All Soft Now!
+135001000	0	unlock	Snack Dash
+135001003	0	unlock	Yeti Flight
+135003003	0	unlock	Yeti Flight
+135000021	0	unlock	Yeti Charisma
+135001005	30	unlock	Yeti Rage
+135001006	30	unlock	Yeti Smash
+135001007	30	unlock	Homemade Jetpack
+135003007	30	unlock	Homemade Jetpack
+135000022	30	unlock	Yeti Power
+135001008	30	unlock	Yeti Smarts: Book Toss
+135001015	45	unlock	Hey Pepe!
+135001011	60	unlock	Yeti Smarts: Bomb Disposal
+135001009	60	unlock	Yeti Master Chef
+135000010	80	unlock	Rage Enhancement: Super Jetpack
+135001010	80	unlock	Homemade Super Jetpack
+135001016	100	unlock	Yeti Smarts: Scientific Research
+135001013	120	unlock	Hero of El Nath
+135001012	130	unlock	Homemade Snowman
+135001019	140	unlock	Yeti Smarts: Violin Solo
+135000014	155	unlock	Rage Enhancement: Yeti Smash
+135001017	165	unlock	Spice Overload
+135001018	175	unlock	Rage Enhancement: Explosive Fists
+135001020	185	unlock	Rage Enhancement: Furious Roar
+135002023	200	unlock	Spirit of El Nath
+135002000	0	scaling	Snack Dash
+135001001	0	scaling	Snack Dash
+135001002	0	scaling	Snack Dash
+135001004	0	scaling	Yeti Flight
+135003004	0	scaling	Yeti Flight
+135002021	0	scaling	Yeti Charisma
+135002006	30	scaling	
+135002022	30	scaling	Yeti Power
+135002008	30	scaling	Yeti Smarts: Book Toss
+135002015	45	scaling	Hey Pepe!
+135002011	60	scaling	Yeti Smarts: Bomb Disposal
+135002016	100	scaling	Yeti Smarts: Scientific Research
+135002013	120	scaling	Hero of El Nath
+135002012	130	scaling	
+135002019	140	scaling	Yeti Smarts: Violin Solo
+135001014	155	scaling	Yeti Smash
+135002018	175	scaling	Rage Enhancement: Explosive Fists
+135002020	185	scaling	Rage Enhancement: Furious Roar
+135003023	200	scaling	Spirit of El Nath

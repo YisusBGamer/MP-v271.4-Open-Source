@@ -1,0 +1,5 @@
+# Quests that fill a record with hunting EXP (HuntExpRecords): while the quest is in progress, the EXP from each kill
+# is added to the record until it reaches the target (Quest.wz Check/1 infoNumber + infoex value, cond 1).
+quest	record	target	note
+23961	23980	50000	[Black Wings] I Am a Doll with No Feelings: the Energy Cartridge
+23968	23981	100000	[Black Wings] Muscat-2000's Thoughtfulness: the new heart

@@ -1,0 +1,41 @@
+# GMS boss waiting rooms (fieldType 421): the waiting room, the fight map (the instance's map from then on), the map
+# the party is sent to (an intro that moves on by itself, or the fight map), the fight clock (s), the name in the
+# entry question, and the maps where the fight's helper starts (empty: the fight map). ScriptManagerImpl.
+room	fight	go	clock	name	arrival	note
+211042500	280030000	280030000	1800	Zakum		Chaos
+262031400	262031300	262031300	1800	Hilla		
+271041500	271040100	271040100	1800	Cygnus		
+350160500	350160200	350160260	1800	Damien		
+350160600	350160100	350160160	1800	Damien		
+105201300	105200810	105200810	1200	Vellum		
+220080400	220080300	220080300	1800	Papulatus		
+270051400	270051100	270051100	1800	Pink Bean		
+450020600	450009400	450009400	1800	Gloom		
+450020700	450009450	450009450	1800	Chaos Gloom		
+# GMS sends these on through a short intro map (Lucid's excepted) whose direction scripts we don't have, so the party goes straight to the fight map, as the entry did before
+450020000	450003800	450003800	1800	Lucid		Easy (started by the Protective Mask NPC)
+450020100	450004100	450004100	1800	Lucid		
+450020200	450004400	450004400	1800	Lucid		
+450020300	450007850	450007800	1800	Will		Easy (intro: will_direction1)
+450020400	450008750	450008700	1800	Will		
+450020500	450008150	450008100	1800	Will		
+410030000	410002120	410002100	1800	Chosen Seren		Normal (intro: seren_direction1)
+410030100	410002020	410002000	1800	Chosen Seren		
+410030200	410002220	410002200	1800	Chosen Seren		
+# Kaling: the Four Seasons hub (season picker, KalingSeasonPick), then the chosen season's scene and Peril
+410030700	410008040	410008000	1800	Kaling	410008040,410008080,410008120	Easy
+410030800	410007140	410007100	1800	Kaling	410007140,410007180,410007220	
+410030900	410008340	410008300	1800	Kaling	410008340,410008380,410008420	
+410031000	410008640	410008600	1800	Kaling	410008640,410008680,410008720	
+410031500	410020100	410020000	1800	First Adversary		Easy (intro: adversary_1phase_direction)
+410031600	410021100	410021000	1800	First Adversary		
+410031700	410022100	410022000	1800	First Adversary		
+410031800	410023100	410023000	1800	First Adversary		
+410031100	410009100	410009000	1800	Limbo		Normal (intro: limbo_1phase_direction)
+410031200	410011100	410011000	1800	Limbo		
+450021000	450012210	450012210	1800	Darknell		Normal
+450021100	450012600	450012600	1800	Darknell		
+# Lotus (v265 maps): GMS goes on to the mode's intro map; the fight (and its helper, which plays the intro and moves on) is phase 1, base + 100
+350069600	350066100	350066000	1800	Lotus		Normal
+350069700	350067100	350067000	1800	Lotus		
+350069800	350068100	350068000	1800	Lotus		

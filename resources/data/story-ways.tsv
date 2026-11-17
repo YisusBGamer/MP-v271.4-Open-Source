@@ -1,0 +1,16 @@
+# Story maps no other map leads to (StoryWayModule): while a quest here can be started or is in progress, @next offers
+# the way there. start: the map of the NPC that starts it (0 = it starts on its own); doing: where it goes on once
+# started. First open row wins, so keep each chain in order.
+quest	start	doing	text
+39701	0	993120000	Aftermath: the Maple Alliance Outpost
+39712	993120000	993130000	Convergence: Neinheart at the Outpost
+39713	993130000	993130000	Convergence: Ereve
+39714	993130500	993130500	Convergence: Ereve Underground Prison
+39715	993131000	993131000	Convergence: Lachelein
+39716	993131500	993131500	Convergence: Lucid's Room
+39717	993132000	993132000	Convergence: Morass
+39718	993132500	993132500	Convergence: Morass
+39719	993133000	993133000	Convergence: Esfera
+39720	993133500	993133500	Convergence: Esfera
+39721	993134000	993134000	Convergence: Limina
+39722	993134500	993135000	Convergence: Limina

@@ -1,0 +1,6 @@
+# Express arrival kit (setting express_kit): given once when a character becomes Express. See ContentAccess.
+# Lines: item <id> <qty> [ifmissing] | quest <id> (completed, no rewards) | record <questId> <value>
+# The rest of what Express opens is a rule, not an item: bosses, the boss window and Monster Park without their story
+# quests, and the Arcane River / Grandis stories skipped on reaching each area (@story keeps one).
+# map travel: Hyper Teleport Rock (new characters already get one; this covers characters that lost or sold it)
+item	5040004	1	ifmissing
