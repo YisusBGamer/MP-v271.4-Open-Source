@@ -1,0 +1,13 @@
+# Erel Light story: [Erel Light] Helia and the Star Creator, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(36)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/302', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201753)
+sm.sendSay('#face0#Back at the base, I can use visual aids to explain. So, shall we?')
+sm.setInnerOverrideSpeakerTemplateID(9201752)
+sm.sendSay('#face4#...')
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/303', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201753)
+sm.sendSay("#face0#Let's talk in the #bTres Archives#k. I can show you what we've found, and no one can overhear us.")

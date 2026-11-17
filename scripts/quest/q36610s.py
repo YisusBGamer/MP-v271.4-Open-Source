@@ -1,0 +1,17 @@
+# 36610 Going Out 1 (Atan 1541202, Lv 18): Father goes away to find a way to awaken the Knight of Light.
+execfile("scripts/quest/_mihile_story.py")
+
+say(ATAN, "Mihile, come here for a moment.")
+me("Of course, Father.")
+say(ATAN, "I have to go away for a while.")
+me("Again?")
+me("...I suppose you still can't tell me where, hmm?")
+me("Is it because of what happened yesterday? Because I didn't listen?")
+say(ATAN, "Haha, no, it's not that, Mihile. It's... simply time.", 1)
+say(ATAN, "Don't be sad. This is all for you.")
+me("What do you mean?")
+say(ATAN, "I'm going to find a way to help you awaken as the Knight of Light.")
+say(ATAN, "For now, keep your head clear and stick to your training.")
+say(ATAN, "...Do you trust me?")
+finish(parentID)
+sm.dispose()

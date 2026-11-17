@@ -1,0 +1,11 @@
+# Erel Light story: [Erel Light] Black Shadow Search, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(45)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/441', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext("#face5##fc0xFFbfbfbf#(It's just as I expected. And more...the dark energy feels stronger than what we found around Duo.)")
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/442', 100)
+sm.sendSay("#face5##fc0xFFbfbfbf#(I'll have Levy send this on to Archon. Meanwhile, I'll head to the #bhead captain's office#fc0xFFbfbfbf# directly.)#k")
+sm.warp(693007127, 0)

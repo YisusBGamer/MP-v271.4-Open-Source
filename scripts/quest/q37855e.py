@@ -1,0 +1,15 @@
+# 37855 [Esfera] Distorted Erda (end)
+OLLIE = 3003500
+
+sm.setSpeakerID(OLLIE)
+sm.setBoxChat()
+sm.sendNext("#face0#Take a look at this. It definitely doesn't belong here.")
+sm.setBoxChat()
+sm.flipBoxChat()
+sm.flipBoxChatPlayerAsSpeaker()
+sm.sendNext("(Could this be the work of Tana's power? But how do we...)")
+sm.setSpeakerID(OLLIE)
+sm.setBoxChat()
+sm.sendNext("#face1#Hmm... So now what? I never understand a thing Melange tells us...")
+sm.sendNext("#face0#Oh! There's something else written on the note.")
+sm.completeQuest(parentID)

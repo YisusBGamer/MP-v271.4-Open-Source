@@ -1,0 +1,15 @@
+# 36960 Aran, the Polearm Warrior (end): 1st job advancement, Aran
+sm.setSpeakerID(1201002)
+if chr.getJob() != 2000:
+    sm.sendSayOkay("Your heart is already with the polearm.")
+    sm.dispose()
+sm.sendNext("Hmm... Yes, I recognize this heart. It is you, hero. Your memories are coming back, and so is your strength.")
+sm.jobAdvance(2100)
+sm.setSTR(4)
+sm.setINT(4)
+sm.setDEX(4)
+sm.setLUK(4)
+sm.setAP(4 + chr.getLevel() * 5)
+sm.completeQuest(parentID)
+sm.sendSayOkay("You are an #bAran#k again. Swing the polearm with pride.")
+sm.dispose()

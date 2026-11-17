@@ -1,0 +1,43 @@
+# Copy this file to server.properties to change these settings. Without it the defaults below are used.
+
+# true: logging in, making an account and changing a password through the web API only work over https://
+# (or from this PC). Set it to false if you host without HTTPS. Passwords are then sent unencrypted.
+web.requireHttps=true
+
+# true: players on your own network (192.168.x.x and the like) can log in over plain http:// either way.
+web.allowHttpFromLan=true
+
+# true only when nginx or Cloudflare Tunnel on this PC forwards the web API: requests from this PC then count as the
+# address the proxy added to X-Forwarded-For (for the login limits). Off, every request counts as where it came from.
+web.trustForwardedFor=false
+
+# Game data folder: the binary .wz files, or an XML export with one folder per .wz (Map.wz\Map\Map0\...img.xml).
+# Use forward slashes or doubled backslashes. Default: the wz folder next to the server.
+#data.wzDir=C:/MapleStory271/wz
+
+# Ports (defaults 8484 / 8483 / 3000). Channels use loginPort + 100 * world + channel.
+#net.loginPort=8484
+#net.clientApiPort=8483
+#net.webApiPort=3000
+
+# Where the .dat caches built from that data go. Default: the dat folder next to the server.
+# Delete the folder (or point at a new one) whenever the game data changes version.
+#data.datDir=dat
+
+# Where the launcher downloads the client hook (plus.dll): a direct-download https link and the file's SHA-256.
+# The launcher only loads a download whose hash matches. The defaults point at the official plus.dll; set these
+# only to host your own copy.
+#client.hookUrl=
+#client.hookSha256=
+
+# Database backups (defaults in resources/server.defaults.properties): every 6 hours, the newest 28 of each kind kept,
+# plus one before new migrations run. Set the folder or mysqldump's location if the defaults don't fit.
+#db.backup.hours=6
+#db.backup.keep=28
+#db.backup.dir=D:/ServerBackups
+#db.backup.mysqldump=C:/Program Files/MySQL/MySQL Server 8.0/bin
+
+# New accounts: false closes sign-ups from the launcher and the web API. How many accounts one address may make per
+# hour (0 = no limit).
+#web.registration=true
+#web.accountsPerHour=3

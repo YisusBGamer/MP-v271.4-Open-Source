@@ -1,0 +1,6 @@
+# Jett tutorial | 552000020 Space Station Hectare 2: the way to the ship (portal enter, at the far left)
+sm.lockInGameUI(True, False)
+sm.setPlayerAsSpeaker()
+sm.removeEscapeButton()
+sm.sendNext("(Burke's already at the ship. I'd better hurry.)")
+sm.lockInGameUI(False)

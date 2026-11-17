@@ -1,0 +1,18 @@
+# Erel Light story: [Erel Light] Into Verne Mine (talk), as GMS.
+from net.swordie.ms.connection.packet.field import ScenePacket
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/901', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext("#face4#H-Hello. I'm a new B-Black Wings researcher. I was ordered to report to the, uh, dimensional travel lab. What can I help with?")
+sm.setParam(36)
+sm.setInnerOverrideSpeakerTemplateID(2154008)
+sm.sendSay("#face0#Hmph. Another newbie. Well, don't ask me, I'm just an intern, I mostly get coffee.")
+sm.sendSay("#face0#All the dimensional travel research is handled by the lead researcher, Allen. You'll have to talk to him in #bSecond Square#k.")
+sm.setParam(44)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendSay('#face5##fc0xFFbfbfbf#(The lead researcher... I should head further in.)')
+sm.getChr().write(ScenePacket.navigationToNpc(310060000, 2154010))
+sm.warp(310060000, 0)

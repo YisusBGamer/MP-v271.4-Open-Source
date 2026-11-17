@@ -1,0 +1,60 @@
+package net.swordie.ms.life.movement;
+
+import net.swordie.ms.client.character.Char;
+import net.swordie.ms.connection.InPacket;
+import net.swordie.ms.connection.OutPacket;
+import net.swordie.ms.life.Life;
+import net.swordie.ms.util.Position;
+
+/**
+ * @author Sjonnie
+ * Created on 8/27/2018.
+ */
+public class MovementOffsetX extends MovementBase {
+
+    public MovementOffsetX(InPacket inPacket, byte command) {
+        super();
+        this.command = command;
+
+        short x = inPacket.decodeShort();
+        short y = inPacket.decodeShort();
+        position = new Position(x, y);
+
+        short xv = inPacket.decodeShort();
+        short yv = inPacket.decodeShort();
+        vPosition = new Position(xv, yv);
+
+        offset = new Position(inPacket.decodeShort(), 0);
+
+        moveAction = inPacket.decodeByte();
+        elapse = inPacket.decodeShort();
+        forcedStop = inPacket.decodeByte();
+        tailByte = inPacket.decodeByte(); // v271: a fifth tail byte (client 0x140dce130, element +0x74)
+    }
+
+    @Override
+    public void encode(OutPacket outPacket) {
+        outPacket.encodeByte(getCommand());
+
+        outPacket.encodePosition(getPosition());
+        outPacket.encodePosition(getVPosition());
+
+        outPacket.encodeShort(getOffset().getX());
+
+        outPacket.encodeByte(getMoveAction());
+        outPacket.encodeShort(getElapse());
+        outPacket.encodeByte(getForcedStop());
+        outPacket.encodeByte(tailByte);
+    }
+
+    @Override
+    public void applyTo(Char chr) {
+        chr.setPosition(getPosition());
+    }
+
+    @Override
+    public void applyTo(Life life) {
+        life.setPosition(getPosition());
+        life.setvPosition(getVPosition());
+    }
+}

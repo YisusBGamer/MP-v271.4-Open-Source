@@ -1,0 +1,11 @@
+# Erel Light story: [Erel Light] The Reunion, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/978', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext('#face7#Archon must be there.')
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/979', 100)
+sm.sendSay("#face7#Onward, to Light's Repose.")
+sm.warp(693007162, 0)

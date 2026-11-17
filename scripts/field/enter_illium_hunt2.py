@@ -1,0 +1,20 @@
+# id 940203000 (null), field 940203000
+sm.lockInGameUI(False, True)
+sm.lockInGameUI(True, False)
+sm.setSpeakerType(3)
+sm.setParam(37)
+sm.setColor(1)
+sm.setInnerOverrideSpeakerTemplateID(3001350) # Illium
+sm.sendNext("#face0#Look over there!")
+sm.sendSay("#face0#Wow, that's a lot of pincushions...")
+sm.setInnerOverrideSpeakerTemplateID(3001300) # Ex
+sm.sendSay("#face0#It's the perfect opportunity to obtain the parts you require.")
+sm.sendSay("#face0#As the hedgehogs fall apart, they'll drop parts. Collect what they've already dropped by pressing the #rZ key#k.")
+sm.progressMessageFont(3, 20, 20, 0, "Use the Z key to pick up the items.")
+sm.moveCamera(True, 0, 0, 0)
+sm.avatarOriented("UI/tutorial.img/illium/pickup")
+sm.lockInGameUI(False, True)
+sm.playSound("DarkParty/scream3", 100)
+sm.createQuestWithQRValue(16025, "MultiKC=1")
+sm.playSound("DarkParty/scream4", 100)
+sm.playSound("DarkParty/scream3", 100)

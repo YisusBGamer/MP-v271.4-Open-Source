@@ -1,0 +1,11 @@
+# Erel Light story: [Erel Light] Archon and the Argent Guard, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(37)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/55', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201769)
+sm.sendNext("#face1#Hey, relax. It's over now. Take this.")
+sm.giveItem(2000059, 100)
+sm.startQuestNoCheck(61697)
+sm.avatarOrientedRepeat('UI/tutorial.img/Erel/consume', 5000)

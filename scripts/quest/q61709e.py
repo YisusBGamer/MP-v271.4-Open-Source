@@ -1,0 +1,11 @@
+# Erel Light story: [Erel Light] A Change in Tone, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/570', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext('#face9##fc0xFFbfbfbf#(That was not the Archon that I know.)')
+sm.completeQuestNoRewards(61709)
+sm.addLevel(1)
+sm.setQRValue(61745, '216=h0;217=h0;219=h0;316=h0;317=h0;22=h1;16=h0;416=h0;417=h0;19=h0;516=h0;616=h0;116=h0;117=h0;119=h0', True)

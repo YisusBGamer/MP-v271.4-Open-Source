@@ -1,0 +1,13 @@
+# Erel Light story: [Erel Light] Journey for the Future, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(45)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1144', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext('#face5##fc0xFFbfbfbf#(Listening to Marvin, there are many threats and troubles every day on Maple World.)')
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1145', 100)
+sm.sendSay("#face5##fc0xFFbfbfbf#(Yes... I'm going to adventure across the wider world. To the places that need my help!)")
+sm.giveSkill(180011000, 1, 1)
+sm.completeQuestNoRewards(61724)
+sm.addLevel(1)

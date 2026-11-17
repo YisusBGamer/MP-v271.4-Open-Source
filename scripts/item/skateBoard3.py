@@ -1,0 +1,11 @@
+# Item 2432999's Item.wz script name is "skateBoard3", so this file runs when it is used.
+# Junior Board Mount  |  (2432999)
+if sm.getSkillByItem() == 0:# Check whether item has an vehicleID stored,  0 if false.
+    sm.chat("An Error occurred whilst trying to find the mount.")
+elif sm.hasSkill(sm.getSkillByItem()):
+    sm.chat("You already have the 'Junior Board' mount.")
+else:
+    sm.consumeItem()
+    sm.giveSkill(sm.getSkillByItem())
+    sm.chat("Successfully added the 'Junior Board' mount.")
+sm.dispose()

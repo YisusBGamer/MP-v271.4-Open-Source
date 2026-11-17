@@ -1,0 +1,13 @@
+# Erel Light story: [Erel Light] Stories of Shadows, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/545', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext('#face5##fc0xFFbfbfbf#(Maybe that #rvoice #fc0xFFbfbfbf#that called me is related to the #rdark being #fc0xFFbfbfbf#that threatened Hielo in the distant past.)#k')
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/546', 100)
+sm.sendSay("#face0##fc0xFFbfbfbf#(Well, I just got an unexpected clue, and it's a big one. Thank you, Era.)")
+sm.completeQuestNoRewards(61708)
+sm.addLevel(1)
+sm.setQRValue(61745, '216=h0;217=h0;219=h0;316=h0;317=h0;22=h1;16=h0;416=h0;417=h1;19=h0;516=h0;616=h0;116=h0;117=h0;119=h0', True)

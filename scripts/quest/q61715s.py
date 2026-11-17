@@ -1,0 +1,10 @@
+# Erel Light story: [Erel Light] The Power of the Lost Star, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/788', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext('#face7#I can feel a great darkness in the Argent Guard base.')
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/789', 100)
+sm.sendSay('#face7##fc0xFFbfbfbf#(Where could Archon be... )')

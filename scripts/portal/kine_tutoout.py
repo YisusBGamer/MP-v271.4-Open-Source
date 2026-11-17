@@ -1,0 +1,11 @@
+# id 2 (go_ajit), field 331001130
+sm.lockInGameUI(True, False)
+sm.playSound("Sound/Field.img/masteryBook/EnchantSuccess", 100)
+sm.createQuestWithQRValue(22700, "V01=1;V02=1;kinetuto=1;kinetuto2=1;E1=1;E2=1;E3=1")
+sm.sendDelay(2500)
+sm.playExclSoundWithDownBGM("Voice3.img/Kinesis/guide_08", 100)
+sm.lockInGameUI(False, True)
+sm.completeQuestNoCheck(22711)
+sm.completeQuestNoCheck(22714)
+sm.startQuest(22715)
+sm.warp(331001000)

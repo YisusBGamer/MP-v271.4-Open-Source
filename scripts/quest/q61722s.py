@@ -1,0 +1,17 @@
+# Erel Light story: [Erel Light] Helia's Light, Restored, as GMS.
+from net.swordie.ms.connection.packet.field import ScenePacket
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1024', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext("#face9##fc0xFFbfbfbf#(First, I should check on everyone in Katanos to make sure that they've all returned safely.)")
+sm.setQRValue(61745, '216=h0;217=h0;219=h0;316=h0;317=h0;22=h1;319=h0;16=h1;416=h0;417=h0;19=h0;419=h0;516=h0;517=h0;616=h0;116=h0;117=h0;119=h1', True)
+sm.setQRValue(61745, '216=h0;217=h0;219=h0;316=h0;317=h0;22=h1;319=h0;16=h1;17=h1;416=h0;417=h0;19=h0;419=h0;516=h0;517=h0;616=h0;116=h0;117=h0;119=h1', True)
+sm.setQRValue(61744, '218=h0;03=h0;21=h1;13=h0;22=h0;32=h0;25=h1;18=h1;46=h0;63=h1;80=h1;113=h0;122=h1;118=h0', True)
+sm.setQRValue(61745, '216=h0;217=h0;219=h0;316=h0;317=h0;22=h1;319=h0;16=h1;17=h1;416=h0;417=h0;19=h1;419=h0;516=h0;517=h0;616=h0;116=h0;117=h0;119=h1', True)
+sm.setQRValue(61744, '218=h0;03=h0;20=h1;21=h1;13=h0;22=h0;32=h0;25=h1;18=h1;46=h0;63=h1;80=h1;113=h0;122=h1;118=h0', True)
+sm.startQuestNoCheck(61722)
+sm.getChr().write(ScenePacket.navigationToNpc(693007002, 9201724))
+sm.warp(693007002, 0)

@@ -1,0 +1,38 @@
+# 37852 [Esfera] A Suspicious Door (start)
+OLLIE = 3003500
+SHUBERT = 3003502
+MELANGE = 3003501
+
+sm.setSpeakerID(OLLIE)
+sm.setBoxChat()
+sm.sendNext("#face0#Oh! #h0#! There you are. Look, there's a strange light coming out of that door.")
+sm.sendNext("#face0#Can you feel it? Could it really be the power of a #bTranscendent#k, like Melange said?")
+sm.setBoxChat()
+sm.flipBoxChat()
+sm.flipBoxChatPlayerAsSpeaker()
+sm.sendNext("Hmm... I'm not sure, but I have a hunch.")
+sm.sendNext("(The Alliance doesn't know what happened here, so you briefly explain the recent events.)")
+sm.setSpeakerID(OLLIE)
+sm.setBoxChat()
+sm.sendNext("#face1#Huh. That girl, Tana... You think she's...?")
+sm.setSpeakerID(SHUBERT)
+sm.setBoxChat()
+sm.sendNext("#face0#Let's worry about that later, okay?")
+sm.sendNext("#face0#Right now we need a way through this door. It's sealed tight. Good thing I've got explosives...")
+sm.setSpeakerID(MELANGE)
+sm.setBoxChat()
+sm.sendNext("#face0#That'd be too loud. Why don't we use the #bkey#k?")
+sm.setBoxChat()
+sm.flipBoxChat()
+sm.flipBoxChatPlayerAsSpeaker()
+sm.sendNext("You have a key?")
+sm.setSpeakerID(MELANGE)
+sm.setBoxChat()
+sm.sendNext("#face0#Don't you feel it? You're the key.")
+if sm.sendAskYesNo("#face0#Come on, step up. Don't be shy.\r\n\r\n#b(If you accept, you will open the door.)#k"):
+    sm.startQuest(parentID)
+    sm.completeQuest(parentID)
+    sm.createQuestWithQRValue(34560, "40=h0;41=h1;77=h0;78=h0")
+    sm.warp(450007000)
+else:
+    sm.sendNext("#face0#What are you waiting for?")

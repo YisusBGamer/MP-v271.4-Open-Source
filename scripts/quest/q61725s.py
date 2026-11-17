@@ -1,0 +1,17 @@
+# Erel Light story: [Erel Light] To Maple World, as GMS.
+from net.swordie.ms.connection.packet.field import ScenePacket
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(45)
+sm.setColor(1)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext("#face0#I still don't know much about Maple World, Marvin. Where would you suggest I get started?")
+sm.setParam(37)
+sm.setInnerOverrideSpeakerTemplateID(9402182)
+sm.sendSay('#face0#I think #bHenesys#k would be a good first stop. There is a prominent leader of adventurers there... #bAthena Pierce#k, the Elf Archer.')
+sm.sendSay('#face0#She is famous as a guide, providing information about Maple World to those who are new to adventuring, or simply require a bit of guidance.')
+sm.setParam(45)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendSay('#face1#Very well. I will go to Henesys and meet with Athena Pierce.')
+sm.startQuestNoCheck(61725)
+sm.getChr().write(ScenePacket.navigationToNpc(100000201, 1012100))

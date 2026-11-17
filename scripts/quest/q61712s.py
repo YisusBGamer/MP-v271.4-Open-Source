@@ -1,0 +1,12 @@
+# Erel Light story: [Erel Light] Unimaginable Threat, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(36)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/636', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201755)
+sm.sendNext('#face0#Captain!')
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/637', 100)
+sm.sendSay('#face0#Hurry, Captain!')
+sm.setQRValue(61745, '216=h0;217=h0;219=h0;316=h0;317=h0;22=h1;319=h0;16=h0;416=h0;417=h0;19=h0;419=h1;516=h0;517=h1;616=h0;116=h0;117=h0;119=h1', True)
+sm.warp(693007137, 0)

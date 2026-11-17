@@ -1,0 +1,11 @@
+# Portal script pt_867201820.
+# Destinations come from the game's map data (the portal's own target, the portal on the other side that
+# leads here, or the room's exit to its town).
+DEST = {
+    (867201800, 2): (867201820, 0),  # Abrup Basin / Cabin Front Porch -> Abrup Basin / Windsleep Forest Treetops (map id in script name)
+}
+
+dest = DEST.get((sm.getFieldID(), parentID))
+if dest is not None:
+    sm.warp(dest[0], dest[1])
+sm.dispose()

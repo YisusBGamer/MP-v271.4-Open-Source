@@ -1,0 +1,7 @@
+# Portal script q34344_f2_pt00
+# Map 993072920 portal 1 (pt00)
+# Map 993216309 portal 1 (pt00)
+# The client requests this script but Map.wz gives the portal no target (tm):
+# the original script decided the destination itself and its body is not in the data.
+# Documented no-op: warping anywhere would be invented.
+sm.dispose()

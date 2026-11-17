@@ -1,0 +1,15 @@
+# Erel Light story: [Erel Light] As Time Goes By, as GMS.
+from net.swordie.ms.connection.packet.field import ScenePacket
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(45)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1109', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext("#face0##fc0xFFbfbfbf#(I'm glad to see Henna is so happy now.)")
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1110', 100)
+sm.sendSay("#face5##fc0xFFbfbfbf#(Don't worry, Lennie... I'll bring you back myself.)")
+sm.completeQuestNoRewards(61723)
+sm.setQRValue(61744, '218=h0;03=h0;20=h0;21=h1;13=h0;22=h0;32=h0;25=h1;18=h1;46=h0;63=h1;80=h1;113=h0;122=h1;118=h0', True)
+sm.setQRValue(61744, '218=h0;03=h0;20=h0;21=h1;13=h0;22=h0;32=h0;25=h1;18=h1;46=h0;63=h1;80=h1;65=h1;113=h0;122=h1;118=h0', True)
+sm.getChr().write(ScenePacket.navigationToNpc(693007001, 9201831))

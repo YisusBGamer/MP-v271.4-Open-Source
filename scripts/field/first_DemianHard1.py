@@ -1,0 +1,25 @@
+from net.swordie.ms.connection.packet.field import DemianFieldPacket
+from net.swordie.ms.connection.packet.field import FieldPacket
+from net.swordie.ms.constants import BossConstants
+from net.swordie.ms.life.mob.boss.demian import Demian
+from net.swordie.ms.life.mob.boss.demian.sword import DemianFlyingSword
+
+# only inside the boss instance (a visit without one, e.g. the script probe, has nothing to set up)
+if sm.getChr() is not None and sm.getChr().getInstance() is not None:
+    field = chr.getField()
+    instance = chr.getInstance()
+    init = instance.initialised
+    if not init:
+        instance.initialised = True
+        mob = sm.spawnMob(BossConstants.DEMIAN_HARD_TEMPLATE_ID_1, 1073, 16, False, BossConstants.DEMIAN_HP_HARD_1)
+        sm.addEvent(Demian.stigmaIncinerateObjectTimer(field))  # start Pillar
+
+        sword = DemianFlyingSword.createDemianFlyingSword(chr, mob)
+        field.spawnLife(sword, None)  # create
+        sword.startPath()
+        sword.target()
+
+        for iChr in instance.getChars():
+            iSM = iChr.getScriptManager()
+            iChr.write(FieldPacket.updateTemporarySkillBar(BossConstants.BRAND_OF_SACRIFICE))
+            iChr.write(DemianFieldPacket.corruptionChange(False, 0))  # show the Crystal window (DemianInstanceHelper gives the Brand stacks)

@@ -1,0 +1,13 @@
+# Erel Light story: [Erel Light] The Important Questions, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/571', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext("#face5#Archon, there was something that I couldn't report during the meeting. Do you have a moment?")
+sm.setParam(36)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/572', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201750)
+sm.sendSay('#face5#Erel... *sigh* Alright. Follow me.')
+sm.warp(693007134, 0)

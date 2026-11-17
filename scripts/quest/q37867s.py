@@ -1,0 +1,26 @@
+# 37867 [Esfera] The Trap (start)
+MASKED_WARRIOR = 3003505
+
+sm.setSpeakerID(MASKED_WARRIOR)
+sm.setBoxChat()
+sm.sendNext("#face0#...")
+sm.setBoxChat()
+sm.flipBoxChat()
+sm.flipBoxChatPlayerAsSpeaker()
+sm.sendNext("Oh... You're the one who fought Will in Tana's memory...")
+sm.setSpeakerID(MASKED_WARRIOR)
+sm.setBoxChat()
+sm.sendNext("#face0#...You can still fight, can't you?")
+sm.setBoxChat()
+sm.flipBoxChat()
+sm.flipBoxChatPlayerAsSpeaker()
+sm.sendNext("You saved me...?")
+sm.setSpeakerID(MASKED_WARRIOR)
+sm.setBoxChat()
+if sm.sendAskYesNo("#face0#Answer the question.\r\n\r\n#b(If you accept, you will be moved to Base Camp.)#k"):
+    sm.startQuest(parentID)
+    sm.completeQuest(parentID)
+    sm.createQuestWithQRValue(34560, "30=h0;31=h0;32=h1;33=h1;40=h0;41=h0;42=h0;44=h0;45=h0;46=h0;47=h0;48=h0;49=h0;50=h0;51=h0;52=h0;53=h0;54=h0;55=h1;77=h0;78=h0;79=h0;80=h0")
+    sm.warp(450007040)
+else:
+    sm.sendNext("#face0#...")

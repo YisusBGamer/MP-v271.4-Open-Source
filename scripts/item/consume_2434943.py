@@ -1,0 +1,46 @@
+# Victoria Monsterbloom (2434943): one random monster from Victoria Island.
+# Like the real item, you can get a monster you already have (the item is used up either way).
+from net.swordie.ms.loaders import MonsterCollectionData, StringData
+
+MOBS = [
+    130100, 210100, 1110100, 1110101, 1130100, 1140100, 1140130, 1210101, 1210102, 1210103, 1210104, 1210111,
+    2110200, 2130100, 2130103, 2220100, 2220110, 2230100, 2230101, 2230102, 2230110, 2230111, 2230113,
+    2230115, 2230131, 2300100, 2300201, 2300202, 2300203, 2300204, 2300205, 2300206, 2300260, 2300261,
+    2300262, 2300263, 2300264, 2300265, 2300266, 2300267, 2300268, 3000001, 3000007, 3110100, 3210100,
+    3220000, 3230100, 3230101, 3300008, 3300100, 3300101, 3300102, 3300103, 3300104, 3300105, 3300106,
+    3300107, 3300108, 3300109, 3300110, 3401000, 3401001, 3401002, 3401003, 3401004, 3401005, 3401006,
+    3401007, 3401008, 3401009, 3401010, 3401011, 3501000, 3501001, 3501002, 3501003, 3501004, 3501005,
+    3501006, 3501007, 3501008, 3501009, 3501100, 3501101, 3501102, 3501103, 3501104, 3501105, 3501106,
+    3501107, 3501108, 3501109, 3503002, 3503003, 3503004, 3503005, 3503006, 3503007, 3503008, 3503009,
+    3503010, 3503012, 4130100, 4230100, 4230102, 4230103, 4230125, 4230400, 4300011, 4300012, 4310000,
+    4310001, 4310002, 4310004, 4310005, 4310006, 4310007, 4310008, 4310009, 4310010, 4310011, 4310012,
+    4310013, 4310014, 4310015, 4310017, 4310018, 4310019, 4310020, 4310021, 5090000, 5130100, 5130101,
+    5130102, 5130103, 5150001, 5150002, 5150003, 6130100, 6130101, 6220000, 6230100, 6230600, 6230601,
+    6230602, 6300005, 7120110, 7120111, 7120112, 7120113, 7130100, 7130101, 7130103, 8130100, 8148000,
+    8148001, 8148003, 8148004, 8148006, 8148007, 8148008, 8148009, 8148010, 8148011, 8148012, 8220007,
+    8830000, 8880100, 8900000, 8900100, 8910000, 8910100, 8920000, 8920100, 8930000, 8930100, 9100049,
+    9300471, 9300655, 9300680, 9500150
+]
+
+def pick():
+    # a random monster the server's Monster Collection data knows (a few tries, in case one is missing)
+    for _ in range(30):
+        mob = MOBS[sm.getRandomIntBelow(len(MOBS))]
+        if MonsterCollectionData.getMobInfoByID(mob) is not None:
+            return mob
+    return None
+
+collection = chr.getAccount().getMonsterCollection()
+mob = pick()
+if mob is None:
+    sm.sendSayOkay("Nothing could be added to your Monster Collection right now.")
+else:
+    name = StringData.getMobStringById(mob) or "a monster"
+    if collection.hasMob(mob):
+        sm.consumeItem()
+        sm.chat("You got " + name + ", but it's already in your Monster Collection.")
+    else:
+        collection.addMobAndUpdateClient(mob, chr)
+        sm.consumeItem()
+        sm.chat(name + " was added to your Monster Collection!")
+sm.dispose()

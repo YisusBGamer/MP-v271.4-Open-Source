@@ -1,0 +1,12 @@
+# Portal script PLShura_Prev
+# Map 874000210 portal 1 (west00)
+# Map 874000310 portal 1 (west00)
+# Map 874000400 portal 3 (west00)
+# Map 874000500 portal 3 (west00)
+# Map 874000610 portal 2 (west00)
+# Map 874000700 portal 3 (west00)
+# Map 874000710 portal 2 (west00)
+# The client requests this script but Map.wz gives the portal no target (tm):
+# the original script decided the destination itself and its body is not in the data.
+# Documented no-op: warping anywhere would be invented.
+sm.dispose()

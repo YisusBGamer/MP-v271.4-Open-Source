@@ -1,0 +1,35 @@
+# 37855 [Esfera] Distorted Erda (start)
+MELANGE = 3003501
+OLLIE = 3003500
+SHUBERT = 3003502
+
+sm.setBoxChat()
+sm.flipBoxChat()
+sm.flipBoxChatPlayerAsSpeaker()
+sm.sendNext("See for myself, you said?")
+sm.setSpeakerID(MELANGE)
+sm.setBoxChat()
+sm.sendNext("#face0#*Yawn*... I mean the #bErda#k.")
+sm.sendNext("#face0#There's distorted Erda nearby. It might help you understand.")
+sm.setBoxChat()
+sm.flipBoxChat()
+sm.flipBoxChatPlayerAsSpeaker()
+sm.sendNext("(Distorted Erda... Could it be Tana?)")
+sm.setSpeakerID(MELANGE)
+sm.setBoxChat()
+sm.sendNext("#face0#Here, I wrote down the directions.")
+sm.setSpeakerID(OLLIE)
+sm.setBoxChat()
+sm.sendNext("#face0#(Melange hands Ollie a scrap of paper.)")
+sm.sendNext("#face0#Hmm... To the right. I think #bLiving Spring 5#k is that way.")
+sm.sendNext("#face0#I'll take the lead. I don't know what this is about, but it beats standing around here.")
+sm.setSpeakerID(SHUBERT)
+sm.setBoxChat()
+sm.sendNext("#face0#Go on, kid. I'll get our comms back up. And tell me if anything needs blowing up!")
+sm.setSpeakerID(OLLIE)
+sm.setBoxChat()
+if sm.sendAskYesNo("#face0#Ready? I'll scout ahead and make sure we don't run into trouble!"):
+    sm.startQuest(parentID)
+    sm.createQuestWithQRValue(34560, "30=h0;31=h1;32=h1;40=h0;41=h0;42=h0;44=h1;77=h0;78=h0;79=h1")
+else:
+    sm.sendNext("#face0#Talk to Melange when you're ready.")

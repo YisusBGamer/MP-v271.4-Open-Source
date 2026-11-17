@@ -1,0 +1,17 @@
+# 36601 Start (Shield 1541200, Little Room): the shield gave no light; time for swordsmanship practice.
+execfile("scripts/quest/_mihile_story.py")
+
+me("(The first time Father showed me the shield...)")
+me("(The first time I touched it, he said he saw a #bfaint light#k.)")
+me("(He said that meant I could be the Knight of Light one day.)")
+me("(But now... Now, there's no light at all.)")
+me("(To become the Knight of Light, #bI need to awaken my true power#k.)")
+me("(Am I not training hard enough?)")
+me("(I need to hurry and become the Knight so my brother...)")
+me("(Bah, that must be the problem. I'm being too hasty.)")
+me("(That shield will shine when the time comes.)")
+me("(Father always says, 'Effort will never betray you.')")
+me("(Well, back to training.)")
+begin(parentID)
+sm.chatScript("Take the Beginner Warrior's Sword out of the Weapon Box.")
+sm.dispose()

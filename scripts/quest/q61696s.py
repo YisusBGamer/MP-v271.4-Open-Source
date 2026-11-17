@@ -1,0 +1,12 @@
+# Erel Light story: [Erel Light] Dark Whispers, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/24', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext("#face5##fc0xFFbfbfbf#(That monster... It's so familiar.)")
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/25', 100)
+sm.sendSay('#face9##fc0xFFbfbfbf#(It has to be...the one I saw all those years ago...)')
+sm.startQuestNoCheck(61696)
+sm.warp(693007102, 0)

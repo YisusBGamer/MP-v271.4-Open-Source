@@ -1,0 +1,13 @@
+# Erel Light story: [Erel Light] As Time Goes By, as GMS.
+sm.setSpeakerType(3)
+sm.setSpeakerID(0)
+sm.setParam(44)
+sm.setColor(1)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1090', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201711)
+sm.sendNext('#face0#Are you ready?')
+sm.setParam(36)
+sm.playExclSoundWithDownBGM('GL_Erel.img/ErelVoice/male/1091', 100)
+sm.setInnerOverrideSpeakerTemplateID(9201756)
+sm.sendSay('#face0#Yeah!')
+sm.warp(693007168, 0)

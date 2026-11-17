@@ -1,0 +1,11 @@
+# Portal script PL_WC_pt00.
+# Destinations come from the game's map data (the portal's own target, the portal on the other side that
+# leads here, or the room's exit to its town).
+DEST = {
+    (867123002, 3): (867123400, 1),  # Snowdrift Lodge / Path to Silver Mountain -> Snowdrift Lodge / Silver Mountain Slopes (reverse link)
+}
+
+dest = DEST.get((sm.getFieldID(), parentID))
+if dest is not None:
+    sm.warp(dest[0], dest[1])
+sm.dispose()
